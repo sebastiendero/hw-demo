@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Master</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="app.css">
+<link rel="stylesheet" href="strategies.css">
+<link rel="stylesheet" href="digest.css">
+<link rel="stylesheet" href="situation.css">
+</head>
+<body>
+<nav class="side" aria-label="Rubriques">
+  <div class="brand"><span class="logo">M</span>Master <span class="tag">perso</span></div>
+  <div class="grp">[ VEILLE ]</div>
+  <a href="#situation" data-view="situation" data-icon="radar">Situation</a>
+  <a href="#synthese" data-view="synthese" data-icon="book">Synthèse</a>
+  <a href="#detroits" data-view="detroits" data-icon="ship">Détroits</a>
+  <a href="#evenements" data-view="evenements" data-icon="list">Événements</a>
+  <a href="#developpements" data-view="developpements" data-icon="calendar">Développements</a>
+  <div class="grp">[ MARCHÉS ]</div>
+  <a href="#marches" data-view="marches" data-icon="chart">Marchés</a>
+  <a href="#recherche" data-view="recherche" data-icon="sparkles">Recherche IA</a>
+  <a href="#donnees" data-view="donnees" data-icon="layers">Données</a>
+  <a href="#strategies" data-view="strategies" data-icon="flask">Stratégies</a>
+  <div class="grp">[ SYSTÈME ]</div>
+  <a href="#agents" data-view="agents" data-icon="gauge">Agents</a>
+  <a href="#sources" data-view="sources" data-icon="database">Sources <span id="src-alert" class="cnt bad" hidden></span></a>
+  <div class="side-actions">
+    <button id="theme" class="ghost" type="button" data-icon="sun"><span>Thème clair</span></button>
+    <button id="logout" class="ghost" type="button" data-icon="logout"><span>Se déconnecter</span></button>
+  </div>
+  <p class="foot">Usage personnel · aucune opération réelle · heures en UTC</p>
+</nav>
+<main id="view"></main>
+<aside id="detail" class="detail" hidden aria-label="Détail">
+  <button id="detail-close" class="close" type="button" aria-label="Fermer" data-icon="x"></button>
+  <div id="detail-body"></div>
+</aside>
+<script src="vendor/lightweight-charts.standalone.production.js"></script>
+<script src="vendor/geo/d3-array.min.js"></script>
+<script src="vendor/geo/d3-geo.min.js"></script>
+<script src="vendor/geo/topojson-client.min.js"></script>
+<script src="situation.js"></script>
+<script src="strategies.js"></script>
+<script src="data.js"></script>
+<script src="markdown.js"></script>
+<script src="aihf.js"></script>
+<script src="fingpt.js"></script>
+<script src="agents.js"></script>
+<script src="digest.js"></script>
+<script src="static.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Hormuz Watch</title>
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css"
+      integrity="sha384-uTttxo/aOKbdE5RlD/SPzSDoDmNvGlUYPjONi2MN/b7c9HPSvW07OIuyP7uL6jxK" crossorigin="anonymous">
+<link rel="stylesheet" href="app.css?v=626a182f57">
+</head>
+<body>
+<header class="bar">
+  <div class="brand"><span class="mark"></span>HORMUZ<b>WATCH</b></div>
+  <div class="status" id="status">—</div>
+  <button class="srcchip" id="srcchip" title="Santé et recoupement des sources">Sources —</button>
+  <div class="spacer"></div>
+  <button class="link" id="tilt" type="button">Vue 3D</button>
+  <button class="link" id="toggle-all" type="button" title="Masquer ou afficher tous les panneaux (touche H)">Masquer les panneaux</button>
+  <div class="clock"><span id="clock">--:--:--</span> UTC</div>
+  <div class="live" id="live"><span class="dot"></span><span id="live-text">Connexion…</span></div>
+  <a class="link" href="rapport.html" id="report-link">Rapport détaillé</a>
+</header>
+
+<main class="stage">
+  <div id="map"></div>
+
+  <aside class="panel left" id="panel-left" aria-label="Indicateurs">
+    <section class="card">
+      <h2>Passages par jour</h2>
+      <div class="kpi-row">
+        <div class="kpi"><div class="v" id="k-visible">—</div><div class="k">balises allumées · 7 j</div></div>
+        <div class="kpi"><div class="v accent" id="k-estimated">—</div><div class="k">estimés, balises éteintes incluses</div></div>
+      </div>
+      <div class="range" id="r-transits"></div>
+      <div class="spark" id="spark"></div>
+      <div class="foot" id="spark-foot"></div>
+    </section>
+
+    <section class="card">
+      <h2>Attente prévue si j'arrive maintenant</h2>
+      <div class="wait">
+        <div class="wait-row"><span class="dir">→ Golfe</span><span class="v" id="w-in">—</span></div>
+        <div class="range" id="r-in"></div>
+        <div class="wait-row"><span class="dir">→ golfe d'Oman</span><span class="v" id="w-out">—</span></div>
+        <div class="range" id="r-out"></div>
+      </div>
+      <div class="foot">Loi de Little : file déclarée ÷ passages par jour, trois scénarios de débit.</div>
+    </section>
+
+    <section class="card">
+      <h2>Flotte à l'arrêt</h2>
+      <div class="kpi-row">
+        <div class="kpi"><div class="v" id="k-fleet">—</div><div class="k">pétroliers et cargos</div></div>
+        <div class="kpi"><div class="v" id="k-tankers">—</div><div class="k">dont pétroliers</div></div>
+      </div>
+      <div class="bars" id="zone-bars"></div>
+    </section>
+
+    <section class="card">
+      <h2>Balises coupées</h2>
+      <div class="kpi-grid">
+        <div class="kpi"><div class="v" id="k-silent">—</div><div class="k">silencieux &gt; 2 h</div></div>
+        <div class="kpi"><div class="v warn" id="k-likely">—</div><div class="k">coupures probables</div></div>
+        <div class="kpi"><div class="v" id="k-back">—</div><div class="k">réapparitions</div></div>
+        <div class="kpi"><div class="v warn" id="k-dark">—</div><div class="k">passages sans balise déduits</div></div>
+      </div>
+      <div class="foot" id="k-lost"></div>
+    </section>
+
+    <section class="card">
+      <h2>Ports et contournement</h2>
+      <div class="ports" id="ports"></div>
+      <div class="foot">Pétroliers par jour, 7 derniers jours (IMF PortWatch) · avant-guerre entre parenthèses</div>
+    </section>
+
+    <section class="card">
+      <h2>Radar satellite</h2>
+      <div class="radar-line" id="radar-line">—</div>
+      <div class="foot" id="radar-next"></div>
+    </section>
+  </aside>
+
+  <button class="edge-toggle left" id="toggle-left" type="button" aria-controls="panel-left"></button>
+  <button class="edge-toggle right" id="toggle-right" type="button" aria-controls="panel-right"></button>
+
+  <div class="layers" id="layers" role="group" aria-label="Calques"></div>
+
+  <aside class="panel right" id="panel-right" aria-label="Fil en direct">
+    <section class="card feed-card">
+      <div class="feed-head">
+        <h2>Fil en direct</h2>
+        <div class="chips" id="feed-filter"></div>
+      </div>
+      <ol class="feed" id="feed"></ol>
+    </section>
+  </aside>
+
+  <div class="timebar" id="timebar" aria-label="Remonter le temps">
+    <button class="play" id="play" aria-label="Lecture">▶</button>
+    <div class="tl">
+      <div class="tl-spark" id="tl-spark"></div>
+      <input type="range" id="tl-range" min="0" max="0" value="0" step="1" aria-label="Instant affiché">
+      <div class="tl-ticks" id="tl-ticks"></div>
+      <div class="tl-axis" id="tl-axis"></div>
+    </div>
+    <div class="tl-now">
+      <div class="tl-ranges" id="tl-ranges" role="group" aria-label="Période"></div>
+      <div class="tl-time" id="tl-time">—</div><div class="tl-sub" id="tl-sub">24 dernières heures</div>
+    </div>
+    <button class="golive" id="golive">Direct</button>
+    <button class="tl-toggle" id="toggle-timebar" type="button"></button>
+  </div>
+
+  <section class="drawer" id="drawer">
+    <nav class="tabs" id="tabs" role="tablist"></nav>
+    <button class="drawer-toggle" id="drawer-toggle" aria-label="Réduire ou agrandir">▾</button>
+    <div class="tab-body" id="tab-body"></div>
+  </section>
+
+  <aside class="detail" id="detail" hidden aria-live="polite">
+    <div class="detail-head">
+      <button class="icon" id="detail-back" aria-label="Retour" hidden>←</button>
+      <div class="detail-kicker" id="detail-kicker"></div>
+      <button class="icon" id="detail-close" aria-label="Fermer">✕</button>
+    </div>
+    <h3 class="detail-title" id="detail-title"></h3>
+    <div class="detail-body" id="detail-body"></div>
+  </aside>
+
+  <div class="legend" id="legend"></div>
+  <div class="tooltip" id="tip" hidden></div>
+</main>
+
+<div class="gate" id="gate" hidden>
+  <form id="gate-form">
+    <div class="brand big"><span class="mark"></span>HORMUZ<b>WATCH</b></div>
+    <p>Accès protégé. Saisissez le mot de passe.</p>
+    <input id="gate-pw" type="password" autocomplete="current-password" required>
+    <button type="submit">Ouvrir</button>
+    <p class="err" id="gate-err"></p>
+  </form>
+</div>
+
+<script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"
+        integrity="sha384-5+cfbwT0iiub6VsQAdn6yz16nr6sDiQoHx6tm4O8OVYXHYOxcffFmCJBL0dgdvGp" crossorigin="anonymous"></script>
+<script src="app.js?v=626a182f57"></script>
+</body>
+</html>

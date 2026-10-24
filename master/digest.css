@@ -1,0 +1,7 @@
+/* Rubrique « Synthèse » (digest.js) : une phrase par ligne, avec son niveau, la mention IA et ses liens. */
+ul.digest { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+ul.digest li { line-height: 1.55; }
+ul.digest li .lv, ul.digest li .st { vertical-align: middle; }
+ul.digest q { font-style: italic; color: var(--ink-3); }
+ul.digest q::before { content: "« "; } ul.digest q::after { content: " »"; }
+ul.digest a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
