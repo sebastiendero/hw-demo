@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Master</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="app.css?v=9efd134904">
+<link rel="stylesheet" href="strategies.css?v=579e3d0591">
+<link rel="stylesheet" href="digest.css?v=370ba24ff4">
+<link rel="stylesheet" href="situation.css?v=89d026c9f3">
+<link rel="stylesheet" href="themes.css?v=f1524eace4">
+<link rel="stylesheet" href="funnel.css?v=5e0f6ef0df">
+<link rel="stylesheet" href="paper.css?v=48e2490130">
+<link rel="stylesheet" href="france.css?v=642d7fd73b">
+<link rel="stylesheet" href="maestro.css?v=964c4fe7f4">
+<link rel="stylesheet" href="sujets.css?v=2a40d4b27c">
+<link rel="stylesheet" href="osint.css?v=759e53a371">
+</head>
+<body>
+<nav class="side" aria-label="Rubriques">
+  <div class="brand"><span class="logo">M</span><span class="brand-name">Master</span> <span class="tag">perso</span>
+    <button id="rail" class="rail-btn" type="button" aria-label="Réduire le menu" title="Réduire le menu" data-icon="menu"></button></div>
+  <span class="nav-ind" aria-hidden="true"></span>
+  <a href="#maestro" data-view="maestro" data-icon="sparkles" class="nav-maestro">Maestro <span class="cnt ia">IA</span></a>
+  <section class="nav-grp" data-grp="veille">
+    <button class="grp" type="button" aria-expanded="true" data-icon="chevron-right"><span>Veille</span></button>
+    <div class="grp-items"><div>
+      <a href="#situation" data-view="situation" data-icon="radar">Situation</a>
+      <a href="#actualite" data-view="actualite" data-icon="book">Actualité</a>
+      <a href="#tableau" data-view="tableau" data-icon="layers">Tableau</a>
+      <a href="#pulse" data-view="pulse" data-icon="gauge">Pulse</a>
+      <a href="#tape" data-view="tape" data-icon="list">Tape</a>
+      <a href="#cinema" data-view="cinema" data-icon="eye">Cinéma</a>
+      <a href="#rapports" data-view="rapports" data-icon="book">Rapports</a>
+      <a href="#previsions" data-view="previsions" data-icon="trend-up">Prévisions</a>
+      <a href="#france" data-view="france" data-icon="flag">France politique</a>
+      <a href="#osiris" data-view="osiris" data-icon="radar">OSIRIS</a>
+    </div></div>
+  </section>
+  <section class="nav-grp" data-grp="detroits">
+    <button class="grp" type="button" aria-expanded="true" data-icon="chevron-right"><span>Énergie &amp; détroits</span></button>
+    <div class="grp-items"><div>
+      <a href="#ormuz" data-view="ormuz" data-icon="route">Ormuz en direct <span id="nav-ormuz" class="cnt" hidden></span></a>
+    </div></div>
+  </section>
+  <section class="nav-grp" data-grp="marches">
+    <button class="grp" type="button" aria-expanded="true" data-icon="chevron-right"><span>Marchés</span></button>
+    <div class="grp-items"><div>
+      <a href="#marches" data-view="marches" data-icon="chart">Marchés</a>
+      <a href="#strategies" data-view="strategies" data-icon="flask">Stratégies</a>
+      <a href="#desks" data-view="desks" data-icon="gauge">Desks</a>
+      <a href="#entonnoir" data-view="entonnoir" data-icon="filter">Entonnoir</a>
+      <a href="#paper" data-view="paper" data-icon="chart-up">Paper Alpaca</a>
+      <a href="#recherche" data-view="recherche" data-icon="sparkles">Recherche IA</a>
+    </div></div>
+  </section>
+  <section class="nav-grp" data-grp="socle">
+    <button class="grp" type="button" aria-expanded="true" data-icon="chevron-right"><span>Socle</span></button>
+    <div class="grp-items"><div>
+      <a href="#donnees" data-view="donnees" data-icon="layers">Données</a>
+      <a href="#sources" data-view="sources" data-icon="database">Sources <span id="src-alert" class="cnt bad" hidden></span></a>
+      <a href="#agents" data-view="agents" data-icon="gauge">Agents</a>
+      <a href="#outils" data-view="outils" data-icon="search">Outils</a>
+    </div></div>
+  </section>
+  <div class="side-actions">
+    <button id="theme" class="ghost" type="button" data-icon="sun"><span>Thème clair</span></button>
+    <button id="logout" class="ghost" type="button" data-icon="logout"><span>Se déconnecter</span></button>
+  </div>
+  <p class="foot">Usage personnel · aucune opération réelle · heures en UTC</p>
+</nav>
+<div id="progress" class="progress" aria-hidden="true"></div>
+<main id="view"></main>
+<aside id="detail" class="detail" hidden aria-label="Détail">
+  <button id="detail-close" class="close" type="button" aria-label="Fermer" data-icon="x"></button>
+  <div id="detail-body"></div>
+</aside>
+<script src="vendor/lightweight-charts.standalone.production.js?v=e21cc5caa0"></script>
+<script src="vendor/geo/d3-array.min.js?v=80aa70d0cd"></script>
+<script src="vendor/geo/d3-geo.min.js?v=23e574f1e8"></script>
+<script src="vendor/geo/topojson-client.min.js?v=25cd02ae48"></script>
+<script src="couches.js?v=c9c6acc0da"></script>
+<script src="dessin.js?v=4ef2e6587e"></script>
+<script src="situation.js?v=01b48dc1ff"></script>
+<script src="situation-monde.js?v=bb7f354df2"></script>
+<script src="situation-detroits.js?v=a3c838b246"></script>
+<script src="sujets.js?v=add02cfbff"></script>
+<script src="pulse.js?v=597b6b8ebe"></script>
+<script src="tape.js?v=d08511dc85"></script>
+<script src="cinema.js?v=687f21ce2d"></script>
+<script src="outils.js?v=733e209e41"></script>
+<script src="osiris.js?v=95af742b4e"></script>
+<script src="rapports.js?v=8415269edd"></script>
+<script src="previsions.js?v=314237945b"></script>
+<script src="tableau.js?v=21ccb140b7"></script>
+<script src="strategies.js?v=8356a142c9"></script>
+<script src="data.js?v=3e98bcdaf1"></script>
+<script src="markdown.js?v=0294f60327"></script>
+<script src="aihf.js?v=85171c3bb5"></script>
+<script src="fingpt.js?v=3cb37e9f80"></script>
+<script src="agents.js?v=cef059a81d"></script>
+<script src="digest.js?v=8ce122bef4"></script>
+<script src="themes.js?v=0e4617338a"></script>
+<script src="france-carte.js?v=8359b5317e"></script>
+<script src="france-actualite.js?v=3cd6509f53"></script>
+<script src="france-lois.js?v=c1e78c1d2a"></script>
+<script src="france-candidats.js?v=089dfcefab"></script>
+<script src="france-grandes-questions.js?v=6921f0ad79"></script>
+<script src="france-explorer.js?v=771a1d42c7"></script>
+<script src="france-projections.js?v=3b12722b43"></script>
+<script src="france-salaire-calc.js?v=c57026c764"></script>
+<script src="france-salaire.js?v=03ab652b02"></script>
+<script src="france-interroger.js?v=2ccc91b1b2"></script>
+<script src="france-diagnostic.js?v=8e6d0afe71"></script>
+<script src="france-marches.js?v=25dab21ed2"></script>
+<script src="france.js?v=e37ba7d9bb"></script>
+<script src="desks.js?v=b39261f72e"></script>
+<script src="funnel.js?v=bcf21da483"></script>
+<script src="paper.js?v=08819b7e8f"></script>
+<script src="marches-tv.js?v=879c978d84"></script>
+<script src="predictions.js?v=d166cd6165"></script>
+<script src="maestro-local.js?v=112d6efc92"></script>
+<script src="maestro.js?v=45f1f9cb7b"></script>
+<script src="static.js?v=eae51ca5d6"></script>
+<script src="app.js?v=e24f9962da"></script>
+</body>
+</html>

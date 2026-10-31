@@ -1,0 +1,201 @@
+/* Rubrique « France politique » (france.js). .fr-view : classe posée sur la page ; les autres pages ne sont pas touchées. */
+#view .page.fr-view > .seg { margin-top: 12px; }
+.fr-body { display: grid; gap: 12px; margin-top: 12px; }
+.fr-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 12px; }
+.fr-ind .card-b { display: grid; gap: 8px; align-content: start; }
+.fr-top { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.fr-v { font-size: 24px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.fr-v small { font-size: 12px; font-weight: 400; color: var(--ink-3); }
+.fr-chart { height: 160px; }
+.fr-legend { display: flex; flex-wrap: wrap; gap: 4px 12px; font: 11px var(--mono); color: var(--ink-3); }
+.fr-legend .fr-fr { color: var(--acc); }
+.fr-steps { list-style: none; margin: 0 0 10px; padding: 0; display: grid; gap: 6px; }
+.fr-steps li { display: grid; grid-template-columns: 92px 1fr; column-gap: 10px; }
+.fr-steps li .muted { grid-column: 2; font-size: 12px; }
+.fr-chiffres td.num, .fr-chiffres th.num { text-align: right; }
+.fr-chiffres td small { font-size: 11px; }
+.fr-legende { font-size: 12px; margin: 6px 0 2px; }
+.fr-lecture { font-size: 13px; margin: 4px 0; }
+.fr-doc { padding: 8px 0 10px; border-top: 1px solid var(--line-2); }
+.fr-doc:first-of-type { border-top: 0; padding-top: 0; }
+.fr-doc h4 { margin: 0 0 2px; font-size: 14px; font-weight: 600; }
+.fr-quote { margin: 8px 0 0; padding: 4px 0 4px 10px; border-left: 2px solid var(--line-2); font-size: 13px; display: grid; gap: 2px; }
+.fr-sujet { font: 11px var(--mono); color: var(--ink-3); text-transform: uppercase; }
+.fr-verif { font-size: 12px; margin-top: 8px; }
+.fr-date { font: 12px var(--mono); color: var(--ink-2); }
+.fr-link { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+
+/* Carte (france-carte.js). Palette de 4 couleurs validée toutes paires (dataviz/validate_palette.js) : sombre sur
+   #0f0f11, clair sur #ffffff (contraste faible du jaune et du magenta en clair : tableau et infobulle obligatoires). */
+:root { --fr-c1: #3987e5; --fr-c2: #c98500; --fr-c3: #d55181; --fr-c4: #008300; --fr-other: #52525b; --fr-none: #27272a; }
+:root[data-theme="light"] { --fr-c1: #2a78d6; --fr-c2: #eda100; --fr-c3: #e87ba4; --fr-c4: #008300; --fr-other: #a1a1aa; --fr-none: #e4e4e7; }
+/* Marge du premier sur le second : une teinte (bleu), 5 classes, de la plus serrée (proche de la surface) à la plus
+   large ; validées (scripts/validate_palette.js --ordinal) sur #0f0f11 et #ffffff. */
+:root { --fr-s1: #184f95; --fr-s2: #256abf; --fr-s3: #3987e5; --fr-s4: #6da7ec; --fr-s5: #b7d3f6; }
+:root[data-theme="light"] { --fr-s1: #86b6ef; --fr-s2: #5598e7; --fr-s3: #2a78d6; --fr-s4: #1c5cab; --fr-s5: #104281; }
+.fr-indic { display: grid; grid-template-columns: auto 1fr; gap: 2px 10px; margin: 0; font-size: 12px; }
+.fr-indic dt { color: var(--ink-3); } .fr-indic dd { margin: 0; }
+.fr-leg-title { flex-basis: 100%; font-size: 12px; }
+.fr-controls { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
+.fr-table-btn { margin-left: auto; }
+.fr-map-grid { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 12px; align-items: start; }
+@media (max-width: 1100px) { .fr-map-grid { grid-template-columns: 1fr; } }
+.fr-map { position: relative; min-height: 520px; }
+.fr-svg { width: 100%; height: auto; display: block; }
+.fr-shape { stroke: var(--card); stroke-width: .5; cursor: pointer; }
+.fr-shape:hover, .fr-shape:focus { stroke: var(--ink); stroke-width: 1.2; outline: none; }
+.fr-canvas { display: block; cursor: pointer; }
+.fr-inset { fill: none; stroke: var(--line); }
+.fr-inset-l { font: 11px var(--mono); fill: var(--ink-3); }
+.fr-tip { position: absolute; pointer-events: none; max-width: 240px; padding: 6px 8px; border-radius: var(--r-ctl);
+  background: var(--muted-2); color: var(--ink); font-size: 12px; box-shadow: var(--shadow); z-index: 2; }
+.fr-fiche { padding: 12px 14px; display: grid; gap: 6px; align-content: start; max-height: 760px; overflow: auto; }
+.fr-fiche h3 { margin: 0; } .fr-fiche h4 { margin: 8px 0 2px; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--ink-3); }
+.fr-fiche p { margin: 0; }
+.fr-top5 { margin: 4px 0 0; padding-left: 18px; font-size: 12px; color: var(--ink-2); }
+.fr-warn { color: var(--warn); font-size: 12px; }
+.fr-src { margin: 0; padding-left: 18px; font-size: 12px; }
+.fr-legend-map { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; }
+.fr-leg { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; background: none; border: 1px solid var(--line);
+  border-radius: var(--r-ctl); padding: 3px 8px; color: var(--ink-2); cursor: pointer; }
+.fr-leg[aria-pressed="true"] { border-color: var(--acc); color: var(--ink); }
+.fr-leg i { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+.fr-leg-note { flex-basis: 100%; margin: 0; font-size: 12px; }
+.fr-prov { font-size: 12px; margin: 0; }
+
+/* Actualité (france-actualite.js) */
+.fr-select { height: 32px; border-radius: var(--r-ctl); border: 1px solid var(--line); background: var(--card); color: var(--ink); padding: 0 8px; }
+.fr-bars { display: grid; gap: 6px; }
+.fr-bar { display: grid; grid-template-columns: 180px minmax(0, 1fr) 96px; gap: 10px; align-items: center; font-size: 12px; }
+.fr-bar-l { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.fr-bar-t { height: 10px; background: var(--muted); border-radius: 4px; overflow: hidden; }
+.fr-bar-t i { display: block; height: 100%; background: var(--acc); border-radius: 0 4px 4px 0; }
+.fr-bar-v { font: 12px var(--mono); color: var(--ink-2); text-align: right; }
+.fr-sujet { padding: 10px 0; border-top: 1px solid var(--line); display: grid; gap: 6px; }
+.fr-sujet:first-child { border-top: 0; padding-top: 0; }
+.fr-sujet h3 { margin: 0; font-size: 14px; font-weight: 600; }
+.fr-h3 { margin: 12px 0 6px; font-size: 13px; font-weight: 600; }
+.fr-sujet-h { display: flex; gap: 10px; align-items: center; font-size: 12px; }
+.fr-chips, .fr-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.fr-chip { font-size: 12px; padding: 2px 8px; border: 1px solid var(--line); border-radius: 999px; color: var(--ink-2); text-decoration: none; }
+.fr-chip:hover { color: var(--ink); border-color: var(--line-2); }
+.fr-tag { font-size: 11px; padding: 1px 6px; border-radius: 4px; background: var(--muted); color: var(--ink-2); }
+.fr-tag-t { background: none; border: 1px dashed var(--line-2); }
+.fr-tag-i { background: none; border: 1px solid var(--line-2); color: var(--ink); }
+.fr-tag-m { background: none; border: 1px dotted var(--line-2); }
+.fr-chip-sec { border-style: dashed; font-style: italic; }
+.fr-chip-inst { border-color: var(--line-2); color: var(--ink); }
+
+/* Candidats (france-candidats.js). Courbes : palette catégorielle de référence (8 teintes, paires adjacentes validées). */
+:root { --fr-l1: #3987e5; --fr-l2: #d95926; --fr-l3: #199e70; --fr-l4: #c98500; --fr-l5: #d55181; --fr-l6: #008300; --fr-l7: #9085e9; --fr-l8: #e66767; }
+:root[data-theme="light"] { --fr-l1: #2a78d6; --fr-l2: #eb6834; --fr-l3: #1baf7a; --fr-l4: #eda100; --fr-l5: #e87ba4; --fr-l6: #008300; --fr-l7: #4a3aa7; --fr-l8: #e34948; }
+.fr-mesure { padding: 10px 0; border-top: 1px solid var(--line); display: grid; gap: 4px; }
+.fr-mesure:first-of-type { border-top: 0; }
+.fr-resume { margin: 0; font-weight: 500; }
+.fr-citation { margin: 0; padding: 4px 10px; border-left: 2px solid var(--line-2); color: var(--ink-2); font-size: 13px; font-style: italic; }
+.fr-src-line { margin: 0; font-size: 12px; }
+.fr-chiffrage-mesure { padding-left: 10px; border-left: 2px solid var(--fr-l1); }
+.fr-theme-h { margin: 16px 0 4px; font-size: 13px; text-transform: uppercase; letter-spacing: .05em; color: var(--ink-3); }
+.fr-compare { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; align-items: start; }
+.fr-chart-lg { height: 340px; }
+
+/* Interroger (france-interroger.js) */
+.fr-ask { display: flex; gap: 8px; }
+.fr-input { flex: 1; height: 34px; border-radius: var(--r-ctl); border: 1px solid var(--line); background: var(--card); color: var(--ink); padding: 0 10px; }
+.fr-chat { display: grid; gap: 8px; }
+.fr-q { margin: 12px 0 0; font-weight: 600; }
+.fr-answer { padding: 10px 12px; border: 1px solid var(--line); border-radius: var(--r-card); background: var(--card); }
+
+/* Diagnostic (france-diagnostic.js) */
+.fr-sources { display: grid; gap: 2px; margin-top: 6px; font-size: 12px; }
+.fr-source summary { cursor: pointer; color: var(--ink-2); }
+.fr-dl { display: grid; grid-template-columns: 160px 1fr; gap: 4px 12px; margin: 4px 0; font-size: 13px; }
+.fr-dl dt { color: var(--ink-3); }
+.fr-dl dd { margin: 0; }
+.fr-pos { padding: 8px 10px; border: 1px dashed var(--line-2); border-radius: var(--r-card); }
+.fr-matrix { font-size: 12px; }
+.fr-matrix-wrap { overflow-x: auto; }
+.fr-matrix th, .fr-matrix td { padding-left: 4px; padding-right: 4px; }
+.fr-mx-h, .fr-mx { text-align: center; }
+.fr-mx.go { cursor: pointer; font-weight: 600; white-space: nowrap; }
+.fr-mx.go:hover { background: var(--muted); }
+.fr-matrix-detail { margin-top: 8px; font-size: 13px; }
+.fr-mx.go:focus-visible { outline: 2px solid var(--acc); outline-offset: -2px; }
+.fr-mx-hors { border-left: 1px solid var(--line-2); }
+.fr-pos-manquante { border-style: dotted; }
+.fr-cible { outline: 2px solid var(--acc); outline-offset: 2px; border-radius: var(--r-card); }
+
+/* Explorer, dossier d'une mesure et questions sans IA (france-explorer.js) */
+.fr-explorer { flex-wrap: wrap; align-items: center; margin: 8px 0; }
+.fr-explorer .fr-input { min-width: 280px; }
+.fr-results { display: grid; gap: 12px; margin-top: 8px; }
+.fr-count { margin: 4px 0; font-weight: 600; }
+.fr-hit { border-top: 1px solid var(--line); padding-top: 6px; }
+.fr-hit .fr-mesure { border-top: 0; padding-top: 2px; }
+.fr-hit-h { margin: 0; font-size: 13px; color: var(--ink-3); }
+.fr-questions { margin: 0; padding-left: 20px; display: grid; gap: 6px; }
+.fr-questions .fr-q { margin-top: 4px; }
+.fr-list { margin: 4px 0; padding-left: 18px; display: grid; gap: 4px; font-size: 13px; }
+.fr-group { border-top: 1px solid var(--line); padding: 6px 0; }
+.fr-group summary { cursor: pointer; font-weight: 600; }
+.fr-levier { border-top: 1px solid var(--line); padding: 6px 0; }
+.fr-levier p { margin: 2px 0; font-size: 13px; }
+.fr-cout-net { margin: 0 0 8px; font-weight: 600; font-size: 13px; }
+.fr-levier-ligne { margin: 4px 0 0; font-size: 12px; }
+/* Calculateur de salaire (F10, france-salaire.js) */
+.fr-sal-form { align-items: flex-end; }
+.fr-sal-field { display: grid; gap: 4px; font-size: 12px; }
+.fr-sal-field[hidden] { display: none; }
+.fr-sal-field .fr-input { flex: none; width: 150px; font-variant-numeric: tabular-nums; }
+.fr-sal-check { display: inline-flex; align-items: center; gap: 6px; height: 34px; font-size: 13px; color: var(--ink-2); cursor: pointer; }
+.fr-sal-check input { accent-color: var(--acc); margin: 0; }
+.fr-sal-check:has(input:disabled) { color: var(--ink-3); cursor: default; }
+
+/* Économie (france.js) : santé des sources, comparaison aux voisins, seuil de fraîcheur, tableaux complémentaires. */
+.fr-sources { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; font-size: 12px; }
+.fr-peers { font-size: 12px; color: var(--ink-2); }
+.fr-seuil { font-size: 11px; }
+.fr-notations td, .fr-cor td { vertical-align: top; }
+/* Curseurs d'hypothèses des projections (france-projections.js). */
+.fr-cur { display: grid; grid-template-columns: minmax(200px, 1.3fr) minmax(160px, 2fr) 64px minmax(150px, 1fr); gap: 6px 12px; align-items: center; }
+@media (max-width: 900px) { .fr-cur { grid-template-columns: 1fr 64px; } .fr-cur label, .fr-cur .muted { grid-column: 1 / -1; } }
+.fr-cur input[type="range"] { width: 100%; accent-color: var(--acc); }
+.fr-cur input[type="range"]:disabled { opacity: .45; }
+.fr-cur-v { font: 12px var(--mono); font-variant-numeric: tabular-nums; text-align: right; }
+.fr-cur-v.fr-cur-mod { color: var(--acc); font-weight: 600; }
+.fr-cur .muted { font-size: 12px; }
+.fr-cur-reset { margin-top: 10px; }
+.callout + .fr-cur { margin-top: 10px; }
+/* Onglet Marchés : légende des courbes en base 100 (mêmes couleurs que les lignes) */
+.fr-key { display: inline-flex; align-items: center; gap: 5px; }
+.fr-sw { display: inline-block; width: 12px; height: 3px; border-radius: 2px; }
+.fr-sw1 { background: var(--fr-l1); } .fr-sw2 { background: var(--fr-l2); } .fr-sw3 { background: var(--fr-l3); }
+.fr-sw4 { background: var(--fr-l4); } .fr-sw5 { background: var(--fr-l5); } .fr-sw6 { background: var(--fr-l6); }
+.fr-sw7 { background: var(--fr-l7); } .fr-sw8 { background: var(--fr-l8); }
+.fr-base100 + .tip { top: 8px; }
+.fr-note { margin: 6px 0 0; font-size: 12px; }
+/* Fiche candidat : sélecteur de date du programme (historique des versions) */
+.fr-versions { margin: 0 0 12px; display: grid; gap: 6px; }
+.fr-versions label { display: flex; align-items: center; gap: 8px; }
+/* Sondages, 2nd tour : un panneau par duel */
+.fr-duels { display: grid; grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 12px; }
+
+/* Grandes questions et même question à tous (france-grandes-questions.js, france-explorer.js) */
+.fr-gq-theme { margin: 18px 0 6px; font-size: 14px; color: var(--ink-3); font-weight: 600; }
+.fr-gq-list { display: grid; gap: 4px; }
+.fr-gq-card { border: 1px solid var(--line); border-radius: var(--r-card); padding: 10px 12px; display: grid; gap: 6px; margin-bottom: 8px; }
+.fr-gq-card h3 { margin: 0; font-size: 15px; }
+.fr-gq-etat { font-size: 13px; display: grid; gap: 4px; }
+.fr-gq-etat p { margin: 0; }
+.fr-gq-rows { display: grid; }
+.fr-gq-row { border-top: 1px solid var(--line); padding: 8px 4px; display: grid; gap: 4px; }
+.fr-gq-row:first-child { border-top: 0; }
+.fr-gq-row h4, .fr-tous-g h4 { margin: 0; font-size: 13px; }
+.fr-gq-pos { font-weight: 600; }
+.fr-gq-none { margin: 0; justify-self: start; color: var(--ink-3); background: var(--muted); padding: 1px 8px; border-radius: 4px; font-size: 12px; }
+.fr-gq-matrix th.fr-mx-h { min-width: 22px; }
+.fr-gq-matrix td.fr-mx { color: var(--ink); }
+.fr-gq-matrix td.fr-mx.muted { color: var(--ink-3); }
+.fr-gq-legend { columns: 2; font-size: 12px; margin: 8px 0 0; padding-left: 22px; }
+.fr-tous-groupes { display: grid; gap: 0; }
+.fr-tous-g { border-top: 1px solid var(--line); padding: 8px 0; display: grid; gap: 4px; }

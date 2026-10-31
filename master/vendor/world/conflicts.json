@@ -1,0 +1,11025 @@
+[
+ {
+  "id": "russie-ukraine",
+  "name_fr": "Guerre russo-ukrainienne",
+  "ucdp_conflict_ids": [
+   453,
+   13243
+  ],
+  "ucdp_conflict_names": [
+   "Government of Russia (Soviet Union) - Civilians",
+   "Russia - Ukraine"
+  ],
+  "countries": [
+   "ua",
+   "ru"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 90448,
+   "unilatéral": 32
+  },
+  "sides": {
+   "a": [
+    "Government of Russia (Soviet Union)"
+   ],
+   "b": [
+    "Government of Ukraine"
+   ]
+  },
+  "start": 2014,
+  "episode_start": 2022,
+  "ucdp_main_conflict_id": 13243,
+  "deaths_12m": 90480,
+  "deaths_12m_provisional": 5066,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    9284
+   ],
+   [
+    "2024-11",
+    9373
+   ],
+   [
+    "2024-12",
+    9177
+   ],
+   [
+    "2025-01",
+    8125
+   ],
+   [
+    "2025-02",
+    6555
+   ],
+   [
+    "2025-03",
+    6814
+   ],
+   [
+    "2025-04",
+    5922
+   ],
+   [
+    "2025-05",
+    5321
+   ],
+   [
+    "2025-06",
+    5793
+   ],
+   [
+    "2025-07",
+    7619
+   ],
+   [
+    "2025-08",
+    20893
+   ],
+   [
+    "2025-09",
+    1696
+   ],
+   [
+    "2025-10",
+    5109
+   ],
+   [
+    "2025-11",
+    10761
+   ],
+   [
+    "2025-12",
+    10157
+   ],
+   [
+    "2026-01",
+    13394
+   ],
+   [
+    "2026-02",
+    7491
+   ],
+   [
+    "2026-03",
+    7889
+   ],
+   [
+    "2026-04",
+    7027
+   ],
+   [
+    "2026-05",
+    6766
+   ],
+   [
+    "2026-06",
+    4891
+   ],
+   [
+    "2026-07",
+    5058
+   ],
+   [
+    "2026-08",
+    5705
+   ],
+   [
+    "2026-09",
+    6232
+   ]
+  ],
+  "last_event": "2026-10-01",
+  "center": [
+   32.493,
+   48.961
+  ],
+  "displaced": {
+   "refugees": 5224131,
+   "idps": 3712000,
+   "asylum_seekers": 26583,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ua"
+  },
+  "summary_fr": "L'invasion de l'Ukraine par la Russie est un conflit déclenché le 24 février 2022 sur l'ordre du président russe Vladimir Poutine, à partir de la Russie, de la Biélorussie et des territoires ukrainiens occupés par les Russes depuis le début de la guerre russo-ukrainienne en 2014, à savoir la Crimée (annexée par la Russie) et les républiques populaires autoproclamées de Donetsk et de Lougansk.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Invasion_de_l'Ukraine_par_la_Russie",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=UKR&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Invasion_de_l'Ukraine_par_la_Russie"
+  ]
+ },
+ {
+  "id": "soudan",
+  "name_fr": "Guerre civile soudanaise",
+  "ucdp_conflict_ids": [
+   145,
+   309,
+   453,
+   480,
+   4634,
+   4974,
+   9714,
+   13656,
+   13922,
+   14836,
+   16712,
+   16916,
+   16929,
+   16950,
+   17009,
+   17044,
+   17051
+  ],
+  "ucdp_conflict_names": [
+   "XXX625 - XXX625",
+   "Sudan: Government",
+   "Government of Russia (Soviet Union) - Civilians",
+   "Government of Sudan - Civilians",
+   "Habaniya  - Rizeigat Baggara",
+   "Misseriya - Ngok Dinka",
+   "Tarjam - Beni Halba Baggara",
+   "Beni Halba Baggara - Salamat Baggara",
+   "Fulani - Masalit",
+   "Farmers (Sudan) - Herders (Sudan)",
+   "SFA - Civilians",
+   "Awlad Umm Salama (Rizeigat) - Al-Qadiani (Rizeigat)",
+   "Salamat Baggara - Nuer",
+   "Atoro - SFA",
+   "Nuwaiba - Salamat Baggara",
+   "Salamat Baggara - Shurfa",
+   "Mahamid - Salamat Baggara"
+  ],
+  "countries": [
+   "sd"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 5857,
+   "non étatique": 306,
+   "unilatéral": 60849
+  },
+  "sides": {
+   "a": [
+    "Government of Sudan"
+   ],
+   "b": [
+    "SFA"
+   ]
+  },
+  "start": 1971,
+  "episode_start": 2020,
+  "ucdp_main_conflict_id": 309,
+  "deaths_12m": 67012,
+  "deaths_12m_provisional": 474,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    1332
+   ],
+   [
+    "2024-11",
+    734
+   ],
+   [
+    "2024-12",
+    861
+   ],
+   [
+    "2025-01",
+    1905
+   ],
+   [
+    "2025-02",
+    994
+   ],
+   [
+    "2025-03",
+    1003
+   ],
+   [
+    "2025-04",
+    3150
+   ],
+   [
+    "2025-05",
+    2066
+   ],
+   [
+    "2025-06",
+    364
+   ],
+   [
+    "2025-07",
+    1132
+   ],
+   [
+    "2025-08",
+    1053
+   ],
+   [
+    "2025-09",
+    757
+   ],
+   [
+    "2025-10",
+    61369
+   ],
+   [
+    "2025-11",
+    611
+   ],
+   [
+    "2025-12",
+    770
+   ],
+   [
+    "2026-01",
+    1060
+   ],
+   [
+    "2026-02",
+    325
+   ],
+   [
+    "2026-03",
+    966
+   ],
+   [
+    "2026-04",
+    432
+   ],
+   [
+    "2026-05",
+    392
+   ],
+   [
+    "2026-06",
+    239
+   ],
+   [
+    "2026-07",
+    319
+   ],
+   [
+    "2026-08",
+    252
+   ],
+   [
+    "2026-09",
+    277
+   ]
+  ],
+  "last_event": "2026-10-04",
+  "center": [
+   25.636,
+   13.556
+  ],
+  "displaced": {
+   "refugees": 2820737,
+   "idps": 9139309,
+   "asylum_seekers": 940297,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "sd"
+  },
+  "summary_fr": "La guerre civile soudanaise, parfois nommée la guerre du Soudan, la quatrième guerre civile soudanaise ou la guerre des généraux, est un conflit armé ayant débuté le 15 avril 2023 au Soudan opposant les forces armées du pays, dirigées par Abdel Fattah al-Burhan, et les Forces de soutien rapide (FSR), une force paramilitaire dirigée par Mohamed Hamdan Dogolo (plus connu sous son nom de guerre…",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_civile_soudanaise_depuis_2023",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=SDN&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_civile_soudanaise_depuis_2023"
+  ]
+ },
+ {
+  "id": "iran-repression",
+  "name_fr": "Iran : violences de l'État contre des civils (manifestations 2025-2026)",
+  "ucdp_conflict_ids": [
+   709
+  ],
+  "ucdp_conflict_names": [
+   "Government of Iran - Civilians"
+  ],
+  "countries": [
+   "ir"
+  ],
+  "type": "unilatéral",
+  "deaths_12m_by_type": {
+   "unilatéral": 19899
+  },
+  "sides": {
+   "a": [
+    "Government of Iran"
+   ],
+   "b": [
+    "Civilians"
+   ]
+  },
+  "start": 2005,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 709,
+  "deaths_12m": 19899,
+  "deaths_12m_provisional": 19881,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    1
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    3
+   ],
+   [
+    "2025-07",
+    9
+   ],
+   [
+    "2025-08",
+    1
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    2
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    2
+   ],
+   [
+    "2026-01",
+    19880
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    4
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    0
+   ],
+   [
+    "2026-06",
+    3
+   ],
+   [
+    "2026-07",
+    7
+   ],
+   [
+    "2026-08",
+    1
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-08-19",
+  "center": [
+   52.677,
+   32.3
+  ],
+  "displaced": {
+   "refugees": 157912,
+   "idps": 0,
+   "asylum_seekers": 49263,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ir"
+  },
+  "summary_fr": "Les manifestations en Iran depuis 2025, aussi appelées par certains révolution iranienne de 2026, débutent le 28 décembre 2025 lorsque des manifestations de masse éclatent dans plusieurs villes d'Iran, dans un contexte de crise économique et de mécontentement à l'égard du gouvernement.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Manifestations_en_Iran_depuis_2025",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=IRN&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Manifestations_en_Iran_depuis_2025"
+  ]
+ },
+ {
+  "id": "yemen",
+  "name_fr": "Guerre civile au Yémen",
+  "ucdp_conflict_ids": [
+   169,
+   230,
+   402,
+   699,
+   715,
+   4428,
+   13587,
+   13597,
+   14511,
+   14623,
+   14740,
+   14982,
+   15769,
+   15958,
+   16099,
+   16140,
+   16749,
+   16901,
+   16902,
+   16926,
+   16941,
+   16965,
+   16966,
+   16969,
+   17006,
+   17007,
+   17008,
+   17015,
+   17034,
+   17043
+  ],
+  "ucdp_conflict_names": [
+   "XXX678",
+   "Yemen (North Yemen): Government",
+   "Yemen (North Yemen): South Yemen",
+   "Government of Eritrea - Civilians",
+   "Government of Yemen (North Yemen) - Civilians",
+   "XXX678 - Civilians",
+   "AQAP - Forces of the Presidential Leadership Council",
+   "IS - Forces of the Presidential Leadership Council",
+   "Forces of the Presidential Leadership Council - Civilians",
+   "Forces of the Presidential Leadership Council - STC",
+   "AQAP - STC",
+   "ASTC - Civilians",
+   "Islah - NRF",
+   "Dhu Mohammed - Salem",
+   "United Kingdom, United States of America - Yemen",
+   "Dhaif Allah - Maqariha",
+   "HTA - STC",
+   "Azzi - Ra'i",
+   "Bani Hilal - Dhu Mohammed",
+   "Dhaif Allah - Yafa",
+   "Dabsi - Halima",
+   "Naseeb - Shabwan",
+   "Harash - Shabira",
+   "Abu Bakr Bin Dahah - Rabi",
+   "Abu Sarima - Azani",
+   "Abu Nuair - Qatada",
+   "Akki - Haydarah",
+   "Dhu Sayid - Qushayr",
+   "Maqal - Saeed",
+   "Faraj - Hadi"
+  ],
+  "countries": [
+   "ye",
+   "iq",
+   "sa",
+   "gb",
+   "us"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 4955,
+   "non étatique": 463,
+   "unilatéral": 70
+  },
+  "sides": {
+   "a": [
+    "Government of Yemen (North Yemen)",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Forces of the Presidential Leadership Council",
+    "STC",
+    "Nakf al-Karama",
+    "Government of United Kingdom",
+    "Government of United States of America",
+    "ASTC",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 1948,
+  "episode_start": 2008,
+  "ucdp_main_conflict_id": 230,
+  "deaths_12m": 5488,
+  "deaths_12m_provisional": 3091,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    32
+   ],
+   [
+    "2024-11",
+    15
+   ],
+   [
+    "2024-12",
+    70
+   ],
+   [
+    "2025-01",
+    53
+   ],
+   [
+    "2025-02",
+    57
+   ],
+   [
+    "2025-03",
+    506
+   ],
+   [
+    "2025-04",
+    396
+   ],
+   [
+    "2025-05",
+    113
+   ],
+   [
+    "2025-06",
+    48
+   ],
+   [
+    "2025-07",
+    45
+   ],
+   [
+    "2025-08",
+    51
+   ],
+   [
+    "2025-09",
+    114
+   ],
+   [
+    "2025-10",
+    48
+   ],
+   [
+    "2025-11",
+    59
+   ],
+   [
+    "2025-12",
+    233
+   ],
+   [
+    "2026-01",
+    159
+   ],
+   [
+    "2026-02",
+    55
+   ],
+   [
+    "2026-03",
+    69
+   ],
+   [
+    "2026-04",
+    56
+   ],
+   [
+    "2026-05",
+    56
+   ],
+   [
+    "2026-06",
+    55
+   ],
+   [
+    "2026-07",
+    265
+   ],
+   [
+    "2026-08",
+    1484
+   ],
+   [
+    "2026-09",
+    2949
+   ]
+  ],
+  "last_event": "2026-10-01",
+  "center": [
+   44.502,
+   14.26
+  ],
+  "displaced": {
+   "refugees": 57327,
+   "idps": 4795983,
+   "asylum_seekers": 25860,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ye"
+  },
+  "summary_fr": "La guerre civile yéménite est un conflit armé qui oppose depuis l'été 2014 d'une part les forces armées sous le commandement du président d'Abdrabbo Mansour Hadi et, d'autre part, les rebelles chiites Houthis ainsi que, jusqu'en 2017, les forces fidèles à l'ex-président Ali Abdallah Saleh.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_civile_yéménite",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=YEM&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_civile_yéménite"
+  ]
+ },
+ {
+  "id": "israel-hezbollah",
+  "name_fr": "Israël – Hezbollah (Liban)",
+  "ucdp_conflict_ids": [
+   426
+  ],
+  "ucdp_conflict_names": [
+   "Israel: Southern Lebanon"
+  ],
+  "countries": [
+   "lb",
+   "il"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 4677
+  },
+  "sides": {
+   "a": [
+    "Government of Israel"
+   ],
+   "b": [
+    "Hezbollah"
+   ]
+  },
+  "start": 1986,
+  "episode_start": 2023,
+  "ucdp_main_conflict_id": 426,
+  "deaths_12m": 4677,
+  "deaths_12m_provisional": 2909,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    1217
+   ],
+   [
+    "2024-11",
+    1168
+   ],
+   [
+    "2024-12",
+    53
+   ],
+   [
+    "2025-01",
+    55
+   ],
+   [
+    "2025-02",
+    16
+   ],
+   [
+    "2025-03",
+    30
+   ],
+   [
+    "2025-04",
+    22
+   ],
+   [
+    "2025-05",
+    22
+   ],
+   [
+    "2025-06",
+    23
+   ],
+   [
+    "2025-07",
+    31
+   ],
+   [
+    "2025-08",
+    31
+   ],
+   [
+    "2025-09",
+    23
+   ],
+   [
+    "2025-10",
+    30
+   ],
+   [
+    "2025-11",
+    41
+   ],
+   [
+    "2025-12",
+    13
+   ],
+   [
+    "2026-01",
+    22
+   ],
+   [
+    "2026-02",
+    21
+   ],
+   [
+    "2026-03",
+    3089
+   ],
+   [
+    "2026-04",
+    730
+   ],
+   [
+    "2026-05",
+    345
+   ],
+   [
+    "2026-06",
+    300
+   ],
+   [
+    "2026-07",
+    21
+   ],
+   [
+    "2026-08",
+    25
+   ],
+   [
+    "2026-09",
+    40
+   ]
+  ],
+  "last_event": "2026-09-15",
+  "center": [
+   35.692,
+   33.682
+  ],
+  "displaced": {
+   "refugees": 9568,
+   "idps": 64417,
+   "asylum_seekers": 8798,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "lb"
+  },
+  "summary_fr": "La guerre Israël-Hezbollah de 2026 débute le 2 mars 2026, en réaction à l'assassinat du Guide suprême iranien Ali Khamenei au début de la guerre en Iran menée par Israël et les États-Unis. Le Hezbollah envoie donc six roquettes sur le nord israélien.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_entre_Israël_et_le_Hezbollah_(2026)",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=LBN&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_entre_Israël_et_le_Hezbollah_(2026)"
+  ]
+ },
+ {
+  "id": "nigeria-nord-ouest-centre",
+  "name_fr": "Nigeria : banditisme et violences intercommunautaires (Nord-Ouest, Centre)",
+  "ucdp_conflict_ids": [
+   119,
+   463,
+   3789,
+   3794,
+   4287,
+   4378,
+   4625,
+   4795,
+   4948,
+   4973,
+   9341,
+   9488,
+   9494,
+   10818,
+   10823,
+   10825,
+   10826,
+   10831,
+   11675,
+   11676,
+   13792,
+   13876,
+   13880,
+   13903,
+   14060,
+   14083,
+   14181,
+   14329,
+   14864,
+   14898,
+   15258,
+   15804,
+   15928,
+   16125,
+   16178,
+   16373,
+   16382,
+   16456,
+   16559,
+   16755,
+   16796,
+   16867,
+   16909,
+   16976,
+   16979,
+   16995,
+   16996,
+   16997,
+   17017,
+   17018,
+   17019,
+   17046,
+   17053,
+   17055
+  ],
+  "ucdp_conflict_names": [
+   "XXX475",
+   "Government of Nigeria - Civilians",
+   "Black Axe - Civilians",
+   "Buccaneers - Civilians",
+   "XXX471 - Civilians",
+   "XXX475 - Civilians",
+   "Fulani - Mambila",
+   "Jukun - Tiv",
+   "Birom - Fulani",
+   "Fulani - Tiv",
+   "Hausa - Fulani",
+   "Fulani - Yoruba",
+   "Fulani, Jukun - Tiv",
+   "Fulani - Gbagyi",
+   "Black Axe - Eyie",
+   "Black Axe - SVC",
+   "Buccaneers - Eyie",
+   "Black Axe - Maphite",
+   "Agatu - Fulani",
+   "Fulani - Idoma",
+   "Gwari - Fulani",
+   "Farmers (Nigeria) - Herders (Nigeria)",
+   "Igbo - Fulani",
+   "IPOB - Civilians",
+   "Fulani - Urhobo",
+   "Fulani - Irigwe",
+   "Eyie - SVC",
+   "Fulani - Igala",
+   "IS - JNIM",
+   "Black Axe - Jurist",
+   "Fulani - Mwaghavul",
+   "Fulani - Kambari",
+   "Karimjo - Wurukum",
+   "Amasiri, Nde Ndukwe  - Oso-Edda",
+   "Black Axe - Buccaneers",
+   "Forces of Barbaru - Civilians",
+   "Forces of Bello Turji  - Civilians",
+   "Deebam - Greenlanders",
+   "Forces of Ado Alero - Civilians",
+   "Bwatiye - Tsobo",
+   "Fulani - Mushere",
+   "Mahmuda - Civilians",
+   "Forces of Isiya Kwashen Garwa - Civilians",
+   "Forces of Muhammadu - Civilians",
+   "Buccaneers, SVC - Eyie",
+   "Bujinji  - Inkil",
+   "Idomi - Ugep",
+   "Forces of Ibrahim Batijo - Civilians",
+   "Fulani - Kamuku",
+   "Egbor - Orugbam",
+   "Forces of Muhammad Gwaska - Forces of Yahaya Yello",
+   "Buskuwa - Mabani",
+   "Agasha - Mbakor",
+   "Black Axe, SVC - Eyie"
+  ],
+  "countries": [
+   "ng"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 1615,
+   "non étatique": 1431,
+   "unilatéral": 1178
+  },
+  "sides": {
+   "a": [
+    "Government of Nigeria",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Forces of Ado Alero",
+    "Forces of Abasu Aiki",
+    "Forces of Sani Yellow",
+    "Forces of Isiya Kwashen Garwa",
+    "Forces of Muhammad Gwaska",
+    "Forces of Auta",
+    "Forces of Muhammadu",
+    "Mahmuda",
+    "Forces of Bello Turji",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2002,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 4948,
+  "deaths_12m": 4224,
+  "deaths_12m_provisional": 3689,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    64
+   ],
+   [
+    "2024-11",
+    56
+   ],
+   [
+    "2024-12",
+    52
+   ],
+   [
+    "2025-01",
+    57
+   ],
+   [
+    "2025-02",
+    76
+   ],
+   [
+    "2025-03",
+    87
+   ],
+   [
+    "2025-04",
+    274
+   ],
+   [
+    "2025-05",
+    238
+   ],
+   [
+    "2025-06",
+    282
+   ],
+   [
+    "2025-07",
+    113
+   ],
+   [
+    "2025-08",
+    134
+   ],
+   [
+    "2025-09",
+    49
+   ],
+   [
+    "2025-10",
+    57
+   ],
+   [
+    "2025-11",
+    27
+   ],
+   [
+    "2025-12",
+    64
+   ],
+   [
+    "2026-01",
+    298
+   ],
+   [
+    "2026-02",
+    277
+   ],
+   [
+    "2026-03",
+    307
+   ],
+   [
+    "2026-04",
+    630
+   ],
+   [
+    "2026-05",
+    525
+   ],
+   [
+    "2026-06",
+    463
+   ],
+   [
+    "2026-07",
+    455
+   ],
+   [
+    "2026-08",
+    779
+   ],
+   [
+    "2026-09",
+    342
+   ]
+  ],
+  "last_event": "2026-10-03",
+  "center": [
+   7.435,
+   10.528
+  ],
+  "displaced": {
+   "refugees": 478150,
+   "idps": 3544519,
+   "asylum_seekers": 56176,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ng"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=NGA&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "iran-israel-etats-unis",
+  "name_fr": "Guerre entre l'Iran, Israël et les États-Unis",
+  "ucdp_conflict_ids": [
+   77,
+   16905
+  ],
+  "ucdp_conflict_names": [
+   "XXX645",
+   "Iran - Israel, United States of America"
+  ],
+  "countries": [
+   "ir",
+   "iq",
+   "lk",
+   "il",
+   "us"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 3958
+  },
+  "sides": {
+   "a": [
+    "Government of Iran",
+    "Government of Iraq",
+    "Kataib Hezbollah"
+   ],
+   "b": [
+    "Government of Israel",
+    "Government of United States of America"
+   ]
+  },
+  "start": 2026,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 16905,
+  "deaths_12m": 3958,
+  "deaths_12m_provisional": 2370,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    2431
+   ],
+   [
+    "2026-03",
+    1138
+   ],
+   [
+    "2026-04",
+    264
+   ],
+   [
+    "2026-05",
+    19
+   ],
+   [
+    "2026-06",
+    12
+   ],
+   [
+    "2026-07",
+    68
+   ],
+   [
+    "2026-08",
+    4
+   ],
+   [
+    "2026-09",
+    22
+   ]
+  ],
+  "last_event": "2026-09-23",
+  "center": [
+   52.475,
+   31.804
+  ],
+  "displaced": {
+   "refugees": 157912,
+   "idps": 0,
+   "asylum_seekers": 49263,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ir"
+  },
+  "summary_fr": "La guerre d'Iran de 2026, troisième guerre du Golfe, quatrième guerre du Golfe ou encore guerre israélo-américano-iranienne est un conflit qui débute le 28 février 2026 par une opération militaire conjointe américano-israélienne consistant en des frappes aériennes sur l'Iran.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_d'Iran_de_2026",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=IRN&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_d'Iran_de_2026"
+  ]
+ },
+ {
+  "id": "lac-tchad",
+  "name_fr": "Nigeria et bassin du lac Tchad : insurrections djihadistes (JAS/Boko Haram, État islamique)",
+  "ucdp_conflict_ids": [
+   297,
+   353,
+   506,
+   1850,
+   13638,
+   13641,
+   13884,
+   14082
+  ],
+  "ucdp_conflict_names": [
+   "Nigeria: Government",
+   "Cameroon: Government",
+   "IS - Civilians",
+   "JAS - Civilians",
+   "Cameroon: Islamic State",
+   "Nigeria: Islamic State",
+   "IS - JAS",
+   "Comités locaux de vigilance - IS"
+  ],
+  "countries": [
+   "ng",
+   "cm",
+   "td"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 2582,
+   "non étatique": 365,
+   "unilatéral": 881
+  },
+  "sides": {
+   "a": [
+    "Government of Nigeria",
+    "Government of Cameroon"
+   ],
+   "b": [
+    "IS",
+    "JAS",
+    "JNIM"
+   ]
+  },
+  "start": 2015,
+  "episode_start": 2015,
+  "ucdp_main_conflict_id": 13641,
+  "deaths_12m": 3828,
+  "deaths_12m_provisional": 1365,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    279
+   ],
+   [
+    "2024-11",
+    208
+   ],
+   [
+    "2024-12",
+    161
+   ],
+   [
+    "2025-01",
+    384
+   ],
+   [
+    "2025-02",
+    124
+   ],
+   [
+    "2025-03",
+    172
+   ],
+   [
+    "2025-04",
+    139
+   ],
+   [
+    "2025-05",
+    437
+   ],
+   [
+    "2025-06",
+    223
+   ],
+   [
+    "2025-07",
+    146
+   ],
+   [
+    "2025-08",
+    141
+   ],
+   [
+    "2025-09",
+    293
+   ],
+   [
+    "2025-10",
+    210
+   ],
+   [
+    "2025-11",
+    330
+   ],
+   [
+    "2025-12",
+    306
+   ],
+   [
+    "2026-01",
+    433
+   ],
+   [
+    "2026-02",
+    451
+   ],
+   [
+    "2026-03",
+    416
+   ],
+   [
+    "2026-04",
+    425
+   ],
+   [
+    "2026-05",
+    545
+   ],
+   [
+    "2026-06",
+    176
+   ],
+   [
+    "2026-07",
+    154
+   ],
+   [
+    "2026-08",
+    225
+   ],
+   [
+    "2026-09",
+    157
+   ]
+  ],
+  "last_event": "2026-10-01",
+  "center": [
+   11.928,
+   11.941
+  ],
+  "displaced": {
+   "refugees": 478150,
+   "idps": 3544519,
+   "asylum_seekers": 56176,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ng"
+  },
+  "summary_fr": "L'insurrection de Boko Haram ou insurrection djihadiste au Nigeria est un conflit armé qui éclate en 2009 dans le nord du Nigeria. Cette guerre oppose l'État nigérian, le Cameroun, le Tchad et le Niger aux groupes salafistes djihadistes de Boko Haram, de l'État islamique en Afrique de l'Ouest et d'Ansaru.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Insurrection_de_Boko_Haram",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=NGA&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Insurrection_de_Boko_Haram"
+  ]
+ },
+ {
+  "id": "rd-congo",
+  "name_fr": "RD Congo : conflits armés (AFC/M23, ADF/État islamique, milices)",
+  "ucdp_conflict_ids": [
+   38,
+   265,
+   283,
+   467,
+   468,
+   506,
+   559,
+   569,
+   3095,
+   4290,
+   4297,
+   4456,
+   10771,
+   13766,
+   13874,
+   14373,
+   14692,
+   14709,
+   14745,
+   15029,
+   15043,
+   15718,
+   15893,
+   16066,
+   16101,
+   16179,
+   16212,
+   16275,
+   16401,
+   16647,
+   16649,
+   16769,
+   16930,
+   16947,
+   16949,
+   16978
+  ],
+  "ucdp_conflict_names": [
+   "XXX490",
+   "DR Congo (Zaire): Katanga",
+   "DR Congo (Zaire): Government",
+   "Government of DR Congo (Zaire) - Civilians",
+   "Government of Uganda - Civilians",
+   "IS - Civilians",
+   "LRA - Civilians",
+   "FDLR-FOCA - Civilians",
+   "Bororo (Fulani) - Civilians",
+   "XXX482 - Civilians",
+   "XXX490 - Civilians",
+   "XXX626 - Civilians",
+   "DR Congo (Zaire) - Rwanda",
+   "RED-TABARA  - Civilians",
+   "Burundi - DR Congo",
+   "Mayi Mayi Kifuafua - Mayi Mayi Kirikicho",
+   "DR Congo (Zaire): Islamic State",
+   "NAS - Civilians",
+   "URDPC - Civilians",
+   "URDPC - Zaire self-defense group",
+   "FPIC Chambre noire sanduku - Civilians",
+   "Mayi Mayi Chini ya Tuna - Civilians",
+   "Mobondo - Civilians",
+   "VDP - Civilians",
+   "AFC - Civilians",
+   "AFC - VDP",
+   "Kuluna (Kinshasa) - Civilians",
+   "AFC - FDLR-FOCA",
+   "AFC - FDLR-FOCA, VDP",
+   "CRP - URDPC",
+   "CRP - Civilians",
+   "Falwono - Fampie",
+   "MDKC - Civilians",
+   "Mobondo - B52 - Civilians",
+   "Bena Mataamba - Bena Mukendi",
+   "Mayi Mayi Uhuru - Mayi Mayi Uhuru - Zidane"
+  ],
+  "countries": [
+   "cd",
+   "rw",
+   "bi"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 1318,
+   "non étatique": 676,
+   "unilatéral": 1817
+  },
+  "sides": {
+   "a": [
+    "Government of DR Congo (Zaire)",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "AFC",
+    "CRP",
+    "IS",
+    "Kata Katanga",
+    "Government of Rwanda",
+    "Government of Burundi",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 1964,
+  "episode_start": 2016,
+  "ucdp_main_conflict_id": 283,
+  "deaths_12m": 3811,
+  "deaths_12m_provisional": 986,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    235
+   ],
+   [
+    "2024-11",
+    134
+   ],
+   [
+    "2024-12",
+    276
+   ],
+   [
+    "2025-01",
+    4523
+   ],
+   [
+    "2025-02",
+    513
+   ],
+   [
+    "2025-03",
+    471
+   ],
+   [
+    "2025-04",
+    257
+   ],
+   [
+    "2025-05",
+    554
+   ],
+   [
+    "2025-06",
+    246
+   ],
+   [
+    "2025-07",
+    644
+   ],
+   [
+    "2025-08",
+    464
+   ],
+   [
+    "2025-09",
+    301
+   ],
+   [
+    "2025-10",
+    276
+   ],
+   [
+    "2025-11",
+    411
+   ],
+   [
+    "2025-12",
+    518
+   ],
+   [
+    "2026-01",
+    432
+   ],
+   [
+    "2026-02",
+    134
+   ],
+   [
+    "2026-03",
+    265
+   ],
+   [
+    "2026-04",
+    382
+   ],
+   [
+    "2026-05",
+    535
+   ],
+   [
+    "2026-06",
+    266
+   ],
+   [
+    "2026-07",
+    282
+   ],
+   [
+    "2026-08",
+    189
+   ],
+   [
+    "2026-09",
+    121
+   ]
+  ],
+  "last_event": "2026-10-01",
+  "center": [
+   28.885,
+   -0.965
+  ],
+  "displaced": {
+   "refugees": 1176489,
+   "idps": 5669479,
+   "asylum_seekers": 168421,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "cd"
+  },
+  "summary_fr": "La guerre du Kivu est un terme générique permettant de désigner les différents conflits armés qui se succèdent dans l'est de la république démocratique du Congo (RDC) depuis la fin de la deuxième guerre du Congo (1998-2003), et qui voient les Forces armées de la république démocratique du Congo (FARDC) affronter une multitude de groupes armés locaux, principalement dans les provinces du Nord-Kivu…",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_du_Kivu",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=COD&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_du_Kivu"
+  ]
+ },
+ {
+  "id": "somalie",
+  "name_fr": "Somalie : insurrection d'al-Shabaab et autres violences armées",
+  "ucdp_conflict_ids": [
+   141,
+   337,
+   473,
+   604,
+   13646,
+   14197,
+   16734,
+   16920,
+   16990,
+   17016
+  ],
+  "ucdp_conflict_names": [
+   "XXX520",
+   "Somalia: Government",
+   "Government of Somalia - Civilians",
+   "Al-Shabaab - Civilians",
+   "Kenya: Northeastern Province and Coast",
+   "Somalia: Islamic State",
+   "Puntland State of Somalia - IS",
+   "Jubaland State of Somalia - Civilians",
+   "IS - SFC",
+   "Dhulbahante subclan of Harti clan (Darod) - Fiqishini subclan of Ayr clan (Hawiye)"
+  ],
+  "countries": [
+   "so",
+   "ke"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 3533,
+   "non étatique": 171,
+   "unilatéral": 56
+  },
+  "sides": {
+   "a": [
+    "Government of Somalia",
+    "Government of Kenya",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Al-Shabaab",
+    "Forces of Laftagareen",
+    "IS",
+    "SFC",
+    "South West State of Somalia",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 1982,
+  "episode_start": 2006,
+  "ucdp_main_conflict_id": 337,
+  "deaths_12m": 3760,
+  "deaths_12m_provisional": 229,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    280
+   ],
+   [
+    "2024-11",
+    106
+   ],
+   [
+    "2024-12",
+    113
+   ],
+   [
+    "2025-01",
+    128
+   ],
+   [
+    "2025-02",
+    577
+   ],
+   [
+    "2025-03",
+    548
+   ],
+   [
+    "2025-04",
+    219
+   ],
+   [
+    "2025-05",
+    498
+   ],
+   [
+    "2025-06",
+    481
+   ],
+   [
+    "2025-07",
+    177
+   ],
+   [
+    "2025-08",
+    379
+   ],
+   [
+    "2025-09",
+    195
+   ],
+   [
+    "2025-10",
+    149
+   ],
+   [
+    "2025-11",
+    279
+   ],
+   [
+    "2025-12",
+    249
+   ],
+   [
+    "2026-01",
+    975
+   ],
+   [
+    "2026-02",
+    231
+   ],
+   [
+    "2026-03",
+    188
+   ],
+   [
+    "2026-04",
+    296
+   ],
+   [
+    "2026-05",
+    358
+   ],
+   [
+    "2026-06",
+    368
+   ],
+   [
+    "2026-07",
+    325
+   ],
+   [
+    "2026-08",
+    148
+   ],
+   [
+    "2026-09",
+    194
+   ]
+  ],
+  "last_event": "2026-09-28",
+  "center": [
+   44.834,
+   2.653
+  ],
+  "displaced": {
+   "refugees": 892037,
+   "idps": 3347408,
+   "asylum_seekers": 236271,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "so"
+  },
+  "summary_fr": "La guerre civile somalienne a commencé, selon les sources, au mois d'avril 1978 avec l'éclatement de violences tribales contre le président Mohamed Siad Barre, ou le 26 janvier 1991 avec la chute de ce dernier et l'effondrement de l'État somalien. Ce dernier ne s'est jamais relevé et la guerre civile est toujours en cours aujourd'hui.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_civile_somalienne",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=SOM&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_civile_somalienne"
+  ]
+ },
+ {
+  "id": "ethiopie-amhara",
+  "name_fr": "Éthiopie : conflit en Amhara (milices Fano)",
+  "ucdp_conflict_ids": [
+   15364,
+   16069
+  ],
+  "ucdp_conflict_names": [
+   "Fano - Civilians",
+   "Ethiopia: Government/Amhara"
+  ],
+  "countries": [
+   "et"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 3393,
+   "unilatéral": 80
+  },
+  "sides": {
+   "a": [
+    "Government of Ethiopia"
+   ],
+   "b": [
+    "Fano"
+   ]
+  },
+  "start": 2023,
+  "episode_start": 2023,
+  "ucdp_main_conflict_id": 16069,
+  "deaths_12m": 3473,
+  "deaths_12m_provisional": 904,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    243
+   ],
+   [
+    "2024-11",
+    133
+   ],
+   [
+    "2024-12",
+    85
+   ],
+   [
+    "2025-01",
+    238
+   ],
+   [
+    "2025-02",
+    75
+   ],
+   [
+    "2025-03",
+    490
+   ],
+   [
+    "2025-04",
+    526
+   ],
+   [
+    "2025-05",
+    200
+   ],
+   [
+    "2025-06",
+    154
+   ],
+   [
+    "2025-07",
+    142
+   ],
+   [
+    "2025-08",
+    273
+   ],
+   [
+    "2025-09",
+    588
+   ],
+   [
+    "2025-10",
+    442
+   ],
+   [
+    "2025-11",
+    710
+   ],
+   [
+    "2025-12",
+    157
+   ],
+   [
+    "2026-01",
+    193
+   ],
+   [
+    "2026-02",
+    395
+   ],
+   [
+    "2026-03",
+    597
+   ],
+   [
+    "2026-04",
+    191
+   ],
+   [
+    "2026-05",
+    126
+   ],
+   [
+    "2026-06",
+    300
+   ],
+   [
+    "2026-07",
+    171
+   ],
+   [
+    "2026-08",
+    156
+   ],
+   [
+    "2026-09",
+    35
+   ]
+  ],
+  "last_event": "2026-09-14",
+  "center": [
+   37.772,
+   11.378
+  ],
+  "displaced": {
+   "refugees": 164215,
+   "idps": 2378000,
+   "asylum_seekers": 148616,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "et"
+  },
+  "summary_fr": "Le 6 avril 2023, le gouvernement du premier ministre Abiy Ahmed prend la décision d'intégrer les \"forces spéciales régionales\" (forces paramilitaires commandées par les gouvernements régionaux éthiopiens) à l'armée fédérale.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_en_Amhara",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=ETH&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_en_Amhara"
+  ]
+ },
+ {
+  "id": "mexique",
+  "name_fr": "Mexique : guerre des cartels",
+  "ucdp_conflict_ids": [
+   107,
+   641,
+   1224,
+   1943,
+   4366,
+   4652,
+   11052,
+   13737,
+   14516,
+   14532,
+   14534,
+   14674,
+   15082,
+   15243,
+   15453,
+   16392,
+   16447,
+   16498,
+   16527,
+   16799
+  ],
+  "ucdp_conflict_names": [
+   "XXX70",
+   "Government of Mexico - Civilians",
+   "Sinaloa Cartel - Civilians",
+   "Jalisco Cartel New Generation - Civilians",
+   "XXX70 - Civilians",
+   "Juarez Cartel - Sinaloa Cartel",
+   "Jalisco Cartel New Generation - Los Caballeros Templarios",
+   "Jalisco Cartel New Generation - Sinaloa Cartel",
+   "Fuerza Anti Unión  - La Union de Tepito",
+   "Jalisco Cartel New Generation - Santa Rosa de Lima Cartel",
+   "Los Ardillos - UPOEG",
+   "Jalisco Cartel New Generation - La Familia",
+   "Sinaloa Cartel - Los Chapitos - Sinaloa Cartel - Los Mayos",
+   "Caborca Cartel, Sinaloa Cartel - Los Mayos - Sinaloa Cartel - Los Chapitos",
+   "Los Ardillos - Los Tlacos",
+   "Cartel Independiente de Acapulco - Los Rusos",
+   "Jalisco Cartel New Generation - La Barredora",
+   "Carteles Unidos - Jalisco Cartel New Generation, Los Blancos de Troya, Los de la Virgen, Los Viagras",
+   "La Nueva Familia - Los Tlacos",
+   "Jalisco Cartel New Generation, Sinaloa Cartel - Los Chapitos - Sinaloa Cartel - Los Mayos"
+  ],
+  "countries": [
+   "mx"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "étatique": 28,
+   "non étatique": 3284,
+   "unilatéral": 142
+  },
+  "sides": {
+   "a": [
+    "Government of Mexico",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Sinaloa Cartel",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2019,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 16799,
+  "deaths_12m": 3454,
+  "deaths_12m_provisional": 1397,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    557
+   ],
+   [
+    "2024-11",
+    311
+   ],
+   [
+    "2024-12",
+    232
+   ],
+   [
+    "2025-01",
+    2712
+   ],
+   [
+    "2025-02",
+    1297
+   ],
+   [
+    "2025-03",
+    258
+   ],
+   [
+    "2025-04",
+    244
+   ],
+   [
+    "2025-05",
+    270
+   ],
+   [
+    "2025-06",
+    748
+   ],
+   [
+    "2025-07",
+    372
+   ],
+   [
+    "2025-08",
+    529
+   ],
+   [
+    "2025-09",
+    331
+   ],
+   [
+    "2025-10",
+    681
+   ],
+   [
+    "2025-11",
+    310
+   ],
+   [
+    "2025-12",
+    152
+   ],
+   [
+    "2026-01",
+    401
+   ],
+   [
+    "2026-02",
+    158
+   ],
+   [
+    "2026-03",
+    270
+   ],
+   [
+    "2026-04",
+    285
+   ],
+   [
+    "2026-05",
+    242
+   ],
+   [
+    "2026-06",
+    241
+   ],
+   [
+    "2026-07",
+    236
+   ],
+   [
+    "2026-08",
+    216
+   ],
+   [
+    "2026-09",
+    262
+   ]
+  ],
+  "last_event": "2026-09-30",
+  "center": [
+   -104.889,
+   23.704
+  ],
+  "displaced": {
+   "refugees": 41307,
+   "idps": 262411,
+   "asylum_seekers": 236810,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "mx"
+  },
+  "summary_fr": "La guerre de la drogue au Mexique, aussi appelée la guerre des cartels au Mexique, est un conflit armé où les cartels de la drogue s'opposent au gouvernement mexicain. Elle commence à impliquer massivement l'armée mexicaine à partir de décembre 2006, bien que celle-ci ait été utilisée dans la lutte contre le trafic de stupéfiants antérieurement.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_de_la_drogue_au_Mexique",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=MEX&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_de_la_drogue_au_Mexique"
+  ]
+ },
+ {
+  "id": "pakistan-ttp",
+  "name_fr": "Pakistan : insurrection islamiste (TTP et autres groupes)",
+  "ucdp_conflict_ids": [
+   122,
+   404,
+   530,
+   13936
+  ],
+  "ucdp_conflict_names": [
+   "XXX770",
+   "Pakistan: Government",
+   "TTP - Civilians",
+   "Pakistan: Islamic State"
+  ],
+  "countries": [
+   "pk",
+   "af"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 3017,
+   "unilatéral": 42
+  },
+  "sides": {
+   "a": [
+    "Government of Pakistan",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "TTP",
+    "IMP",
+    "IS",
+    "Jamaat-ul-Ahrar",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 1990,
+  "episode_start": 2007,
+  "ucdp_main_conflict_id": 404,
+  "deaths_12m": 3059,
+  "deaths_12m_provisional": 183,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    135
+   ],
+   [
+    "2024-11",
+    131
+   ],
+   [
+    "2024-12",
+    264
+   ],
+   [
+    "2025-01",
+    204
+   ],
+   [
+    "2025-02",
+    191
+   ],
+   [
+    "2025-03",
+    227
+   ],
+   [
+    "2025-04",
+    199
+   ],
+   [
+    "2025-05",
+    113
+   ],
+   [
+    "2025-06",
+    114
+   ],
+   [
+    "2025-07",
+    153
+   ],
+   [
+    "2025-08",
+    191
+   ],
+   [
+    "2025-09",
+    322
+   ],
+   [
+    "2025-10",
+    405
+   ],
+   [
+    "2025-11",
+    295
+   ],
+   [
+    "2025-12",
+    171
+   ],
+   [
+    "2026-01",
+    102
+   ],
+   [
+    "2026-02",
+    213
+   ],
+   [
+    "2026-03",
+    114
+   ],
+   [
+    "2026-04",
+    114
+   ],
+   [
+    "2026-05",
+    225
+   ],
+   [
+    "2026-06",
+    322
+   ],
+   [
+    "2026-07",
+    366
+   ],
+   [
+    "2026-08",
+    306
+   ],
+   [
+    "2026-09",
+    426
+   ]
+  ],
+  "last_event": "2026-09-30",
+  "center": [
+   70.227,
+   32.819
+  ],
+  "displaced": {
+   "refugees": 90497,
+   "idps": 0,
+   "asylum_seekers": 65066,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "pk"
+  },
+  "summary_fr": "Le conflit du Khyber Pakhtunkhwa aussi appelé insurrection islamiste ou insurrection talibane au Pakistan, oppose l'armée pakistanaise à divers mouvements islamistes armés, dont surtout le Tehrik-e-Taliban Pakistan constitué en 2007 et l'État islamique apparu en 2015.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Insurrection_islamiste_au_Pakistan",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=PAK&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Insurrection_islamiste_au_Pakistan"
+  ]
+ },
+ {
+  "id": "burkina-faso",
+  "name_fr": "Burkina Faso : insurrection djihadiste",
+  "ucdp_conflict_ids": [
+   360,
+   506,
+   695,
+   13840,
+   13968,
+   14864,
+   15256
+  ],
+  "ucdp_conflict_names": [
+   "Burkina Faso: Government",
+   "IS - Civilians",
+   "Government of Burkina Faso - Civilians",
+   "Burkina Faso: Islamic State",
+   "JNIM - Civilians",
+   "IS - JNIM",
+   "Benin: Government"
+  ],
+  "countries": [
+   "bf",
+   "bj"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 2382,
+   "non étatique": 112,
+   "unilatéral": 212
+  },
+  "sides": {
+   "a": [
+    "Government of Burkina Faso",
+    "Government of Benin"
+   ],
+   "b": [
+    "JNIM",
+    "IS"
+   ]
+  },
+  "start": 1987,
+  "episode_start": 2018,
+  "ucdp_main_conflict_id": 360,
+  "deaths_12m": 2706,
+  "deaths_12m_provisional": 374,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    176
+   ],
+   [
+    "2024-11",
+    159
+   ],
+   [
+    "2024-12",
+    31
+   ],
+   [
+    "2025-01",
+    245
+   ],
+   [
+    "2025-02",
+    213
+   ],
+   [
+    "2025-03",
+    878
+   ],
+   [
+    "2025-04",
+    475
+   ],
+   [
+    "2025-05",
+    667
+   ],
+   [
+    "2025-06",
+    272
+   ],
+   [
+    "2025-07",
+    470
+   ],
+   [
+    "2025-08",
+    343
+   ],
+   [
+    "2025-09",
+    219
+   ],
+   [
+    "2025-10",
+    283
+   ],
+   [
+    "2025-11",
+    199
+   ],
+   [
+    "2025-12",
+    177
+   ],
+   [
+    "2026-01",
+    242
+   ],
+   [
+    "2026-02",
+    466
+   ],
+   [
+    "2026-03",
+    175
+   ],
+   [
+    "2026-04",
+    369
+   ],
+   [
+    "2026-05",
+    133
+   ],
+   [
+    "2026-06",
+    270
+   ],
+   [
+    "2026-07",
+    185
+   ],
+   [
+    "2026-08",
+    171
+   ],
+   [
+    "2026-09",
+    36
+   ]
+  ],
+  "last_event": "2026-09-30",
+  "center": [
+   -0.961,
+   13.028
+  ],
+  "displaced": {
+   "refugees": 351209,
+   "idps": 2062534,
+   "asylum_seekers": 69817,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "bf"
+  },
+  "summary_fr": "L'insurrection djihadiste au Burkina Faso est un conflit armé opposant à partir de 2015 le gouvernement burkinabé à des groupes salafistes djihadistes. Elle se déroule dans le cadre de la guerre du Sahel.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Insurrection_djihadiste_au_Burkina_Faso",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=BFA&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Insurrection_djihadiste_au_Burkina_Faso"
+  ]
+ },
+ {
+  "id": "israel-palestine",
+  "name_fr": "Israël – Palestine : guerre de Gaza et violences en Cisjordanie",
+  "ucdp_conflict_ids": [
+   234,
+   483,
+   501,
+   783,
+   16830,
+   17035
+  ],
+  "ucdp_conflict_names": [
+   "Israel: Palestine",
+   "Government of Israel - Civilians",
+   "Hamas - Civilians",
+   "PNA - Civilians",
+   "The Popular Forces - Hamas",
+   "Hamas - Rami Halas militia"
+  ],
+  "countries": [
+   "ps",
+   "il"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 1995,
+   "non étatique": 4,
+   "unilatéral": 55
+  },
+  "sides": {
+   "a": [
+    "Government of Israel"
+   ],
+   "b": [
+    "Hamas",
+    "PIJ",
+    "PRC",
+    "Palestinian Mujahideen Movement",
+    "PFLP-GC",
+    "Fatah",
+    "PFLP"
+   ]
+  },
+  "start": 1948,
+  "episode_start": 2021,
+  "ucdp_main_conflict_id": 234,
+  "deaths_12m": 2054,
+  "deaths_12m_provisional": 0,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    2079
+   ],
+   [
+    "2024-11",
+    1470
+   ],
+   [
+    "2024-12",
+    1389
+   ],
+   [
+    "2025-01",
+    946
+   ],
+   [
+    "2025-02",
+    77
+   ],
+   [
+    "2025-03",
+    1096
+   ],
+   [
+    "2025-04",
+    1300
+   ],
+   [
+    "2025-05",
+    2109
+   ],
+   [
+    "2025-06",
+    1930
+   ],
+   [
+    "2025-07",
+    2474
+   ],
+   [
+    "2025-08",
+    1712
+   ],
+   [
+    "2025-09",
+    2042
+   ],
+   [
+    "2025-10",
+    666
+   ],
+   [
+    "2025-11",
+    129
+   ],
+   [
+    "2025-12",
+    66
+   ],
+   [
+    "2026-01",
+    160
+   ],
+   [
+    "2026-02",
+    126
+   ],
+   [
+    "2026-03",
+    103
+   ],
+   [
+    "2026-04",
+    136
+   ],
+   [
+    "2026-05",
+    127
+   ],
+   [
+    "2026-06",
+    130
+   ],
+   [
+    "2026-07",
+    178
+   ],
+   [
+    "2026-08",
+    103
+   ],
+   [
+    "2026-09",
+    130
+   ]
+  ],
+  "last_event": "2026-09-30",
+  "center": [
+   34.431,
+   31.49
+  ],
+  "displaced": {
+   "refugees": 48323,
+   "idps": 0,
+   "asylum_seekers": 16726,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ps",
+   "unrwa_refugees": 5964782
+  },
+  "summary_fr": "La cinquième guerre de Gaza, quelques fois appelé guerre Israël-Gaza ou guerre Israël-Hamas, est un conflit asymétrique, principalement urbain, opposant l'armée israélienne à une coalition de groupes palestiniens composée principalement par le Hamas, et à la population civile de la bande de Gaza.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_de_Gaza_depuis_2023",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=PSE&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_de_Gaza_depuis_2023"
+  ]
+ },
+ {
+  "id": "mali",
+  "name_fr": "Mali : conflit armé (JNIM, État islamique, rebelles de l'Azawad)",
+  "ucdp_conflict_ids": [
+   453,
+   454,
+   506,
+   4362,
+   11347,
+   13968,
+   13987,
+   13988,
+   14109,
+   14110,
+   14113,
+   14411,
+   14622,
+   14654,
+   14864,
+   16038,
+   16369
+  ],
+  "ucdp_conflict_names": [
+   "Government of Russia (Soviet Union) - Civilians",
+   "Government of Mali - Civilians",
+   "IS - Civilians",
+   "XXX432 - Civilians",
+   "Mali: Government",
+   "JNIM - Civilians",
+   "Dozos (Mali) - Civilians",
+   "Dozos (Mali) - JNIM",
+   "GATIA, MSA - IS",
+   "IS - MSA",
+   "Mali: Islamic State",
+   "Dan na Ambassagou - Civilians",
+   "Dan na Ambassagou - JNIM",
+   "GATIA - JNIM",
+   "IS - JNIM",
+   "Mali: Government/Azawad",
+   "Government of Mali, Government of Russia (Soviet Union) - Civilians"
+  ],
+  "countries": [
+   "ml"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 1549,
+   "non étatique": 189,
+   "unilatéral": 314
+  },
+  "sides": {
+   "a": [
+    "Government of Mali"
+   ],
+   "b": [
+    "JNIM",
+    "FLA",
+    "IS"
+   ]
+  },
+  "start": 2009,
+  "episode_start": 2012,
+  "ucdp_main_conflict_id": 11347,
+  "deaths_12m": 2052,
+  "deaths_12m_provisional": 588,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    182
+   ],
+   [
+    "2024-11",
+    125
+   ],
+   [
+    "2024-12",
+    129
+   ],
+   [
+    "2025-01",
+    162
+   ],
+   [
+    "2025-02",
+    208
+   ],
+   [
+    "2025-03",
+    190
+   ],
+   [
+    "2025-04",
+    110
+   ],
+   [
+    "2025-05",
+    150
+   ],
+   [
+    "2025-06",
+    434
+   ],
+   [
+    "2025-07",
+    179
+   ],
+   [
+    "2025-08",
+    168
+   ],
+   [
+    "2025-09",
+    116
+   ],
+   [
+    "2025-10",
+    220
+   ],
+   [
+    "2025-11",
+    173
+   ],
+   [
+    "2025-12",
+    47
+   ],
+   [
+    "2026-01",
+    107
+   ],
+   [
+    "2026-02",
+    111
+   ],
+   [
+    "2026-03",
+    95
+   ],
+   [
+    "2026-04",
+    159
+   ],
+   [
+    "2026-05",
+    488
+   ],
+   [
+    "2026-06",
+    81
+   ],
+   [
+    "2026-07",
+    281
+   ],
+   [
+    "2026-08",
+    96
+   ],
+   [
+    "2026-09",
+    194
+   ]
+  ],
+  "last_event": "2026-09-30",
+  "center": [
+   -4.302,
+   14.915
+  ],
+  "displaced": {
+   "refugees": 519738,
+   "idps": 414524,
+   "asylum_seekers": 23629,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ml"
+  },
+  "summary_fr": "La guerre du Mali est un conflit armé qui s'inscrit dans le contexte de la guerre du Sahel et qui a lieu au Mali depuis 2012, à la suite d'une insurrection de groupes salafistes djihadistes et de groupes indépendantistes touaregs.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_du_Mali",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=MLI&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_du_Mali"
+  ]
+ },
+ {
+  "id": "birmanie",
+  "name_fr": "Guerre civile birmane",
+  "ucdp_conflict_ids": [
+   112,
+   221,
+   222,
+   223,
+   231,
+   253,
+   488,
+   3736,
+   16940,
+   16989
+  ],
+  "ucdp_conflict_names": [
+   "XXX775",
+   "Myanmar (Burma): Karen",
+   "Myanmar (Burma): Government",
+   "Myanmar (Burma): Arakan",
+   "Myanmar (Burma): Kachin",
+   "Myanmar (Burma): Karenni",
+   "Government of Myanmar (Burma) - Civilians",
+   "ULA - Civilians",
+   "SCEF - KTLA",
+   "SCEF - Civilians"
+  ],
+  "countries": [
+   "mm"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 1748,
+   "non étatique": 5,
+   "unilatéral": 179
+  },
+  "sides": {
+   "a": [
+    "Government of Myanmar (Burma)",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "NUG",
+    "SCEF",
+    "ULA",
+    "KNU",
+    "KIO",
+    "PSLF",
+    "CPU",
+    "KNPP",
+    "CNF",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 1948,
+  "episode_start": 2021,
+  "ucdp_main_conflict_id": 222,
+  "deaths_12m": 1932,
+  "deaths_12m_provisional": 198,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    281
+   ],
+   [
+    "2024-11",
+    152
+   ],
+   [
+    "2024-12",
+    172
+   ],
+   [
+    "2025-01",
+    252
+   ],
+   [
+    "2025-02",
+    164
+   ],
+   [
+    "2025-03",
+    202
+   ],
+   [
+    "2025-04",
+    242
+   ],
+   [
+    "2025-05",
+    236
+   ],
+   [
+    "2025-06",
+    110
+   ],
+   [
+    "2025-07",
+    196
+   ],
+   [
+    "2025-08",
+    245
+   ],
+   [
+    "2025-09",
+    181
+   ],
+   [
+    "2025-10",
+    200
+   ],
+   [
+    "2025-11",
+    98
+   ],
+   [
+    "2025-12",
+    191
+   ],
+   [
+    "2026-01",
+    217
+   ],
+   [
+    "2026-02",
+    145
+   ],
+   [
+    "2026-03",
+    268
+   ],
+   [
+    "2026-04",
+    127
+   ],
+   [
+    "2026-05",
+    187
+   ],
+   [
+    "2026-06",
+    106
+   ],
+   [
+    "2026-07",
+    87
+   ],
+   [
+    "2026-08",
+    129
+   ],
+   [
+    "2026-09",
+    177
+   ]
+  ],
+  "last_event": "2026-09-30",
+  "center": [
+   95.526,
+   20.86
+  ],
+  "displaced": {
+   "refugees": 1524378,
+   "idps": 3628840,
+   "asylum_seekers": 67824,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "mm"
+  },
+  "summary_fr": "La guerre civile birmane, également connue sous le nom de révolution du printemps de Birmanie, est un conflit armé en cours depuis le 5 mai 2021, à la suite des insurrections de longue date en Birmanie qui se sont considérablement intensifiées en réponse au coup d'État militaire de 2021 et à la violente répression qui a suivi les manifestations anti-coup d'État.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_civile_birmane_depuis_2021",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=MMR&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_civile_birmane_depuis_2021"
+  ]
+ },
+ {
+  "id": "colombie",
+  "name_fr": "Conflit armé colombien",
+  "ucdp_conflict_ids": [
+   35,
+   289,
+   446,
+   606,
+   4294,
+   14485,
+   14486,
+   15189,
+   15667,
+   15697,
+   15699,
+   15700,
+   15712,
+   15940,
+   15982,
+   16044,
+   16051,
+   16082,
+   16115,
+   16117,
+   16154,
+   16211,
+   16236,
+   16241,
+   16338,
+   16339,
+   16348,
+   16350,
+   16360,
+   16384,
+   16423,
+   16624,
+   16659,
+   16660,
+   16884,
+   16985,
+   16986,
+   16991,
+   16992,
+   16993,
+   17000,
+   17001,
+   17005,
+   17010,
+   17020
+  ],
+  "ucdp_conflict_names": [
+   "XXX100",
+   "Colombia: Government",
+   "Government of Colombia - Civilians",
+   "ELN - Civilians",
+   "XXX100 - Civilians",
+   "EGC - ELN",
+   "EGC - Civilians",
+   "Autodefensas Conquistadoras de la Sierra Nevada - Civilians",
+   "EGC - Los Costenos",
+   "FARC-EMC - Civilians",
+   "FARC - Segunda Marquetalia  - Civilians",
+   "FARC-EMC - ELN",
+   "FARC-EMC - FARC - Segunda Marquetalia",
+   "Los Shottas - Los Espartanos",
+   "Tren de Aragua - Civilians",
+   "EGC - Autodefensas Conquistadoras de la Sierra Nevada",
+   "FARC-EMC - EGC",
+   "Los Costenos - Los Pepes",
+   "La Inmaculada - Civilians",
+   "Los Shottas - Civilians",
+   "Los Costenos - Civilians",
+   "ELN - FARC - Segunda Marquetalia",
+   "Los Flacos - Nueva Generación Gang",
+   "EGC - El Mesa",
+   "EMBF - Civilians",
+   "FARC-EMC - EMBF",
+   "Los Costenos - Los Papalópez",
+   "ELN - EMBF",
+   "EGC - EMBF",
+   "Los Pepes - Civilians",
+   "FARC- Frente 57 Yair Bermúdez - Civilians",
+   "Renacer ERPAC - Civilians",
+   "La Terraza - Civilians",
+   "EGC - La Terraza",
+   "La Cordillera gang - EGC",
+   "EGC - Norteños",
+   "Autodefensas Campesinas de Nariño - FARC-EMC",
+   "El Bolo - Civilians",
+   "El Ajizal - Los Venezolanos",
+   "Los Innombrables - Tren de Aragua",
+   "EGC - Los Papalópez",
+   "La Nueva Generación del Freseo - Los Costenos",
+   "La Nueva Generación del Freseo - Civilians",
+   "Lovaina - Civilians",
+   "La familia P - Civilians"
+  ],
+  "countries": [
+   "co"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 311,
+   "non étatique": 1196,
+   "unilatéral": 327
+  },
+  "sides": {
+   "a": [
+    "Government of Colombia",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "FARC-EMC",
+    "ELN",
+    "EMBF",
+    "FARC - Segunda Marquetalia",
+    "Guerrilla Coordinadora Nacional Ejército Bolivariano",
+    "EGC",
+    "FARC- Frente 57 Yair Bermúdez",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 1964,
+  "episode_start": 1964,
+  "ucdp_main_conflict_id": 289,
+  "deaths_12m": 1834,
+  "deaths_12m_provisional": 1003,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    82
+   ],
+   [
+    "2024-11",
+    103
+   ],
+   [
+    "2024-12",
+    71
+   ],
+   [
+    "2025-01",
+    221
+   ],
+   [
+    "2025-02",
+    33
+   ],
+   [
+    "2025-03",
+    92
+   ],
+   [
+    "2025-04",
+    85
+   ],
+   [
+    "2025-05",
+    76
+   ],
+   [
+    "2025-06",
+    88
+   ],
+   [
+    "2025-07",
+    57
+   ],
+   [
+    "2025-08",
+    89
+   ],
+   [
+    "2025-09",
+    87
+   ],
+   [
+    "2025-10",
+    29
+   ],
+   [
+    "2025-11",
+    65
+   ],
+   [
+    "2025-12",
+    64
+   ],
+   [
+    "2026-01",
+    132
+   ],
+   [
+    "2026-02",
+    113
+   ],
+   [
+    "2026-03",
+    77
+   ],
+   [
+    "2026-04",
+    108
+   ],
+   [
+    "2026-05",
+    204
+   ],
+   [
+    "2026-06",
+    286
+   ],
+   [
+    "2026-07",
+    240
+   ],
+   [
+    "2026-08",
+    274
+   ],
+   [
+    "2026-09",
+    242
+   ]
+  ],
+  "last_event": "2026-10-04",
+  "center": [
+   -74.467,
+   6.947
+  ],
+  "displaced": {
+   "refugees": 79669,
+   "idps": 7157716,
+   "asylum_seekers": 303273,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "co"
+  },
+  "summary_fr": "Le conflit armé colombien est un conflit interne en Colombie. On date son origine au milieu des années 1960 avec la création de différentes guérillas marxistes. À partir des années 1980, des groupes paramilitaires se constituent, se présentant comme une force de contre-insurrection opposée aux guérillas que l'État ne parvient pas à vaincre.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Conflit_armé_colombien",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=COL&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Conflit_armé_colombien"
+  ]
+ },
+ {
+  "id": "pakistan-baloutchistan",
+  "name_fr": "Pakistan : insurrection séparatiste au Baloutchistan",
+  "ucdp_conflict_ids": [
+   325,
+   14859
+  ],
+  "ucdp_conflict_names": [
+   "Pakistan: Balochistan",
+   "BRAS - Civilians"
+  ],
+  "countries": [
+   "pk"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 1478,
+   "unilatéral": 118
+  },
+  "sides": {
+   "a": [
+    "Government of Pakistan"
+   ],
+   "b": [
+    "BRAS"
+   ]
+  },
+  "start": 1973,
+  "episode_start": 2019,
+  "ucdp_main_conflict_id": 325,
+  "deaths_12m": 1596,
+  "deaths_12m_provisional": 4,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    33
+   ],
+   [
+    "2024-11",
+    72
+   ],
+   [
+    "2024-12",
+    28
+   ],
+   [
+    "2025-01",
+    90
+   ],
+   [
+    "2025-02",
+    47
+   ],
+   [
+    "2025-03",
+    119
+   ],
+   [
+    "2025-04",
+    40
+   ],
+   [
+    "2025-05",
+    77
+   ],
+   [
+    "2025-06",
+    49
+   ],
+   [
+    "2025-07",
+    46
+   ],
+   [
+    "2025-08",
+    37
+   ],
+   [
+    "2025-09",
+    41
+   ],
+   [
+    "2025-10",
+    59
+   ],
+   [
+    "2025-11",
+    31
+   ],
+   [
+    "2025-12",
+    48
+   ],
+   [
+    "2026-01",
+    300
+   ],
+   [
+    "2026-02",
+    53
+   ],
+   [
+    "2026-03",
+    51
+   ],
+   [
+    "2026-04",
+    38
+   ],
+   [
+    "2026-05",
+    88
+   ],
+   [
+    "2026-06",
+    155
+   ],
+   [
+    "2026-07",
+    288
+   ],
+   [
+    "2026-08",
+    217
+   ],
+   [
+    "2026-09",
+    268
+   ]
+  ],
+  "last_event": "2026-09-30",
+  "center": [
+   65.986,
+   28.57
+  ],
+  "displaced": {
+   "refugees": 90497,
+   "idps": 0,
+   "asylum_seekers": 65066,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "pk"
+  },
+  "summary_fr": "Un conflit de basse intensité oppose depuis l’indépendance du Pakistan l'armée pakistanaise aux tribus baloutches (voir Baloutchistan) menées par le Front de libération du Baloutchistan. Par commodité, ce conflit, qui connaît cinq périodes actives, est nommé ici guerres baloutches.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerres_baloutches",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=PAK&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerres_baloutches"
+  ]
+ },
+ {
+  "id": "niger",
+  "name_fr": "Niger : insurrection djihadiste",
+  "ucdp_conflict_ids": [
+   118,
+   430,
+   456,
+   506,
+   4377,
+   13639,
+   13968,
+   14864
+  ],
+  "ucdp_conflict_names": [
+   "XXX436",
+   "Niger: Government",
+   "Government of Niger - Civilians",
+   "IS - Civilians",
+   "XXX436 - Civilians",
+   "Niger: Islamic State",
+   "JNIM - Civilians",
+   "IS - JNIM"
+  ],
+  "countries": [
+   "ne"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 745,
+   "non étatique": 71,
+   "unilatéral": 311
+  },
+  "sides": {
+   "a": [
+    "Government of Niger",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "IS",
+    "JNIM",
+    "MPLJ",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2015,
+  "episode_start": 2015,
+  "ucdp_main_conflict_id": 13639,
+  "deaths_12m": 1127,
+  "deaths_12m_provisional": 758,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    10
+   ],
+   [
+    "2024-11",
+    11
+   ],
+   [
+    "2024-12",
+    258
+   ],
+   [
+    "2025-01",
+    12
+   ],
+   [
+    "2025-02",
+    96
+   ],
+   [
+    "2025-03",
+    116
+   ],
+   [
+    "2025-04",
+    24
+   ],
+   [
+    "2025-05",
+    203
+   ],
+   [
+    "2025-06",
+    210
+   ],
+   [
+    "2025-07",
+    134
+   ],
+   [
+    "2025-08",
+    19
+   ],
+   [
+    "2025-09",
+    160
+   ],
+   [
+    "2025-10",
+    47
+   ],
+   [
+    "2025-11",
+    27
+   ],
+   [
+    "2025-12",
+    47
+   ],
+   [
+    "2026-01",
+    178
+   ],
+   [
+    "2026-02",
+    102
+   ],
+   [
+    "2026-03",
+    101
+   ],
+   [
+    "2026-04",
+    51
+   ],
+   [
+    "2026-05",
+    132
+   ],
+   [
+    "2026-06",
+    250
+   ],
+   [
+    "2026-07",
+    88
+   ],
+   [
+    "2026-08",
+    42
+   ],
+   [
+    "2026-09",
+    62
+   ]
+  ],
+  "last_event": "2026-09-23",
+  "center": [
+   2.899,
+   14.221
+  ],
+  "displaced": {
+   "refugees": 85591,
+   "idps": 459585,
+   "asylum_seekers": 21662,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ne"
+  },
+  "summary_fr": "La guerre du Sahel, aussi appelée le conflit armé au Sahel, l'insurrection islamiste au Sahel, ou l'insurrection djihadiste au Sahel, est un conflit armé opposant les États de la région du Sahel — en particulier le Mali, le Niger, la Mauritanie, le Burkina Faso et le Tchad — et leurs alliés à des groupes salafistes djihadistes liés à al-Qaïda ou à l'État islamique.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_du_Sahel",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=NER&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_du_Sahel"
+  ]
+ },
+ {
+  "id": "tanzanie",
+  "name_fr": "Tanzanie : violences de l'État contre des civils (élections de 2025)",
+  "ucdp_conflict_ids": [
+   470
+  ],
+  "ucdp_conflict_names": [
+   "Government of Tanzania - Civilians"
+  ],
+  "countries": [
+   "tz"
+  ],
+  "type": "unilatéral",
+  "deaths_12m_by_type": {
+   "unilatéral": 1007
+  },
+  "sides": {
+   "a": [
+    "Government of Tanzania"
+   ],
+   "b": [
+    "Civilians"
+   ]
+  },
+  "start": 2001,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 470,
+  "deaths_12m": 1007,
+  "deaths_12m_provisional": 1,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    1
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    2
+   ],
+   [
+    "2025-05",
+    1
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    996
+   ],
+   [
+    "2025-11",
+    10
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    1
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    0
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    0
+   ],
+   [
+    "2026-08",
+    0
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-02-18",
+  "center": [
+   36.062,
+   -4.869
+  ],
+  "displaced": {
+   "refugees": 1592,
+   "idps": 0,
+   "asylum_seekers": 2777,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "tz"
+  },
+  "summary_fr": "L’élection présidentielle tanzanienne de 2025 a lieu le 29 octobre 2025 afin d'élire le président de la république unie de Tanzanie ainsi que le vice-président. Des élections législatives sont organisées simultanément.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Élection_présidentielle_tanzanienne_de_2025",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=TZA&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Élection_présidentielle_tanzanienne_de_2025"
+  ]
+ },
+ {
+  "id": "haiti",
+  "name_fr": "Haïti : guerre des gangs",
+  "ucdp_conflict_ids": [
+   70,
+   381,
+   444,
+   4329,
+   15163,
+   16085,
+   16097,
+   16265,
+   16984
+  ],
+  "ucdp_conflict_names": [
+   "XXX41",
+   "Haiti: Government",
+   "Government of Haiti - Civilians",
+   "XXX41 - Civilians",
+   "Gran Grif - Civilians",
+   "Kokorat sans ras - Civilians",
+   "Gran Grif, Kokorat sans ras - Civilians",
+   "Viv Ansanm - Civilians",
+   "Nan Belekou gang - Civilians"
+  ],
+  "countries": [
+   "ht"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 300,
+   "non étatique": 99,
+   "unilatéral": 469
+  },
+  "sides": {
+   "a": [
+    "Government of Haiti",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Viv Ansanm",
+    "Kokorat sans ras",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 1989,
+  "episode_start": 2024,
+  "ucdp_main_conflict_id": 381,
+  "deaths_12m": 868,
+  "deaths_12m_provisional": 317,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    268
+   ],
+   [
+    "2024-11",
+    139
+   ],
+   [
+    "2024-12",
+    336
+   ],
+   [
+    "2025-01",
+    671
+   ],
+   [
+    "2025-02",
+    283
+   ],
+   [
+    "2025-03",
+    176
+   ],
+   [
+    "2025-04",
+    447
+   ],
+   [
+    "2025-05",
+    180
+   ],
+   [
+    "2025-06",
+    17
+   ],
+   [
+    "2025-07",
+    191
+   ],
+   [
+    "2025-08",
+    30
+   ],
+   [
+    "2025-09",
+    113
+   ],
+   [
+    "2025-10",
+    179
+   ],
+   [
+    "2025-11",
+    126
+   ],
+   [
+    "2025-12",
+    35
+   ],
+   [
+    "2026-01",
+    36
+   ],
+   [
+    "2026-02",
+    40
+   ],
+   [
+    "2026-03",
+    83
+   ],
+   [
+    "2026-04",
+    30
+   ],
+   [
+    "2026-05",
+    131
+   ],
+   [
+    "2026-06",
+    31
+   ],
+   [
+    "2026-07",
+    99
+   ],
+   [
+    "2026-08",
+    52
+   ],
+   [
+    "2026-09",
+    26
+   ]
+  ],
+  "last_event": "2026-09-28",
+  "center": [
+   -72.367,
+   18.691
+  ],
+  "displaced": {
+   "refugees": 180702,
+   "idps": 1430903,
+   "asylum_seekers": 236318,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ht"
+  },
+  "summary_fr": "Depuis 2020, la capitale d'Haïti, Port-au-Prince, est le théâtre d'une guerre de gangs entre deux groupes criminels majeurs et leurs alliés: les Forces révolutionnaires de la famille du G9 et leurs alliés (FRG9 ou G9) et le G-Pep. Le pouvoir haïtien et les forces de sécurité haïtiennes ont du mal à maintenir leur contrôle sur Port-au-Prince au milieu de ce conflit.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Guerre_des_gangs_en_Haïti",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=HTI&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Guerre_des_gangs_en_Haïti"
+  ]
+ },
+ {
+  "id": "afghanistan-pakistan",
+  "name_fr": "Afghanistan – Pakistan : affrontements frontaliers",
+  "ucdp_conflict_ids": [
+   11639
+  ],
+  "ucdp_conflict_names": [
+   "Afghanistan - Pakistan"
+  ],
+  "countries": [
+   "af",
+   "pk"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 846
+  },
+  "sides": {
+   "a": [
+    "Government of Afghanistan"
+   ],
+   "b": [
+    "Government of Pakistan"
+   ]
+  },
+  "start": 2005,
+  "episode_start": 2024,
+  "ucdp_main_conflict_id": 11639,
+  "deaths_12m": 846,
+  "deaths_12m_provisional": 411,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    2
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    22
+   ],
+   [
+    "2025-01",
+    1
+   ],
+   [
+    "2025-02",
+    2
+   ],
+   [
+    "2025-03",
+    1
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    7
+   ],
+   [
+    "2025-06",
+    3
+   ],
+   [
+    "2025-07",
+    2
+   ],
+   [
+    "2025-08",
+    1
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    131
+   ],
+   [
+    "2025-11",
+    21
+   ],
+   [
+    "2025-12",
+    9
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    172
+   ],
+   [
+    "2026-03",
+    411
+   ],
+   [
+    "2026-04",
+    68
+   ],
+   [
+    "2026-05",
+    8
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    0
+   ],
+   [
+    "2026-08",
+    0
+   ],
+   [
+    "2026-09",
+    26
+   ]
+  ],
+  "last_event": "2026-09-27",
+  "center": [
+   68.729,
+   33.233
+  ],
+  "displaced": {
+   "refugees": 2671560,
+   "idps": 3199023,
+   "asylum_seekers": 270007,
+   "other_in_need": 1030958,
+   "year": 2025,
+   "country": "af"
+  },
+  "summary_fr": "Une série d'escarmouches armées et d'échanges de tirs occasionnels ont eu lieu le long de la frontière entre l'Afghanistan et le Pakistan entre les forces armées afghanes et pakistanaises depuis 1949. La dernière série d'hostilités entre les deux pays a commencé en avril 2007 et se poursuit à l'heure actuelle.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Escarmouches_à_la_frontière_entre_l'Afghanistan_et_le_Pakistan",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=AFG&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Escarmouches_à_la_frontière_entre_l'Afghanistan_et_le_Pakistan"
+  ]
+ },
+ {
+  "id": "equateur",
+  "name_fr": "Équateur : guerre des gangs et crise sécuritaire",
+  "ucdp_conflict_ids": [
+   49,
+   648,
+   4308,
+   15386,
+   16223,
+   16240,
+   16248,
+   16255,
+   16271,
+   16272,
+   16376,
+   16494,
+   16505
+  ],
+  "ucdp_conflict_names": [
+   "XXX130",
+   "Government of Ecuador - Civilians",
+   "XXX130 - Civilians",
+   "Los Choneros - Los Lobos",
+   "Los Aguilas - Los Tiguerones",
+   "Los Lobos  - Civilians",
+   "Los Chone Killers  - Latin Kings",
+   "Los Lobos  - Los Lobos Box",
+   "Fatales, Los Aguilas - Los Lobos , Los Tiguerones",
+   "Los Aguilas - Los Lobos , Los Tiguerones",
+   "Los Lagartos - Mafia 18",
+   "Los Lobos  - Los Saobox",
+   "Los Tiguerones Fenix faction - Los Tiguerones Igualitos faction"
+  ],
+  "countries": [
+   "ec"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "étatique": 0,
+   "non étatique": 722,
+   "unilatéral": 41
+  },
+  "sides": {
+   "a": [
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2021,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 15386,
+  "deaths_12m": 763,
+  "deaths_12m_provisional": 601,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    41
+   ],
+   [
+    "2024-11",
+    58
+   ],
+   [
+    "2024-12",
+    88
+   ],
+   [
+    "2025-01",
+    49
+   ],
+   [
+    "2025-02",
+    34
+   ],
+   [
+    "2025-03",
+    36
+   ],
+   [
+    "2025-04",
+    38
+   ],
+   [
+    "2025-05",
+    36
+   ],
+   [
+    "2025-06",
+    7
+   ],
+   [
+    "2025-07",
+    63
+   ],
+   [
+    "2025-08",
+    39
+   ],
+   [
+    "2025-09",
+    52
+   ],
+   [
+    "2025-10",
+    5
+   ],
+   [
+    "2025-11",
+    44
+   ],
+   [
+    "2025-12",
+    36
+   ],
+   [
+    "2026-01",
+    167
+   ],
+   [
+    "2026-02",
+    67
+   ],
+   [
+    "2026-03",
+    101
+   ],
+   [
+    "2026-04",
+    89
+   ],
+   [
+    "2026-05",
+    33
+   ],
+   [
+    "2026-06",
+    27
+   ],
+   [
+    "2026-07",
+    40
+   ],
+   [
+    "2026-08",
+    85
+   ],
+   [
+    "2026-09",
+    69
+   ]
+  ],
+  "last_event": "2026-09-30",
+  "center": [
+   -79.969,
+   -1.868
+  ],
+  "displaced": {
+   "refugees": 5723,
+   "idps": 0,
+   "asylum_seekers": 122060,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ec"
+  },
+  "summary_fr": "Depuis 2021, l'Équateur souffre d'une crise sécuritaire résultant de conflits entre organisations criminelles liées au trafic de drogue. Les conflits ont commencé après la mort de Jorge Luis Zambrano, chef du gang criminel Los Choneros, considéré comme l'un des plus anciens et des plus dangereux du monde.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Crise_sécuritaire_en_Équateur",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=ECU&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Crise_sécuritaire_en_Équateur"
+  ]
+ },
+ {
+  "id": "soudan-du-sud",
+  "name_fr": "Soudan du Sud : violences armées (gouvernement, SPLM/A-IO, milices)",
+  "ucdp_conflict_ids": [
+   197,
+   708,
+   4456,
+   11345,
+   11732,
+   14574,
+   15269,
+   15828,
+   16472,
+   16712,
+   16826,
+   16831,
+   16942,
+   16943,
+   16944,
+   16977,
+   17011
+  ],
+  "ucdp_conflict_names": [
+   "XXX626",
+   "Government of South Sudan - Civilians",
+   "XXX626 - Civilians",
+   "South Sudan: Government",
+   "SPLM/A - IO - Civilians",
+   "Gak Dinka - Manuer Dinka",
+   "Pakam Dinka - Gok Dinka",
+   "Gawaar Nuer - Lou Nuer",
+   "Apuk Giir - Marial Wau",
+   "SFA - Civilians",
+   "Nyarmuong - Jur-Man-Anger",
+   "Panyar Dinka - Alieb",
+   "Hol Dinka - Ayual Dinka",
+   "Mundari - Moru",
+   "Abang  - Malual Dinka",
+   "Luac Jang Dinka - Manuer Dinka",
+   "Aniin Dinka - Gak Dinka"
+  ],
+  "countries": [
+   "ss"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 194,
+   "non étatique": 323,
+   "unilatéral": 214
+  },
+  "sides": {
+   "a": [
+    "Government of South Sudan",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "SPLM/A - IO",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2011,
+  "episode_start": 2025,
+  "ucdp_main_conflict_id": 11345,
+  "deaths_12m": 731,
+  "deaths_12m_provisional": 493,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    36
+   ],
+   [
+    "2025-01",
+    73
+   ],
+   [
+    "2025-02",
+    14
+   ],
+   [
+    "2025-03",
+    235
+   ],
+   [
+    "2025-04",
+    29
+   ],
+   [
+    "2025-05",
+    106
+   ],
+   [
+    "2025-06",
+    4
+   ],
+   [
+    "2025-07",
+    3
+   ],
+   [
+    "2025-08",
+    11
+   ],
+   [
+    "2025-09",
+    92
+   ],
+   [
+    "2025-10",
+    56
+   ],
+   [
+    "2025-11",
+    10
+   ],
+   [
+    "2025-12",
+    28
+   ],
+   [
+    "2026-01",
+    182
+   ],
+   [
+    "2026-02",
+    47
+   ],
+   [
+    "2026-03",
+    128
+   ],
+   [
+    "2026-04",
+    23
+   ],
+   [
+    "2026-05",
+    46
+   ],
+   [
+    "2026-06",
+    37
+   ],
+   [
+    "2026-07",
+    49
+   ],
+   [
+    "2026-08",
+    109
+   ],
+   [
+    "2026-09",
+    16
+   ]
+  ],
+  "last_event": "2026-09-04",
+  "center": [
+   30.541,
+   7.239
+  ],
+  "displaced": {
+   "refugees": 2386499,
+   "idps": 1277527,
+   "asylum_seekers": 123984,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ss"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=SSD&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "syrie",
+  "name_fr": "Syrie : violences armées après la chute du régime Assad",
+  "ucdp_conflict_ids": [
+   150,
+   302,
+   506,
+   711,
+   4409,
+   13604,
+   13616,
+   13720,
+   13809,
+   16732,
+   16813
+  ],
+  "ucdp_conflict_names": [
+   "XXX652",
+   "Israel - Syria",
+   "IS - Civilians",
+   "Government of Syria - Civilians",
+   "XXX652 - Civilians",
+   "Syria: Islamic State",
+   "IS - SDF",
+   "SDF - Civilians",
+   "Syria: Government/Rojava Kurdistan",
+   "Syria: Suweida",
+   "Saraya Ansar al-Sunna - Civilians"
+  ],
+  "countries": [
+   "sy",
+   "il"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 281,
+   "non étatique": 89,
+   "unilatéral": 302
+  },
+  "sides": {
+   "a": [
+    "Government of Syria",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "SDF",
+    "IS",
+    "National Guard",
+    "Government of Israel",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2015,
+  "episode_start": 2023,
+  "ucdp_main_conflict_id": 13809,
+  "deaths_12m": 672,
+  "deaths_12m_provisional": 510,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    204
+   ],
+   [
+    "2024-11",
+    714
+   ],
+   [
+    "2024-12",
+    953
+   ],
+   [
+    "2025-01",
+    392
+   ],
+   [
+    "2025-02",
+    116
+   ],
+   [
+    "2025-03",
+    2244
+   ],
+   [
+    "2025-04",
+    25
+   ],
+   [
+    "2025-05",
+    33
+   ],
+   [
+    "2025-06",
+    57
+   ],
+   [
+    "2025-07",
+    431
+   ],
+   [
+    "2025-08",
+    41
+   ],
+   [
+    "2025-09",
+    37
+   ],
+   [
+    "2025-10",
+    21
+   ],
+   [
+    "2025-11",
+    10
+   ],
+   [
+    "2025-12",
+    42
+   ],
+   [
+    "2026-01",
+    122
+   ],
+   [
+    "2026-02",
+    74
+   ],
+   [
+    "2026-03",
+    54
+   ],
+   [
+    "2026-04",
+    59
+   ],
+   [
+    "2026-05",
+    54
+   ],
+   [
+    "2026-06",
+    60
+   ],
+   [
+    "2026-07",
+    71
+   ],
+   [
+    "2026-08",
+    65
+   ],
+   [
+    "2026-09",
+    40
+   ]
+  ],
+  "last_event": "2026-09-30",
+  "center": [
+   37.825,
+   35.25
+  ],
+  "displaced": {
+   "refugees": 4865764,
+   "idps": 5542227,
+   "asylum_seekers": 154355,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "sy"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=SYR&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "et-ucdp-267",
+  "name_fr": "Éthiopie : gouvernement contre EPFAS, TPLF",
+  "ucdp_conflict_ids": [
+   267
+  ],
+  "ucdp_conflict_names": [
+   "Ethiopia: Government"
+  ],
+  "countries": [
+   "et"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 593
+  },
+  "sides": {
+   "a": [
+    "Government of Ethiopia"
+   ],
+   "b": [
+    "EPFAS",
+    "TPLF"
+   ]
+  },
+  "start": 1960,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 267,
+  "deaths_12m": 593,
+  "deaths_12m_provisional": 382,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    1
+   ],
+   [
+    "2025-11",
+    16
+   ],
+   [
+    "2025-12",
+    2
+   ],
+   [
+    "2026-01",
+    18
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    1
+   ],
+   [
+    "2026-04",
+    4
+   ],
+   [
+    "2026-05",
+    0
+   ],
+   [
+    "2026-06",
+    11
+   ],
+   [
+    "2026-07",
+    0
+   ],
+   [
+    "2026-08",
+    48
+   ],
+   [
+    "2026-09",
+    492
+   ]
+  ],
+  "last_event": "2026-10-01",
+  "center": [
+   38.839,
+   12.537
+  ],
+  "displaced": {
+   "refugees": 164215,
+   "idps": 2378000,
+   "asylum_seekers": 148616,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "et"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=ETH&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "bresil",
+  "name_fr": "Brésil : affrontements entre factions criminelles",
+  "ucdp_conflict_ids": [
+   22,
+   448,
+   1222,
+   4281,
+   11934,
+   11935,
+   13972,
+   14224,
+   15517,
+   15522,
+   15523,
+   15562,
+   15614,
+   15735,
+   16514,
+   16898
+  ],
+  "ucdp_conflict_names": [
+   "XXX140",
+   "Government of Brazil - Civilians",
+   "Comando Vermelho - Civilians",
+   "XXX140 - Civilians",
+   "Comando Vermelho - Terceiro Comando Puro",
+   "Amigos dos Amigos - Terceiro Comando Puro",
+   "Comando Vermelho - PCC",
+   "PCC - Sindicato do Crime",
+   "GDE, PCC - Sindicato do Crime",
+   "Cartel do Norte - Comando Vermelho",
+   "Amigos Para Sempre - Família Terror Amapá",
+   "Terceiro Comando Puro - Civilians",
+   "Bonde dos 13, PCC - Comando Vermelho",
+   "GDE, PCC - Civilians",
+   "Milicia do Zinho - Civilians",
+   "Comando Vermelho - Família Terror Amapá"
+  ],
+  "countries": [
+   "br"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "étatique": 1,
+   "non étatique": 454,
+   "unilatéral": 111
+  },
+  "sides": {
+   "a": [
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2015,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 13972,
+  "deaths_12m": 566,
+  "deaths_12m_provisional": 337,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    127
+   ],
+   [
+    "2024-11",
+    120
+   ],
+   [
+    "2024-12",
+    132
+   ],
+   [
+    "2025-01",
+    106
+   ],
+   [
+    "2025-02",
+    42
+   ],
+   [
+    "2025-03",
+    20
+   ],
+   [
+    "2025-04",
+    20
+   ],
+   [
+    "2025-05",
+    95
+   ],
+   [
+    "2025-06",
+    64
+   ],
+   [
+    "2025-07",
+    78
+   ],
+   [
+    "2025-08",
+    62
+   ],
+   [
+    "2025-09",
+    34
+   ],
+   [
+    "2025-10",
+    35
+   ],
+   [
+    "2025-11",
+    31
+   ],
+   [
+    "2025-12",
+    32
+   ],
+   [
+    "2026-01",
+    155
+   ],
+   [
+    "2026-02",
+    59
+   ],
+   [
+    "2026-03",
+    55
+   ],
+   [
+    "2026-04",
+    38
+   ],
+   [
+    "2026-05",
+    30
+   ],
+   [
+    "2026-06",
+    41
+   ],
+   [
+    "2026-07",
+    25
+   ],
+   [
+    "2026-08",
+    36
+   ],
+   [
+    "2026-09",
+    29
+   ]
+  ],
+  "last_event": "2026-09-30",
+  "center": [
+   -52.163,
+   -9.569
+  ],
+  "displaced": {
+   "refugees": 6306,
+   "idps": 0,
+   "asylum_seekers": 66672,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "br"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=BRA&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "ethiopie-oromia",
+  "name_fr": "Éthiopie : insurrection en Oromia (Armée de libération oromo)",
+  "ucdp_conflict_ids": [
+   413,
+   14893
+  ],
+  "ucdp_conflict_names": [
+   "Ethiopia: Oromiya",
+   "OLA - Civilians"
+  ],
+  "countries": [
+   "et"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 460,
+   "unilatéral": 66
+  },
+  "sides": {
+   "a": [
+    "Government of Ethiopia"
+   ],
+   "b": [
+    "OLA"
+   ]
+  },
+  "start": 1974,
+  "episode_start": 2019,
+  "ucdp_main_conflict_id": 413,
+  "deaths_12m": 526,
+  "deaths_12m_provisional": 121,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    24
+   ],
+   [
+    "2024-11",
+    80
+   ],
+   [
+    "2024-12",
+    25
+   ],
+   [
+    "2025-01",
+    59
+   ],
+   [
+    "2025-02",
+    14
+   ],
+   [
+    "2025-03",
+    6
+   ],
+   [
+    "2025-04",
+    48
+   ],
+   [
+    "2025-05",
+    18
+   ],
+   [
+    "2025-06",
+    30
+   ],
+   [
+    "2025-07",
+    64
+   ],
+   [
+    "2025-08",
+    14
+   ],
+   [
+    "2025-09",
+    84
+   ],
+   [
+    "2025-10",
+    110
+   ],
+   [
+    "2025-11",
+    118
+   ],
+   [
+    "2025-12",
+    2
+   ],
+   [
+    "2026-01",
+    40
+   ],
+   [
+    "2026-02",
+    97
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    34
+   ],
+   [
+    "2026-05",
+    10
+   ],
+   [
+    "2026-06",
+    10
+   ],
+   [
+    "2026-07",
+    18
+   ],
+   [
+    "2026-08",
+    38
+   ],
+   [
+    "2026-09",
+    49
+   ]
+  ],
+  "last_event": "2026-09-27",
+  "center": [
+   38.069,
+   9.302
+  ],
+  "displaced": {
+   "refugees": 164215,
+   "idps": 2378000,
+   "asylum_seekers": 148616,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "et"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=ETH&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "mozambique",
+  "name_fr": "Mozambique : insurrection djihadiste (Cabo Delgado)",
+  "ucdp_conflict_ids": [
+   506,
+   700,
+   4370,
+   14845,
+   15756
+  ],
+  "ucdp_conflict_names": [
+   "IS - Civilians",
+   "Government of Mozambique - Civilians",
+   "XXX541 - Civilians",
+   "Mozambique: Islamic State",
+   "IS - Naparama"
+  ],
+  "countries": [
+   "mz"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 227,
+   "non étatique": 45,
+   "unilatéral": 152
+  },
+  "sides": {
+   "a": [
+    "Government of Mozambique"
+   ],
+   "b": [
+    "IS"
+   ]
+  },
+  "start": 2019,
+  "episode_start": 2019,
+  "ucdp_main_conflict_id": 14845,
+  "deaths_12m": 424,
+  "deaths_12m_provisional": 178,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    52
+   ],
+   [
+    "2024-11",
+    85
+   ],
+   [
+    "2024-12",
+    125
+   ],
+   [
+    "2025-01",
+    50
+   ],
+   [
+    "2025-02",
+    47
+   ],
+   [
+    "2025-03",
+    37
+   ],
+   [
+    "2025-04",
+    35
+   ],
+   [
+    "2025-05",
+    65
+   ],
+   [
+    "2025-06",
+    75
+   ],
+   [
+    "2025-07",
+    57
+   ],
+   [
+    "2025-08",
+    37
+   ],
+   [
+    "2025-09",
+    70
+   ],
+   [
+    "2025-10",
+    34
+   ],
+   [
+    "2025-11",
+    89
+   ],
+   [
+    "2025-12",
+    14
+   ],
+   [
+    "2026-01",
+    19
+   ],
+   [
+    "2026-02",
+    45
+   ],
+   [
+    "2026-03",
+    13
+   ],
+   [
+    "2026-04",
+    19
+   ],
+   [
+    "2026-05",
+    62
+   ],
+   [
+    "2026-06",
+    50
+   ],
+   [
+    "2026-07",
+    37
+   ],
+   [
+    "2026-08",
+    22
+   ],
+   [
+    "2026-09",
+    20
+   ]
+  ],
+  "last_event": "2026-09-30",
+  "center": [
+   39.784,
+   -12.609
+  ],
+  "displaced": {
+   "refugees": 119,
+   "idps": 461745,
+   "asylum_seekers": 7207,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "mz"
+  },
+  "summary_fr": "L'insurrection djihadiste au Mozambique est un conflit armé opposant depuis 2017 le gouvernement du Mozambique à des groupes salafistes djihadistes, dans la province de Cabo Delgado, dans le nord du pays.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Insurrection_djihadiste_au_Mozambique",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=MOZ&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Insurrection_djihadiste_au_Mozambique"
+  ]
+ },
+ {
+  "id": "et-unilateral",
+  "name_fr": "Éthiopie : violences armées contre des civils",
+  "ucdp_conflict_ids": [
+   474,
+   480,
+   934,
+   4314,
+   17031
+  ],
+  "ucdp_conflict_names": [
+   "Government of Ethiopia - Civilians",
+   "Government of Sudan - Civilians",
+   "TPLF - Civilians",
+   "XXX530 - Civilians",
+   "ANURF - Civilians"
+  ],
+  "countries": [
+   "et"
+  ],
+  "type": "unilatéral",
+  "deaths_12m_by_type": {
+   "unilatéral": 371
+  },
+  "sides": {
+   "a": [
+    "Government of Ethiopia",
+    "TPLF",
+    "ANURF",
+    "Government of Sudan",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Civilians"
+   ]
+  },
+  "start": 1989,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 474,
+  "deaths_12m": 371,
+  "deaths_12m_provisional": 170,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    160
+   ],
+   [
+    "2024-11",
+    76
+   ],
+   [
+    "2024-12",
+    73
+   ],
+   [
+    "2025-01",
+    113
+   ],
+   [
+    "2025-02",
+    41
+   ],
+   [
+    "2025-03",
+    130
+   ],
+   [
+    "2025-04",
+    55
+   ],
+   [
+    "2025-05",
+    48
+   ],
+   [
+    "2025-06",
+    39
+   ],
+   [
+    "2025-07",
+    30
+   ],
+   [
+    "2025-08",
+    18
+   ],
+   [
+    "2025-09",
+    29
+   ],
+   [
+    "2025-10",
+    4
+   ],
+   [
+    "2025-11",
+    18
+   ],
+   [
+    "2025-12",
+    49
+   ],
+   [
+    "2026-01",
+    43
+   ],
+   [
+    "2026-02",
+    41
+   ],
+   [
+    "2026-03",
+    37
+   ],
+   [
+    "2026-04",
+    15
+   ],
+   [
+    "2026-05",
+    18
+   ],
+   [
+    "2026-06",
+    27
+   ],
+   [
+    "2026-07",
+    28
+   ],
+   [
+    "2026-08",
+    88
+   ],
+   [
+    "2026-09",
+    3
+   ]
+  ],
+  "last_event": "2026-09-05",
+  "center": [
+   38.042,
+   8.827
+  ],
+  "displaced": {
+   "refugees": 164215,
+   "idps": 2378000,
+   "asylum_seekers": 148616,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "et"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=ETH&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "centrafrique",
+  "name_fr": "Centrafrique : guerre civile",
+  "ucdp_conflict_ids": [
+   31,
+   416,
+   453,
+   464,
+   559,
+   4290,
+   13689,
+   15049,
+   15208,
+   16103,
+   16842,
+   16945
+  ],
+  "ucdp_conflict_names": [
+   "XXX482",
+   "Central African Republic: Government",
+   "Government of Russia (Soviet Union) - Civilians",
+   "Government of Central African Republic - Civilians",
+   "LRA - Civilians",
+   "XXX482 - Civilians",
+   "Farmers (CAR) - Herders (CAR)",
+   "PRNC - Civilians",
+   "CPC - Civilians",
+   "AAKG - Civilians",
+   "CPC - CPC-F",
+   "MPC, UPC - Civilians"
+  ],
+  "countries": [
+   "cf"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 191,
+   "non étatique": 7,
+   "unilatéral": 62
+  },
+  "sides": {
+   "a": [
+    "Government of Central African Republic",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "CPC-F",
+    "CMSPR",
+    "ASP",
+    "AAKG",
+    "CPC",
+    "LRA",
+    "PRNC",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2001,
+  "episode_start": 2017,
+  "ucdp_main_conflict_id": 416,
+  "deaths_12m": 260,
+  "deaths_12m_provisional": 133,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    30
+   ],
+   [
+    "2024-11",
+    19
+   ],
+   [
+    "2024-12",
+    27
+   ],
+   [
+    "2025-01",
+    24
+   ],
+   [
+    "2025-02",
+    101
+   ],
+   [
+    "2025-03",
+    58
+   ],
+   [
+    "2025-04",
+    5
+   ],
+   [
+    "2025-05",
+    18
+   ],
+   [
+    "2025-06",
+    11
+   ],
+   [
+    "2025-07",
+    11
+   ],
+   [
+    "2025-08",
+    6
+   ],
+   [
+    "2025-09",
+    40
+   ],
+   [
+    "2025-10",
+    2
+   ],
+   [
+    "2025-11",
+    8
+   ],
+   [
+    "2025-12",
+    78
+   ],
+   [
+    "2026-01",
+    35
+   ],
+   [
+    "2026-02",
+    28
+   ],
+   [
+    "2026-03",
+    10
+   ],
+   [
+    "2026-04",
+    29
+   ],
+   [
+    "2026-05",
+    11
+   ],
+   [
+    "2026-06",
+    32
+   ],
+   [
+    "2026-07",
+    8
+   ],
+   [
+    "2026-08",
+    11
+   ],
+   [
+    "2026-09",
+    8
+   ]
+  ],
+  "last_event": "2026-09-22",
+  "center": [
+   21.777,
+   7.794
+  ],
+  "displaced": {
+   "refugees": 674222,
+   "idps": 427479,
+   "asylum_seekers": 82600,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "cf"
+  },
+  "summary_fr": "La troisième guerre civile centrafricaine est un conflit inter-communautaire apparu au cours de l'année 2013 en République centrafricaine.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Troisième_guerre_civile_centrafricaine",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=CAF&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Troisième_guerre_civile_centrafricaine"
+  ]
+ },
+ {
+  "id": "et-non-etatique",
+  "name_fr": "Éthiopie : affrontements entre groupes armés non étatiques",
+  "ucdp_conflict_ids": [
+   55,
+   4582,
+   9432,
+   14542,
+   16235,
+   16849,
+   16903,
+   16974,
+   17045,
+   17052
+  ],
+  "ucdp_conflict_names": [
+   "XXX530 - XXX530",
+   "Anuak - Nuer",
+   "Guji - Sidama",
+   "Amhara - Qimant",
+   "Fano - OLA",
+   "TPF - TPLF",
+   "Fano - Tekeze Guards",
+   "Fano - TPF",
+   "EPFAS - TPF",
+   "Argobba - Oromo"
+  ],
+  "countries": [
+   "et"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "non étatique": 257
+  },
+  "sides": {
+   "a": [
+    "Anuak",
+    "Guji",
+    "Amhara",
+    "Fano",
+    "Argobba",
+    "TPF",
+    "EPFAS",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Nuer",
+    "Sidama",
+    "Qimant",
+    "Tekeze Guards",
+    "Oromo",
+    "TPLF",
+    "OLA",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 1997,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 4582,
+  "deaths_12m": 257,
+  "deaths_12m_provisional": 82,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    52
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    2
+   ],
+   [
+    "2025-02",
+    23
+   ],
+   [
+    "2025-03",
+    5
+   ],
+   [
+    "2025-04",
+    2
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    100
+   ],
+   [
+    "2025-07",
+    9
+   ],
+   [
+    "2025-08",
+    3
+   ],
+   [
+    "2025-09",
+    5
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    3
+   ],
+   [
+    "2025-12",
+    151
+   ],
+   [
+    "2026-01",
+    6
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    4
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    22
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    22
+   ],
+   [
+    "2026-08",
+    19
+   ],
+   [
+    "2026-09",
+    30
+   ]
+  ],
+  "last_event": "2026-10-01",
+  "center": [
+   35.749,
+   8.488
+  ],
+  "displaced": {
+   "refugees": 164215,
+   "idps": 2378000,
+   "asylum_seekers": 148616,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "et"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=ETH&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "cameroun-anglophone",
+  "name_fr": "Cameroun : crise anglophone (Ambazonie)",
+  "ucdp_conflict_ids": [
+   14129,
+   14605
+  ],
+  "ucdp_conflict_names": [
+   "Cameroon: Ambazonia",
+   "Ambazonia insurgents - Civilians"
+  ],
+  "countries": [
+   "cm"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 148,
+   "unilatéral": 64
+  },
+  "sides": {
+   "a": [
+    "Government of Cameroon"
+   ],
+   "b": [
+    "Ambazonia insurgents"
+   ]
+  },
+  "start": 2017,
+  "episode_start": 2017,
+  "ucdp_main_conflict_id": 14129,
+  "deaths_12m": 212,
+  "deaths_12m_provisional": 73,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    19
+   ],
+   [
+    "2024-11",
+    11
+   ],
+   [
+    "2024-12",
+    7
+   ],
+   [
+    "2025-01",
+    24
+   ],
+   [
+    "2025-02",
+    11
+   ],
+   [
+    "2025-03",
+    15
+   ],
+   [
+    "2025-04",
+    16
+   ],
+   [
+    "2025-05",
+    15
+   ],
+   [
+    "2025-06",
+    13
+   ],
+   [
+    "2025-07",
+    11
+   ],
+   [
+    "2025-08",
+    12
+   ],
+   [
+    "2025-09",
+    18
+   ],
+   [
+    "2025-10",
+    1
+   ],
+   [
+    "2025-11",
+    17
+   ],
+   [
+    "2025-12",
+    24
+   ],
+   [
+    "2026-01",
+    29
+   ],
+   [
+    "2026-02",
+    7
+   ],
+   [
+    "2026-03",
+    12
+   ],
+   [
+    "2026-04",
+    24
+   ],
+   [
+    "2026-05",
+    19
+   ],
+   [
+    "2026-06",
+    25
+   ],
+   [
+    "2026-07",
+    20
+   ],
+   [
+    "2026-08",
+    13
+   ],
+   [
+    "2026-09",
+    21
+   ]
+  ],
+  "last_event": "2026-09-27",
+  "center": [
+   10.244,
+   5.869
+  ],
+  "displaced": {
+   "refugees": 140366,
+   "idps": 1004257,
+   "asylum_seekers": 37991,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "cm"
+  },
+  "summary_fr": "La crise anglophone au Cameroun aussi appelée la guerre d'Ambazonie, est un conflit armé qui se déroule depuis 2017 dans les deux régions anglophones du Cameroun, le Nord-Ouest et le Sud-Ouest (NOSO), opposant le gouvernement camerounais majoritairement francophone à divers groupes séparatistes issus de la minorité anglophone.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Crise_anglophone_au_Cameroun",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=CMR&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Crise_anglophone_au_Cameroun"
+  ]
+ },
+ {
+  "id": "za-non-etatique",
+  "name_fr": "Afrique du Sud : affrontements entre groupes armés non étatiques",
+  "ucdp_conflict_ids": [
+   142,
+   4839,
+   10825,
+   16205,
+   16586,
+   16968,
+   16981,
+   17013,
+   17026
+  ],
+  "ucdp_conflict_names": [
+   "XXX560 - XXX560",
+   "CATA  - Codeta",
+   "Black Axe - SVC",
+   "Americans - Fancy Boys",
+   "Fancy Boys - Hard Livings",
+   "Americans - NTKs",
+   "Fancy Boys - Terrible Josters",
+   "Fancy Boys - Junky Funky Kids",
+   "Dollar Kids - OTF"
+  ],
+  "countries": [
+   "za"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "non étatique": 194
+  },
+  "sides": {
+   "a": [
+    "CATA",
+    "Americans",
+    "Fancy Boys",
+    "Dollar Kids",
+    "Black Axe",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Codeta",
+    "NTKs",
+    "Terrible Josters",
+    "Junky Funky Kids",
+    "OTF",
+    "SVC",
+    "Hard Livings",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 1994,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 4839,
+  "deaths_12m": 194,
+  "deaths_12m_provisional": 183,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    8
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    5
+   ],
+   [
+    "2025-09",
+    3
+   ],
+   [
+    "2025-10",
+    1
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    18
+   ],
+   [
+    "2026-02",
+    15
+   ],
+   [
+    "2026-03",
+    27
+   ],
+   [
+    "2026-04",
+    5
+   ],
+   [
+    "2026-05",
+    26
+   ],
+   [
+    "2026-06",
+    30
+   ],
+   [
+    "2026-07",
+    7
+   ],
+   [
+    "2026-08",
+    39
+   ],
+   [
+    "2026-09",
+    26
+   ]
+  ],
+  "last_event": "2026-10-01",
+  "center": [
+   20.929,
+   -32.249
+  ],
+  "displaced": {
+   "refugees": 1319,
+   "idps": 0,
+   "asylum_seekers": 2575,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "za"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=ZAF&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "cambodge-thailande",
+  "name_fr": "Cambodge – Thaïlande : conflit frontalier",
+  "ucdp_conflict_ids": [
+   294
+  ],
+  "ucdp_conflict_names": [
+   "Cambodia (Kampuchea) - Thailand"
+  ],
+  "countries": [
+   "kh",
+   "th"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 162
+  },
+  "sides": {
+   "a": [
+    "Government of Cambodia (Kampuchea)"
+   ],
+   "b": [
+    "Government of Thailand"
+   ]
+  },
+  "start": 1975,
+  "episode_start": 2025,
+  "ucdp_main_conflict_id": 294,
+  "deaths_12m": 162,
+  "deaths_12m_provisional": 0,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    1
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    89
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    162
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    0
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    0
+   ],
+   [
+    "2026-08",
+    0
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2025-12-27",
+  "center": [
+   103.31,
+   14.252
+  ],
+  "displaced": {
+   "refugees": 11332,
+   "idps": 517555,
+   "asylum_seekers": 1646,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "kh"
+  },
+  "summary_fr": "Le conflit frontalier entre le Cambodge et la Thaïlande depuis 2025 est un différend territorial concernant plusieurs zones contestées le long de la frontière entre le Cambodge et la Thaïlande. Il a donné lieu à des affrontements entre les armées des deux pays et au déplacement de populations civiles.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Conflit_frontalier_entre_le_Cambodge_et_la_Thaïlande_depuis_2025",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=KHM&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Conflit_frontalier_entre_le_Cambodge_et_la_Thaïlande_depuis_2025"
+  ]
+ },
+ {
+  "id": "inde-naxalites",
+  "name_fr": "Inde : rébellion naxalite (maoïste)",
+  "ucdp_conflict_ids": [
+   227
+  ],
+  "ucdp_conflict_names": [
+   "India: Government"
+  ],
+  "countries": [
+   "in"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 143
+  },
+  "sides": {
+   "a": [
+    "Government of India"
+   ],
+   "b": [
+    "CPI-Maoist"
+   ]
+  },
+  "start": 1948,
+  "episode_start": 1996,
+  "ucdp_main_conflict_id": 227,
+  "deaths_12m": 143,
+  "deaths_12m_provisional": 5,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    51
+   ],
+   [
+    "2024-11",
+    20
+   ],
+   [
+    "2024-12",
+    18
+   ],
+   [
+    "2025-01",
+    58
+   ],
+   [
+    "2025-02",
+    47
+   ],
+   [
+    "2025-03",
+    58
+   ],
+   [
+    "2025-04",
+    35
+   ],
+   [
+    "2025-05",
+    68
+   ],
+   [
+    "2025-06",
+    23
+   ],
+   [
+    "2025-07",
+    16
+   ],
+   [
+    "2025-08",
+    9
+   ],
+   [
+    "2025-09",
+    37
+   ],
+   [
+    "2025-10",
+    7
+   ],
+   [
+    "2025-11",
+    26
+   ],
+   [
+    "2025-12",
+    33
+   ],
+   [
+    "2026-01",
+    45
+   ],
+   [
+    "2026-02",
+    17
+   ],
+   [
+    "2026-03",
+    1
+   ],
+   [
+    "2026-04",
+    7
+   ],
+   [
+    "2026-05",
+    5
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    0
+   ],
+   [
+    "2026-08",
+    0
+   ],
+   [
+    "2026-09",
+    2
+   ]
+  ],
+  "last_event": "2026-09-20",
+  "center": [
+   82.449,
+   19.943
+  ],
+  "displaced": {
+   "refugees": 42610,
+   "idps": 0,
+   "asylum_seekers": 181121,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "in"
+  },
+  "summary_fr": "La rébellion naxalite est une insurrection de maoïstes en Inde contre le gouvernement. C'est un conflit dit de basse intensité et fut décrite en 2010 par le gouvernement indien comme constituant la plus grande menace pour la sécurité du pays.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Rébellion_naxalite",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=IND&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Rébellion_naxalite"
+  ]
+ },
+ {
+  "id": "iran-insurrections",
+  "name_fr": "Iran : insurrections armées (Sistan-et-Baloutchistan, Kurdistan)",
+  "ucdp_conflict_ids": [
+   205,
+   338
+  ],
+  "ucdp_conflict_names": [
+   "Iran: Kurdistan",
+   "Iran: Government"
+  ],
+  "countries": [
+   "ir",
+   "iq"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 141
+  },
+  "sides": {
+   "a": [
+    "Government of Iran"
+   ],
+   "b": [
+    "Jaish al-Adl",
+    "PJAK",
+    "KDPI",
+    "Komalah",
+    "PKK",
+    "PAK",
+    "Ansar al-Furqan"
+   ]
+  },
+  "start": 1972,
+  "episode_start": 2023,
+  "ucdp_main_conflict_id": 338,
+  "deaths_12m": 141,
+  "deaths_12m_provisional": 96,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    22
+   ],
+   [
+    "2024-11",
+    30
+   ],
+   [
+    "2024-12",
+    4
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    1
+   ],
+   [
+    "2025-03",
+    2
+   ],
+   [
+    "2025-04",
+    2
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    17
+   ],
+   [
+    "2025-08",
+    25
+   ],
+   [
+    "2025-09",
+    8
+   ],
+   [
+    "2025-10",
+    2
+   ],
+   [
+    "2025-11",
+    1
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    9
+   ],
+   [
+    "2026-02",
+    7
+   ],
+   [
+    "2026-03",
+    12
+   ],
+   [
+    "2026-04",
+    12
+   ],
+   [
+    "2026-05",
+    5
+   ],
+   [
+    "2026-06",
+    32
+   ],
+   [
+    "2026-07",
+    27
+   ],
+   [
+    "2026-08",
+    11
+   ],
+   [
+    "2026-09",
+    23
+   ]
+  ],
+  "last_event": "2026-10-01",
+  "center": [
+   53.739,
+   31.874
+  ],
+  "displaced": {
+   "refugees": 157912,
+   "idps": 0,
+   "asylum_seekers": 49263,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ir"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=IRN&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "td-non-etatique",
+  "name_fr": "Tchad : affrontements entre groupes armés non étatiques",
+  "ucdp_conflict_ids": [
+   32,
+   4701,
+   14913,
+   16757,
+   16987,
+   16994
+  ],
+  "ucdp_conflict_names": [
+   "XXX483 - XXX483",
+   "Tama - Zaghawa",
+   "Farmers (Chad) - Herders (Chad)",
+   "Bulala - Kreda",
+   "Daguia (Buduma) - Kella Dallah (Buduma)",
+   "Fulani - Kim"
+  ],
+  "countries": [
+   "td"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "non étatique": 136
+  },
+  "sides": {
+   "a": [
+    "Tama",
+    "Bulala",
+    "Farmers (Chad)",
+    "Fulani",
+    "Daguia (Buduma)",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Zaghawa",
+    "Kreda",
+    "Herders (Chad)",
+    "Kim",
+    "Kella Dallah (Buduma)",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2006,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 4701,
+  "deaths_12m": 136,
+  "deaths_12m_provisional": 18,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    1
+   ],
+   [
+    "2024-12",
+    24
+   ],
+   [
+    "2025-01",
+    14
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    51
+   ],
+   [
+    "2025-06",
+    18
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    1
+   ],
+   [
+    "2025-09",
+    4
+   ],
+   [
+    "2025-10",
+    7
+   ],
+   [
+    "2025-11",
+    38
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    3
+   ],
+   [
+    "2026-03",
+    5
+   ],
+   [
+    "2026-04",
+    45
+   ],
+   [
+    "2026-05",
+    6
+   ],
+   [
+    "2026-06",
+    14
+   ],
+   [
+    "2026-07",
+    2
+   ],
+   [
+    "2026-08",
+    16
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-08-21",
+  "center": [
+   18.586,
+   12.485
+  ],
+  "displaced": {
+   "refugees": 15281,
+   "idps": 219595,
+   "asylum_seekers": 17111,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "td"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=TCD&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "philippines-communistes",
+  "name_fr": "Philippines : insurrection communiste (CPP/NPA)",
+  "ucdp_conflict_ids": [
+   209
+  ],
+  "ucdp_conflict_names": [
+   "Philippines: Government"
+  ],
+  "countries": [
+   "ph"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 112
+  },
+  "sides": {
+   "a": [
+    "Government of Philippines"
+   ],
+   "b": [
+    "CPP"
+   ]
+  },
+  "start": 1946,
+  "episode_start": 1999,
+  "ucdp_main_conflict_id": 209,
+  "deaths_12m": 112,
+  "deaths_12m_provisional": 48,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    13
+   ],
+   [
+    "2024-11",
+    8
+   ],
+   [
+    "2024-12",
+    12
+   ],
+   [
+    "2025-01",
+    32
+   ],
+   [
+    "2025-02",
+    6
+   ],
+   [
+    "2025-03",
+    12
+   ],
+   [
+    "2025-04",
+    15
+   ],
+   [
+    "2025-05",
+    2
+   ],
+   [
+    "2025-06",
+    17
+   ],
+   [
+    "2025-07",
+    18
+   ],
+   [
+    "2025-08",
+    15
+   ],
+   [
+    "2025-09",
+    4
+   ],
+   [
+    "2025-10",
+    1
+   ],
+   [
+    "2025-11",
+    4
+   ],
+   [
+    "2025-12",
+    15
+   ],
+   [
+    "2026-01",
+    32
+   ],
+   [
+    "2026-02",
+    4
+   ],
+   [
+    "2026-03",
+    9
+   ],
+   [
+    "2026-04",
+    24
+   ],
+   [
+    "2026-05",
+    6
+   ],
+   [
+    "2026-06",
+    6
+   ],
+   [
+    "2026-07",
+    3
+   ],
+   [
+    "2026-08",
+    3
+   ],
+   [
+    "2026-09",
+    5
+   ]
+  ],
+  "last_event": "2026-09-12",
+  "center": [
+   123.162,
+   11.969
+  ],
+  "displaced": {
+   "refugees": 807,
+   "idps": 43500,
+   "asylum_seekers": 6088,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ph"
+  },
+  "summary_fr": "L'insurrection communiste aux Philippines ou rébellion de la Nouvelle Armée populaire (souvent abrégée en rébellion NPA) est un conflit en cours opposant le gouvernement des Philippines à la Nouvelle Armée populaire, la branche armée du Parti communiste des Philippines, d'idéologie marxiste-léniniste-maoïste.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Insurrection_communiste_aux_Philippines",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=PHL&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Insurrection_communiste_aux_Philippines"
+  ]
+ },
+ {
+  "id": "af-ucdp-333",
+  "name_fr": "Afghanistan : gouvernement contre AFF, NRF, Forces of Juma Khan Fateh",
+  "ucdp_conflict_ids": [
+   333
+  ],
+  "ucdp_conflict_names": [
+   "Afghanistan: Government"
+  ],
+  "countries": [
+   "af"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 107
+  },
+  "sides": {
+   "a": [
+    "Government of Afghanistan"
+   ],
+   "b": [
+    "AFF",
+    "NRF",
+    "Forces of Juma Khan Fateh",
+    "AUF",
+    "NMF",
+    "Sepahiyan-e Mihan",
+    "ARF"
+   ]
+  },
+  "start": 1975,
+  "episode_start": 1978,
+  "ucdp_main_conflict_id": 333,
+  "deaths_12m": 107,
+  "deaths_12m_provisional": 67,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    2
+   ],
+   [
+    "2024-12",
+    5
+   ],
+   [
+    "2025-01",
+    3
+   ],
+   [
+    "2025-02",
+    6
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    8
+   ],
+   [
+    "2025-06",
+    2
+   ],
+   [
+    "2025-07",
+    2
+   ],
+   [
+    "2025-08",
+    1
+   ],
+   [
+    "2025-09",
+    5
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    1
+   ],
+   [
+    "2026-05",
+    0
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    6
+   ],
+   [
+    "2026-08",
+    29
+   ],
+   [
+    "2026-09",
+    71
+   ]
+  ],
+  "last_event": "2026-09-29",
+  "center": [
+   70.867,
+   35.986
+  ],
+  "displaced": {
+   "refugees": 2671560,
+   "idps": 3199023,
+   "asylum_seekers": 270007,
+   "other_in_need": 1030958,
+   "year": 2025,
+   "country": "af"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=AFG&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "indonesie-papouasie",
+  "name_fr": "Indonésie : conflit en Papouasie occidentale",
+  "ucdp_conflict_ids": [
+   291
+  ],
+  "ucdp_conflict_names": [
+   "Indonesia: West Papua"
+  ],
+  "countries": [
+   "id"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 106
+  },
+  "sides": {
+   "a": [
+    "Government of Indonesia"
+   ],
+   "b": [
+    "OPM"
+   ]
+  },
+  "start": 1965,
+  "episode_start": 2018,
+  "ucdp_main_conflict_id": 291,
+  "deaths_12m": 106,
+  "deaths_12m_provisional": 41,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    1
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    12
+   ],
+   [
+    "2025-01",
+    3
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    3
+   ],
+   [
+    "2025-04",
+    25
+   ],
+   [
+    "2025-05",
+    14
+   ],
+   [
+    "2025-06",
+    7
+   ],
+   [
+    "2025-07",
+    7
+   ],
+   [
+    "2025-08",
+    7
+   ],
+   [
+    "2025-09",
+    3
+   ],
+   [
+    "2025-10",
+    25
+   ],
+   [
+    "2025-11",
+    4
+   ],
+   [
+    "2025-12",
+    6
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    8
+   ],
+   [
+    "2026-03",
+    5
+   ],
+   [
+    "2026-04",
+    15
+   ],
+   [
+    "2026-05",
+    16
+   ],
+   [
+    "2026-06",
+    4
+   ],
+   [
+    "2026-07",
+    6
+   ],
+   [
+    "2026-08",
+    6
+   ],
+   [
+    "2026-09",
+    11
+   ]
+  ],
+  "last_event": "2026-09-25",
+  "center": [
+   137.829,
+   -3.936
+  ],
+  "displaced": {
+   "refugees": 9215,
+   "idps": 0,
+   "asylum_seekers": 8205,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "id"
+  },
+  "summary_fr": "Il existe un mouvement séparatiste en Papouasie occidentale. Ce territoire, anciennement Nouvelle-Guinée néerlandaise, est conquis par l'Indonésie en 1963 et est divisé en deux provinces administratives: la Papouasie et la Papouasie occidentale, qui sont les traductions en français des noms officiels indonésiens, respectivement Papua et Papua Barat (une réforme de 2022 institue désormais six…",
+  "summary_source": "https://fr.wikipedia.org/wiki/Conflit_en_Papouasie_occidentale",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=IDN&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Conflit_en_Papouasie_occidentale"
+  ]
+ },
+ {
+  "id": "za-unilateral",
+  "name_fr": "Afrique du Sud : violences armées contre des civils",
+  "ucdp_conflict_ids": [
+   477,
+   4401,
+   16988
+  ],
+  "ucdp_conflict_names": [
+   "Government of South Africa - Civilians",
+   "XXX560 - Civilians",
+   "March and March, Operation Dudula - Civilians"
+  ],
+  "countries": [
+   "za"
+  ],
+  "type": "unilatéral",
+  "deaths_12m_by_type": {
+   "unilatéral": 102
+  },
+  "sides": {
+   "a": [
+    "March and March",
+    "Operation Dudula",
+    "Government of South Africa",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Civilians"
+   ]
+  },
+  "start": 2026,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 16988,
+  "deaths_12m": 102,
+  "deaths_12m_provisional": 99,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    9
+   ],
+   [
+    "2026-02",
+    2
+   ],
+   [
+    "2026-03",
+    5
+   ],
+   [
+    "2026-04",
+    1
+   ],
+   [
+    "2026-05",
+    3
+   ],
+   [
+    "2026-06",
+    12
+   ],
+   [
+    "2026-07",
+    18
+   ],
+   [
+    "2026-08",
+    6
+   ],
+   [
+    "2026-09",
+    46
+   ]
+  ],
+  "last_event": "2026-09-27",
+  "center": [
+   24.109,
+   -30.508
+  ],
+  "displaced": {
+   "refugees": 1319,
+   "idps": 0,
+   "asylum_seekers": 2575,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "za"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=ZAF&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "pk-unilateral",
+  "name_fr": "Pakistan : violences armées contre des civils",
+  "ucdp_conflict_ids": [
+   506,
+   730,
+   15855
+  ],
+  "ucdp_conflict_names": [
+   "IS - Civilians",
+   "Government of Pakistan - Civilians",
+   "SRA - Civilians"
+  ],
+  "countries": [
+   "pk"
+  ],
+  "type": "unilatéral",
+  "deaths_12m_by_type": {
+   "unilatéral": 90
+  },
+  "sides": {
+   "a": [
+    "IS",
+    "Government of Pakistan",
+    "SRA"
+   ],
+   "b": [
+    "Civilians"
+   ]
+  },
+  "start": 2004,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 506,
+  "deaths_12m": 90,
+  "deaths_12m_provisional": 0,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    1
+   ],
+   [
+    "2024-11",
+    2
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    3
+   ],
+   [
+    "2025-02",
+    1
+   ],
+   [
+    "2025-03",
+    3
+   ],
+   [
+    "2025-04",
+    1
+   ],
+   [
+    "2025-05",
+    5
+   ],
+   [
+    "2025-06",
+    2
+   ],
+   [
+    "2025-07",
+    5
+   ],
+   [
+    "2025-08",
+    3
+   ],
+   [
+    "2025-09",
+    8
+   ],
+   [
+    "2025-10",
+    7
+   ],
+   [
+    "2025-11",
+    8
+   ],
+   [
+    "2025-12",
+    1
+   ],
+   [
+    "2026-01",
+    1
+   ],
+   [
+    "2026-02",
+    38
+   ],
+   [
+    "2026-03",
+    3
+   ],
+   [
+    "2026-04",
+    7
+   ],
+   [
+    "2026-05",
+    8
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    3
+   ],
+   [
+    "2026-08",
+    8
+   ],
+   [
+    "2026-09",
+    6
+   ]
+  ],
+  "last_event": "2026-09-29",
+  "center": [
+   70.455,
+   32.197
+  ],
+  "displaced": {
+   "refugees": 90497,
+   "idps": 0,
+   "asylum_seekers": 65066,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "pk"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=PAK&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "venezuela-etats-unis",
+  "name_fr": "Venezuela : intervention militaire des États-Unis",
+  "ucdp_conflict_ids": [
+   277
+  ],
+  "ucdp_conflict_names": [
+   "Venezuela: Government"
+  ],
+  "countries": [
+   "ve",
+   "us"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 81
+  },
+  "sides": {
+   "a": [
+    "Government of United States of America"
+   ],
+   "b": [
+    "Government of Venezuela"
+   ]
+  },
+  "start": 1962,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 277,
+  "deaths_12m": 81,
+  "deaths_12m_provisional": 0,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    81
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    0
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    0
+   ],
+   [
+    "2026-08",
+    0
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-01-03",
+  "center": [
+   -66.88,
+   10.482
+  ],
+  "displaced": {
+   "refugees": 417010,
+   "idps": 0,
+   "asylum_seekers": 1181156,
+   "other_in_need": 6042706,
+   "year": 2025,
+   "country": "ve"
+  },
+  "summary_fr": "L'enlèvement de Nicolás Maduro par les États-Unis, et celui de son épouse, Cilia Flores, surviennent le 3 janvier 2026 lorsque les forces américaines bombardent plusieurs sites du nord du Venezuela, y compris la capitale Caracas, sous le nom de code opération Absolute Resolve (en français: « opération Détermination absolue »).",
+  "summary_source": "https://fr.wikipedia.org/wiki/Enlèvement_de_Nicolás_Maduro_et_Cilia_Flores_par_les_États-Unis",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=VEN&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Enlèvement_de_Nicolás_Maduro_et_Cilia_Flores_par_les_États-Unis"
+  ]
+ },
+ {
+  "id": "bd-non-etatique",
+  "name_fr": "Bangladesh : affrontements entre groupes armés non étatiques",
+  "ucdp_conflict_ids": [
+   12,
+   4591,
+   10507,
+   10513,
+   11907,
+   15805,
+   16176,
+   16551,
+   16959,
+   16980,
+   17023
+  ],
+  "ucdp_conflict_names": [
+   "XXX771 - XXX771",
+   "Supporters of Awami League - Supporters of BNP",
+   "Supporters of BNP - Supporters of Jamaat-e-Islami",
+   "Supporters of Awami League - Supporters of Jamaat-e-Islami",
+   "PCJSS - UPDF",
+   "ARSA - RSO",
+   "UPDF - UPDF-Democratic",
+   "Supporters of Giasuddin Chowdhury - Supporters of Golam Khondokar",
+   "ARNO - ARSA",
+   "Supporters of BNP - Supporters of Islami Chhatra Shibir",
+   "ARA - RSO"
+  ],
+  "countries": [
+   "bd"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "non étatique": 73
+  },
+  "sides": {
+   "a": [
+    "Supporters of BNP",
+    "PCJSS",
+    "ARSA",
+    "ARA",
+    "UPDF-Democratic",
+    "Supporters of Giasuddin Chowdhury",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Supporters of Jamaat-e-Islami",
+    "Supporters of Awami League",
+    "UPDF",
+    "RSO",
+    "ARNO",
+    "Supporters of Golam Khondokar",
+    "Supporters of Islami Chhatra Shibir",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2026,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 10507,
+  "deaths_12m": 73,
+  "deaths_12m_provisional": 50,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    3
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    4
+   ],
+   [
+    "2025-02",
+    2
+   ],
+   [
+    "2025-03",
+    2
+   ],
+   [
+    "2025-04",
+    3
+   ],
+   [
+    "2025-05",
+    3
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    1
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    14
+   ],
+   [
+    "2026-02",
+    3
+   ],
+   [
+    "2026-03",
+    10
+   ],
+   [
+    "2026-04",
+    11
+   ],
+   [
+    "2026-05",
+    6
+   ],
+   [
+    "2026-06",
+    11
+   ],
+   [
+    "2026-07",
+    8
+   ],
+   [
+    "2026-08",
+    5
+   ],
+   [
+    "2026-09",
+    5
+   ]
+  ],
+  "last_event": "2026-09-30",
+  "center": [
+   90.555,
+   23.378
+  ],
+  "displaced": {
+   "refugees": 31862,
+   "idps": 0,
+   "asylum_seekers": 92441,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "bd"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=BGD&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "in-non-etatique",
+  "name_fr": "Inde : affrontements entre groupes armés non étatiques",
+  "ucdp_conflict_ids": [
+   74,
+   4754,
+   11620,
+   13310,
+   13368,
+   16938,
+   16939,
+   16960,
+   16962,
+   16982,
+   17027
+  ],
+  "ucdp_conflict_names": [
+   "XXX750 - XXX750",
+   "Kuki - Naga",
+   "KNO - NSCN-IM",
+   "Supporters of BJP - Supporters of TMC",
+   "Adivasi - Bodo",
+   "Sai Lala Gang - Sada Gang",
+   "Supporters of BJP - Supporters of Toshikaba",
+   "Goldy Brar Gang - Bishnoi gang",
+   "Hashim Baba Gang - Bishnoi gang",
+   "NSCN-IM - NSCN-IM-E",
+   "ZUF - ZUF-K"
+  ],
+  "countries": [
+   "in"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "non étatique": 65
+  },
+  "sides": {
+   "a": [
+    "Kuki",
+    "KNO",
+    "Supporters of BJP",
+    "NSCN-IM-E",
+    "Sai Lala Gang",
+    "Adivasi",
+    "ZUF",
+    "Goldy Brar Gang",
+    "Hashim Baba Gang",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Naga",
+    "NSCN-IM",
+    "Supporters of TMC",
+    "Sada Gang",
+    "Bodo",
+    "Bishnoi gang",
+    "ZUF-K",
+    "Supporters of Toshikaba",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 1993,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 4754,
+  "deaths_12m": 65,
+  "deaths_12m_provisional": 38,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    5
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    9
+   ],
+   [
+    "2026-04",
+    17
+   ],
+   [
+    "2026-05",
+    12
+   ],
+   [
+    "2026-06",
+    4
+   ],
+   [
+    "2026-07",
+    0
+   ],
+   [
+    "2026-08",
+    7
+   ],
+   [
+    "2026-09",
+    11
+   ]
+  ],
+  "last_event": "2026-09-26",
+  "center": [
+   89.938,
+   25.114
+  ],
+  "displaced": {
+   "refugees": 42610,
+   "idps": 0,
+   "asylum_seekers": 181121,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "in"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=IND&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "in-unilateral",
+  "name_fr": "Inde : violences armées contre des civils",
+  "ucdp_conflict_ids": [
+   487,
+   499,
+   503,
+   522,
+   3333,
+   4333,
+   11991,
+   16366,
+   16798,
+   16910,
+   16913,
+   16983,
+   17032
+  ],
+  "ucdp_conflict_names": [
+   "Government of India - Civilians",
+   "CPI-Maoist - Civilians",
+   "NSCN-IM - Civilians",
+   "Kashmir insurgents - Civilians",
+   "KNO - Civilians",
+   "XXX750 - Civilians",
+   "BKI - Civilians",
+   "Arambai Tenggol - Civilians",
+   "Bambhia gang - Civilians",
+   "Forces of Jiwan Fauji - Civilians",
+   "Bishnoi gang - Civilians",
+   "NSCN-IM-E - Civilians",
+   "UPF - Civilians"
+  ],
+  "countries": [
+   "in"
+  ],
+  "type": "unilatéral",
+  "deaths_12m_by_type": {
+   "unilatéral": 60
+  },
+  "sides": {
+   "a": [
+    "Kashmir insurgents",
+    "NSCN-IM",
+    "Government of India",
+    "CPI-Maoist",
+    "UPF",
+    "KNO",
+    "Arambai Tenggol",
+    "NSCN-IM-E",
+    "Bambhia gang",
+    "Bishnoi gang"
+   ],
+   "b": [
+    "Civilians"
+   ]
+  },
+  "start": 1990,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 522,
+  "deaths_12m": 60,
+  "deaths_12m_provisional": 32,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    16
+   ],
+   [
+    "2024-11",
+    6
+   ],
+   [
+    "2024-12",
+    8
+   ],
+   [
+    "2025-01",
+    1
+   ],
+   [
+    "2025-02",
+    11
+   ],
+   [
+    "2025-03",
+    1
+   ],
+   [
+    "2025-04",
+    28
+   ],
+   [
+    "2025-05",
+    2
+   ],
+   [
+    "2025-06",
+    6
+   ],
+   [
+    "2025-07",
+    5
+   ],
+   [
+    "2025-08",
+    5
+   ],
+   [
+    "2025-09",
+    6
+   ],
+   [
+    "2025-10",
+    4
+   ],
+   [
+    "2025-11",
+    13
+   ],
+   [
+    "2025-12",
+    1
+   ],
+   [
+    "2026-01",
+    3
+   ],
+   [
+    "2026-02",
+    2
+   ],
+   [
+    "2026-03",
+    5
+   ],
+   [
+    "2026-04",
+    2
+   ],
+   [
+    "2026-05",
+    3
+   ],
+   [
+    "2026-06",
+    8
+   ],
+   [
+    "2026-07",
+    4
+   ],
+   [
+    "2026-08",
+    9
+   ],
+   [
+    "2026-09",
+    6
+   ]
+  ],
+  "last_event": "2026-09-24",
+  "center": [
+   85.862,
+   26.085
+  ],
+  "displaced": {
+   "refugees": 42610,
+   "idps": 0,
+   "asylum_seekers": 181121,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "in"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=IND&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "iq-ucdp-259",
+  "name_fr": "Irak : gouvernement contre État islamique",
+  "ucdp_conflict_ids": [
+   259
+  ],
+  "ucdp_conflict_names": [
+   "Iraq: Government"
+  ],
+  "countries": [
+   "iq"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 51
+  },
+  "sides": {
+   "a": [
+    "Government of Iraq"
+   ],
+   "b": [
+    "IS"
+   ]
+  },
+  "start": 1958,
+  "episode_start": 2004,
+  "ucdp_main_conflict_id": 259,
+  "deaths_12m": 51,
+  "deaths_12m_provisional": 9,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    57
+   ],
+   [
+    "2024-11",
+    21
+   ],
+   [
+    "2024-12",
+    24
+   ],
+   [
+    "2025-01",
+    24
+   ],
+   [
+    "2025-02",
+    9
+   ],
+   [
+    "2025-03",
+    6
+   ],
+   [
+    "2025-04",
+    3
+   ],
+   [
+    "2025-05",
+    9
+   ],
+   [
+    "2025-06",
+    5
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    15
+   ],
+   [
+    "2025-09",
+    2
+   ],
+   [
+    "2025-10",
+    3
+   ],
+   [
+    "2025-11",
+    1
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    8
+   ],
+   [
+    "2026-02",
+    2
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    16
+   ],
+   [
+    "2026-06",
+    9
+   ],
+   [
+    "2026-07",
+    7
+   ],
+   [
+    "2026-08",
+    0
+   ],
+   [
+    "2026-09",
+    5
+   ]
+  ],
+  "last_event": "2026-09-27",
+  "center": [
+   43.736,
+   34.796
+  ],
+  "displaced": {
+   "refugees": 270671,
+   "idps": 997334,
+   "asylum_seekers": 96887,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "iq"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=IRQ&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "gt-non-etatique",
+  "name_fr": "Guatemala : affrontements entre groupes armés non étatiques",
+  "ucdp_conflict_ids": [
+   66,
+   13737,
+   16723,
+   16832
+  ],
+  "ucdp_conflict_names": [
+   "XXX90 - XXX90",
+   "Jalisco Cartel New Generation - Sinaloa Cartel",
+   "M18 - MS-13",
+   "Los Caradura - MS-13"
+  ],
+  "countries": [
+   "gt"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "non étatique": 49
+  },
+  "sides": {
+   "a": [
+    "M18",
+    "Jalisco Cartel New Generation",
+    "Los Caradura",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "MS-13",
+    "Sinaloa Cartel",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 1999,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 16723,
+  "deaths_12m": 49,
+  "deaths_12m_provisional": 17,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    1
+   ],
+   [
+    "2024-12",
+    1
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    1
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    2
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    12
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    1
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    1
+   ],
+   [
+    "2025-12",
+    7
+   ],
+   [
+    "2026-01",
+    6
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    13
+   ],
+   [
+    "2026-05",
+    2
+   ],
+   [
+    "2026-06",
+    1
+   ],
+   [
+    "2026-07",
+    7
+   ],
+   [
+    "2026-08",
+    5
+   ],
+   [
+    "2026-09",
+    7
+   ]
+  ],
+  "last_event": "2026-09-28",
+  "center": [
+   -90.571,
+   14.792
+  ],
+  "displaced": {
+   "refugees": 34994,
+   "idps": 573000,
+   "asylum_seekers": 138420,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "gt"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=GTM&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "thailande-sud",
+  "name_fr": "Thaïlande : insurrection dans le Sud (Patani)",
+  "ucdp_conflict_ids": [
+   423
+  ],
+  "ucdp_conflict_names": [
+   "Thailand: Patani"
+  ],
+  "countries": [
+   "th"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 46
+  },
+  "sides": {
+   "a": [
+    "Government of Thailand"
+   ],
+   "b": [
+    "Patani insurgents"
+   ]
+  },
+  "start": 1965,
+  "episode_start": 2003,
+  "ucdp_main_conflict_id": 423,
+  "deaths_12m": 46,
+  "deaths_12m_provisional": 4,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    1
+   ],
+   [
+    "2024-11",
+    1
+   ],
+   [
+    "2024-12",
+    1
+   ],
+   [
+    "2025-01",
+    7
+   ],
+   [
+    "2025-02",
+    3
+   ],
+   [
+    "2025-03",
+    5
+   ],
+   [
+    "2025-04",
+    6
+   ],
+   [
+    "2025-05",
+    6
+   ],
+   [
+    "2025-06",
+    2
+   ],
+   [
+    "2025-07",
+    2
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    1
+   ],
+   [
+    "2025-10",
+    2
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    2
+   ],
+   [
+    "2026-01",
+    1
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    8
+   ],
+   [
+    "2026-04",
+    5
+   ],
+   [
+    "2026-05",
+    7
+   ],
+   [
+    "2026-06",
+    6
+   ],
+   [
+    "2026-07",
+    6
+   ],
+   [
+    "2026-08",
+    4
+   ],
+   [
+    "2026-09",
+    5
+   ]
+  ],
+  "last_event": "2026-09-19",
+  "center": [
+   101.51,
+   6.456
+  ],
+  "displaced": {
+   "refugees": 327,
+   "idps": 0,
+   "asylum_seekers": 2656,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "th"
+  },
+  "summary_fr": "Le conflit dans le Sud de la Thaïlande est un conflit séparatiste dans la région de Pattani, dans le Sud majoritairement malais et musulman de la Thaïlande, et a recommencé en janvier 2004.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Conflit_dans_le_Sud_de_la_Thaïlande",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=THA&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Conflit_dans_le_Sud_de_la_Thaïlande"
+  ]
+ },
+ {
+  "id": "ph-ucdp-14275",
+  "name_fr": "Philippines : gouvernement contre État islamique",
+  "ucdp_conflict_ids": [
+   14275
+  ],
+  "ucdp_conflict_names": [
+   "Philippines: Islamic State"
+  ],
+  "countries": [
+   "ph"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 45
+  },
+  "sides": {
+   "a": [
+    "Government of Philippines"
+   ],
+   "b": [
+    "IS"
+   ]
+  },
+  "start": 2016,
+  "episode_start": 2016,
+  "ucdp_main_conflict_id": 14275,
+  "deaths_12m": 45,
+  "deaths_12m_provisional": 4,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    5
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    2
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    4
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    2
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    4
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    2
+   ],
+   [
+    "2026-01",
+    7
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    5
+   ],
+   [
+    "2026-04",
+    10
+   ],
+   [
+    "2026-05",
+    1
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    5
+   ],
+   [
+    "2026-08",
+    7
+   ],
+   [
+    "2026-09",
+    8
+   ]
+  ],
+  "last_event": "2026-09-23",
+  "center": [
+   124.423,
+   7.402
+  ],
+  "displaced": {
+   "refugees": 807,
+   "idps": 43500,
+   "asylum_seekers": 6088,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ph"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=PHL&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "pk-non-etatique",
+  "name_fr": "Pakistan : affrontements entre groupes armés non étatiques",
+  "ucdp_conflict_ids": [
+   4912,
+   10685,
+   14562,
+   16808,
+   16952,
+   17057
+  ],
+  "ucdp_conflict_names": [
+   "Lashkar of Orakzai - TTP",
+   "Shia (Pakistan) - Sunni (Pakistan)",
+   "IS - TTP",
+   "IS - Lashkar-e-Taiba",
+   "Jamaat-ul-Ahrar - TTP",
+   "IMP - TTP"
+  ],
+  "countries": [
+   "pk"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "non étatique": 42
+  },
+  "sides": {
+   "a": [
+    "Jamaat-ul-Ahrar",
+    "IS",
+    "Lashkar of Orakzai",
+    "IMP",
+    "Shia (Pakistan)"
+   ],
+   "b": [
+    "TTP",
+    "Sunni (Pakistan)",
+    "Lashkar-e-Taiba"
+   ]
+  },
+  "start": 2026,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 16952,
+  "deaths_12m": 42,
+  "deaths_12m_provisional": 4,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    14
+   ],
+   [
+    "2024-11",
+    132
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    3
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    7
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    10
+   ],
+   [
+    "2026-02",
+    4
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    20
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    5
+   ],
+   [
+    "2026-08",
+    1
+   ],
+   [
+    "2026-09",
+    2
+   ]
+  ],
+  "last_event": "2026-09-12",
+  "center": [
+   70.773,
+   33.631
+  ],
+  "displaced": {
+   "refugees": 90497,
+   "idps": 0,
+   "asylum_seekers": 65066,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "pk"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=PAK&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "et-ucdp-16951",
+  "name_fr": "Éthiopie : gouvernement contre GFNF, BDF",
+  "ucdp_conflict_ids": [
+   16951
+  ],
+  "ucdp_conflict_names": [
+   "Ethiopia: Benishangul-Gumuz"
+  ],
+  "countries": [
+   "et"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 41
+  },
+  "sides": {
+   "a": [
+    "Government of Ethiopia"
+   ],
+   "b": [
+    "GFNF",
+    "BDF"
+   ]
+  },
+  "start": 2026,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 16951,
+  "deaths_12m": 41,
+  "deaths_12m_provisional": 33,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    33
+   ],
+   [
+    "2026-06",
+    2
+   ],
+   [
+    "2026-07",
+    0
+   ],
+   [
+    "2026-08",
+    6
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-09-03",
+  "center": [
+   35.681,
+   11.252
+  ],
+  "displaced": {
+   "refugees": 164215,
+   "idps": 2378000,
+   "asylum_seekers": 148616,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "et"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=ETH&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "pg-non-etatique",
+  "name_fr": "Papouasie-Nouvelle-Guinée : affrontements entre groupes armés non étatiques",
+  "ucdp_conflict_ids": [
+   124,
+   16756,
+   16928,
+   16946,
+   16956,
+   17037
+  ],
+  "ucdp_conflict_names": [
+   "XXX910 - XXX910",
+   "Yakuman tribe - Yangukim tribe",
+   "Mirupa - Wambea",
+   "Yambalikin - Waipilini",
+   "Kombolga - Minimbi Papike",
+   "Waipilini - Baiyer Kaiagon"
+  ],
+  "countries": [
+   "pg"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "non étatique": 40
+  },
+  "sides": {
+   "a": [
+    "Mirupa",
+    "Yakuman tribe",
+    "Yambalikin",
+    "Kombolga",
+    "Baiyer Kaiagon",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Wambea",
+    "Yangukim tribe",
+    "Waipilini",
+    "Minimbi Papike",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2026,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 16928,
+  "deaths_12m": 40,
+  "deaths_12m_provisional": 22,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    28
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    3
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    13
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    1
+   ],
+   [
+    "2026-04",
+    14
+   ],
+   [
+    "2026-05",
+    4
+   ],
+   [
+    "2026-06",
+    4
+   ],
+   [
+    "2026-07",
+    0
+   ],
+   [
+    "2026-08",
+    1
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-08-17",
+  "center": [
+   144.659,
+   -6.485
+  ],
+  "displaced": {
+   "refugees": 644,
+   "idps": 70124,
+   "asylum_seekers": 1227,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "pg"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=PNG&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "id-unilateral",
+  "name_fr": "Indonésie : violences armées contre des civils",
+  "ucdp_conflict_ids": [
+   493,
+   833,
+   4334
+  ],
+  "ucdp_conflict_names": [
+   "Government of Indonesia - Civilians",
+   "OPM - Civilians",
+   "XXX850 - Civilians"
+  ],
+  "countries": [
+   "id"
+  ],
+  "type": "unilatéral",
+  "deaths_12m_by_type": {
+   "unilatéral": 39
+  },
+  "sides": {
+   "a": [
+    "Government of Indonesia",
+    "OPM",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Civilians"
+   ]
+  },
+  "start": 1990,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 493,
+  "deaths_12m": 39,
+  "deaths_12m_provisional": 13,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    1
+   ],
+   [
+    "2024-11",
+    9
+   ],
+   [
+    "2024-12",
+    2
+   ],
+   [
+    "2025-01",
+    3
+   ],
+   [
+    "2025-02",
+    1
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    2
+   ],
+   [
+    "2025-05",
+    4
+   ],
+   [
+    "2025-06",
+    3
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    3
+   ],
+   [
+    "2025-09",
+    11
+   ],
+   [
+    "2025-10",
+    2
+   ],
+   [
+    "2025-11",
+    2
+   ],
+   [
+    "2025-12",
+    2
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    5
+   ],
+   [
+    "2026-03",
+    2
+   ],
+   [
+    "2026-04",
+    2
+   ],
+   [
+    "2026-05",
+    5
+   ],
+   [
+    "2026-06",
+    2
+   ],
+   [
+    "2026-07",
+    6
+   ],
+   [
+    "2026-08",
+    9
+   ],
+   [
+    "2026-09",
+    2
+   ]
+  ],
+  "last_event": "2026-09-15",
+  "center": [
+   136.63,
+   -4.101
+  ],
+  "displaced": {
+   "refugees": 9215,
+   "idps": 0,
+   "asylum_seekers": 8205,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "id"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=IDN&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "cr-non-etatique",
+  "name_fr": "Costa Rica : affrontements entre groupes armés non étatiques",
+  "ucdp_conflict_ids": [
+   39,
+   16190,
+   16821
+  ],
+  "ucdp_conflict_names": [
+   "XXX94 - XXX94",
+   "Forces of Tony Peña - Los Hondureños",
+   "Forces of Churro - Los Gemelos"
+  ],
+  "countries": [
+   "cr"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "non étatique": 37
+  },
+  "sides": {
+   "a": [
+    "Forces of Churro",
+    "Forces of Tony Peña",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Los Gemelos",
+    "Los Hondureños",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2025,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 16821,
+  "deaths_12m": 37,
+  "deaths_12m_provisional": 1,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    1
+   ],
+   [
+    "2024-11",
+    6
+   ],
+   [
+    "2024-12",
+    2
+   ],
+   [
+    "2025-01",
+    15
+   ],
+   [
+    "2025-02",
+    11
+   ],
+   [
+    "2025-03",
+    16
+   ],
+   [
+    "2025-04",
+    9
+   ],
+   [
+    "2025-05",
+    16
+   ],
+   [
+    "2025-06",
+    10
+   ],
+   [
+    "2025-07",
+    9
+   ],
+   [
+    "2025-08",
+    9
+   ],
+   [
+    "2025-09",
+    11
+   ],
+   [
+    "2025-10",
+    19
+   ],
+   [
+    "2025-11",
+    11
+   ],
+   [
+    "2025-12",
+    6
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    1
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    0
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    0
+   ],
+   [
+    "2026-08",
+    0
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-02-09",
+  "center": [
+   -83.669,
+   9.965
+  ],
+  "displaced": {
+   "refugees": 367,
+   "idps": 0,
+   "asylum_seekers": 1820,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "cr"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=CRI&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "bi-unilateral",
+  "name_fr": "Burundi : violences armées contre des civils",
+  "ucdp_conflict_ids": [
+   471,
+   569,
+   4285
+  ],
+  "ucdp_conflict_names": [
+   "Government of Burundi - Civilians",
+   "FDLR-FOCA - Civilians",
+   "XXX516 - Civilians"
+  ],
+  "countries": [
+   "bi"
+  ],
+  "type": "unilatéral",
+  "deaths_12m_by_type": {
+   "unilatéral": 35
+  },
+  "sides": {
+   "a": [
+    "Government of Burundi",
+    "FDLR-FOCA",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Civilians"
+   ]
+  },
+  "start": 1991,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 471,
+  "deaths_12m": 35,
+  "deaths_12m_provisional": 14,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    6
+   ],
+   [
+    "2024-11",
+    4
+   ],
+   [
+    "2024-12",
+    2
+   ],
+   [
+    "2025-01",
+    16
+   ],
+   [
+    "2025-02",
+    7
+   ],
+   [
+    "2025-03",
+    4
+   ],
+   [
+    "2025-04",
+    3
+   ],
+   [
+    "2025-05",
+    4
+   ],
+   [
+    "2025-06",
+    10
+   ],
+   [
+    "2025-07",
+    7
+   ],
+   [
+    "2025-08",
+    4
+   ],
+   [
+    "2025-09",
+    3
+   ],
+   [
+    "2025-10",
+    2
+   ],
+   [
+    "2025-11",
+    1
+   ],
+   [
+    "2025-12",
+    1
+   ],
+   [
+    "2026-01",
+    2
+   ],
+   [
+    "2026-02",
+    5
+   ],
+   [
+    "2026-03",
+    1
+   ],
+   [
+    "2026-04",
+    7
+   ],
+   [
+    "2026-05",
+    4
+   ],
+   [
+    "2026-06",
+    3
+   ],
+   [
+    "2026-07",
+    3
+   ],
+   [
+    "2026-08",
+    4
+   ],
+   [
+    "2026-09",
+    2
+   ]
+  ],
+  "last_event": "2026-09-18",
+  "center": [
+   29.691,
+   -3.07
+  ],
+  "displaced": {
+   "refugees": 318291,
+   "idps": 6815,
+   "asylum_seekers": 64899,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "bi"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=BDI&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "gh-non-etatique",
+  "name_fr": "Ghana : affrontements entre groupes armés non étatiques",
+  "ucdp_conflict_ids": [
+   64,
+   4658,
+   16850,
+   16861,
+   17033
+  ],
+  "ucdp_conflict_names": [
+   "XXX452 - XXX452",
+   "Kusasi - Mamprusi",
+   "Adele, Challa  - Akyode",
+   "Samgba Gyafla - Sammordua",
+   "Bikpangib (Konkomba) - Binamob (Konkomba)"
+  ],
+  "countries": [
+   "gh"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "non étatique": 35
+  },
+  "sides": {
+   "a": [
+    "Kusasi",
+    "Adele",
+    "Challa",
+    "Bikpangib (Konkomba)",
+    "Samgba Gyafla",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Mamprusi",
+    "Akyode",
+    "Binamob (Konkomba)",
+    "Sammordua",
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": 2000,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 4658,
+  "deaths_12m": 35,
+  "deaths_12m_provisional": 19,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    23
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    1
+   ],
+   [
+    "2025-02",
+    33
+   ],
+   [
+    "2025-03",
+    5
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    5
+   ],
+   [
+    "2025-07",
+    6
+   ],
+   [
+    "2025-08",
+    31
+   ],
+   [
+    "2025-09",
+    11
+   ],
+   [
+    "2025-10",
+    4
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    2
+   ],
+   [
+    "2026-01",
+    3
+   ],
+   [
+    "2026-02",
+    2
+   ],
+   [
+    "2026-03",
+    13
+   ],
+   [
+    "2026-04",
+    1
+   ],
+   [
+    "2026-05",
+    4
+   ],
+   [
+    "2026-06",
+    3
+   ],
+   [
+    "2026-07",
+    0
+   ],
+   [
+    "2026-08",
+    3
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-08-14",
+  "center": [
+   -0.586,
+   9.642
+  ],
+  "displaced": {
+   "refugees": 16030,
+   "idps": 0,
+   "asylum_seekers": 22470,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "gh"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=GHA&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "af-ucdp-13637",
+  "name_fr": "Afghanistan : gouvernement contre État islamique",
+  "ucdp_conflict_ids": [
+   13637
+  ],
+  "ucdp_conflict_names": [
+   "Afghanistan: Islamic State"
+  ],
+  "countries": [
+   "pk",
+   "af"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 34
+  },
+  "sides": {
+   "a": [
+    "Government of Afghanistan"
+   ],
+   "b": [
+    "IS"
+   ]
+  },
+  "start": 2015,
+  "episode_start": 2015,
+  "ucdp_main_conflict_id": 13637,
+  "deaths_12m": 34,
+  "deaths_12m_provisional": 0,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    9
+   ],
+   [
+    "2024-11",
+    5
+   ],
+   [
+    "2024-12",
+    14
+   ],
+   [
+    "2025-01",
+    8
+   ],
+   [
+    "2025-02",
+    24
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    1
+   ],
+   [
+    "2025-06",
+    8
+   ],
+   [
+    "2025-07",
+    1
+   ],
+   [
+    "2025-08",
+    9
+   ],
+   [
+    "2025-09",
+    5
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    11
+   ],
+   [
+    "2026-02",
+    15
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    0
+   ],
+   [
+    "2026-06",
+    2
+   ],
+   [
+    "2026-07",
+    3
+   ],
+   [
+    "2026-08",
+    3
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-08-23",
+  "center": [
+   69.664,
+   34.445
+  ],
+  "displaced": {
+   "refugees": 2671560,
+   "idps": 3199023,
+   "asylum_seekers": 270007,
+   "other_in_need": 1030958,
+   "year": 2025,
+   "country": "af"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=AFG&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "inde-cachemire",
+  "name_fr": "Inde : insurrection au Cachemire",
+  "ucdp_conflict_ids": [
+   364
+  ],
+  "ucdp_conflict_names": [
+   "India: Kashmir"
+  ],
+  "countries": [
+   "in"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 33
+  },
+  "sides": {
+   "a": [
+    "Government of India"
+   ],
+   "b": [
+    "Kashmir insurgents",
+    "Jaish-i-Mohammed"
+   ]
+  },
+  "start": 1984,
+  "episode_start": 1990,
+  "ucdp_main_conflict_id": 364,
+  "deaths_12m": 33,
+  "deaths_12m_provisional": 8,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    12
+   ],
+   [
+    "2024-11",
+    11
+   ],
+   [
+    "2024-12",
+    7
+   ],
+   [
+    "2025-01",
+    3
+   ],
+   [
+    "2025-02",
+    4
+   ],
+   [
+    "2025-03",
+    8
+   ],
+   [
+    "2025-04",
+    9
+   ],
+   [
+    "2025-05",
+    45
+   ],
+   [
+    "2025-06",
+    4
+   ],
+   [
+    "2025-07",
+    5
+   ],
+   [
+    "2025-08",
+    9
+   ],
+   [
+    "2025-09",
+    5
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    1
+   ],
+   [
+    "2026-01",
+    7
+   ],
+   [
+    "2026-02",
+    13
+   ],
+   [
+    "2026-03",
+    2
+   ],
+   [
+    "2026-04",
+    1
+   ],
+   [
+    "2026-05",
+    1
+   ],
+   [
+    "2026-06",
+    1
+   ],
+   [
+    "2026-07",
+    2
+   ],
+   [
+    "2026-08",
+    1
+   ],
+   [
+    "2026-09",
+    4
+   ]
+  ],
+  "last_event": "2026-09-29",
+  "center": [
+   75.272,
+   33.059
+  ],
+  "displaced": {
+   "refugees": 42610,
+   "idps": 0,
+   "asylum_seekers": 181121,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "in"
+  },
+  "summary_fr": "Le conflit du Cachemire est lié au différend pour la possession de la région du Cachemire entre l'Inde, les groupes cachemiris, le Pakistan et la Chine.",
+  "summary_source": "https://fr.wikipedia.org/wiki/Conflit_du_Cachemire",
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=IND&cf_type=ISO",
+   "https://fr.wikipedia.org/wiki/Conflit_du_Cachemire"
+  ]
+ },
+ {
+  "id": "bj-ucdp-15256",
+  "name_fr": "Bénin : gouvernement contre JNIM",
+  "ucdp_conflict_ids": [
+   15256
+  ],
+  "ucdp_conflict_names": [
+   "Benin: Government"
+  ],
+  "countries": [
+   "bj"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 33
+  },
+  "sides": {
+   "a": [
+    "Government of Benin"
+   ],
+   "b": [
+    "JNIM"
+   ]
+  },
+  "start": 2020,
+  "episode_start": 2022,
+  "ucdp_main_conflict_id": 15256,
+  "deaths_12m": 33,
+  "deaths_12m_provisional": 2,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    1
+   ],
+   [
+    "2024-12",
+    15
+   ],
+   [
+    "2025-01",
+    34
+   ],
+   [
+    "2025-02",
+    7
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    67
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    30
+   ],
+   [
+    "2025-07",
+    3
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    3
+   ],
+   [
+    "2025-10",
+    5
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    2
+   ],
+   [
+    "2026-03",
+    20
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    0
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    6
+   ],
+   [
+    "2026-08",
+    0
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-09-09",
+  "center": [
+   2.894,
+   11.419
+  ],
+  "displaced": {
+   "refugees": 1279,
+   "idps": 27294,
+   "asylum_seekers": 3408,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "bj"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=BEN&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "lk-non-etatique",
+  "name_fr": "Sri Lanka : affrontements entre groupes armés non étatiques",
+  "ucdp_conflict_ids": [
+   144
+  ],
+  "ucdp_conflict_names": [
+   "XXX780 - XXX780"
+  ],
+  "countries": [
+   "lk"
+  ],
+  "type": "non étatique",
+  "deaths_12m_by_type": {
+   "non étatique": 33
+  },
+  "sides": {
+   "a": [
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Acteur non identifié (UCDP)"
+   ]
+  },
+  "start": null,
+  "episode_start": null,
+  "ucdp_main_conflict_id": null,
+  "deaths_12m": 33,
+  "deaths_12m_provisional": 33,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    0
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    30
+   ],
+   [
+    "2026-08",
+    3
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-08-07",
+  "center": [
+   79.868,
+   7.174
+  ],
+  "displaced": {
+   "refugees": 148369,
+   "idps": 4099,
+   "asylum_seekers": 33564,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "lk"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=LKA&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "nigeria-biafra",
+  "name_fr": "Nigeria : insurrection séparatiste au Biafra (Sud-Est)",
+  "ucdp_conflict_ids": [
+   303
+  ],
+  "ucdp_conflict_names": [
+   "Nigeria: Biafra"
+  ],
+  "countries": [
+   "ng"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 32
+  },
+  "sides": {
+   "a": [
+    "Government of Nigeria"
+   ],
+   "b": [
+    "IPOB"
+   ]
+  },
+  "start": 1967,
+  "episode_start": 2021,
+  "ucdp_main_conflict_id": 303,
+  "deaths_12m": 32,
+  "deaths_12m_provisional": 10,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    39
+   ],
+   [
+    "2024-11",
+    18
+   ],
+   [
+    "2024-12",
+    10
+   ],
+   [
+    "2025-01",
+    15
+   ],
+   [
+    "2025-02",
+    5
+   ],
+   [
+    "2025-03",
+    1
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    4
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    4
+   ],
+   [
+    "2025-08",
+    7
+   ],
+   [
+    "2025-09",
+    8
+   ],
+   [
+    "2025-10",
+    4
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    2
+   ],
+   [
+    "2026-02",
+    4
+   ],
+   [
+    "2026-03",
+    1
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    8
+   ],
+   [
+    "2026-06",
+    5
+   ],
+   [
+    "2026-07",
+    3
+   ],
+   [
+    "2026-08",
+    5
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-08-22",
+  "center": [
+   7.014,
+   5.767
+  ],
+  "displaced": {
+   "refugees": 478150,
+   "idps": 3544519,
+   "asylum_seekers": 56176,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ng"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=NGA&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "ru-ucdp-399",
+  "name_fr": "Russie : gouvernement contre Black Spark",
+  "ucdp_conflict_ids": [
+   399
+  ],
+  "ucdp_conflict_names": [
+   "Russia (Soviet Union): Government"
+  ],
+  "countries": [
+   "ru"
+  ],
+  "type": "étatique",
+  "deaths_12m_by_type": {
+   "étatique": 29
+  },
+  "sides": {
+   "a": [
+    "Government of Russia (Soviet Union)"
+   ],
+   "b": [
+    "Black Spark"
+   ]
+  },
+  "start": 1991,
+  "episode_start": 2023,
+  "ucdp_main_conflict_id": 399,
+  "deaths_12m": 29,
+  "deaths_12m_provisional": 29,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    0
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    0
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    0
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    0
+   ],
+   [
+    "2025-11",
+    0
+   ],
+   [
+    "2025-12",
+    0
+   ],
+   [
+    "2026-01",
+    0
+   ],
+   [
+    "2026-02",
+    0
+   ],
+   [
+    "2026-03",
+    0
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    29
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    0
+   ],
+   [
+    "2026-08",
+    0
+   ],
+   [
+    "2026-09",
+    0
+   ]
+  ],
+  "last_event": "2026-05-15",
+  "center": [
+   47.639,
+   42.881
+  ],
+  "displaced": {
+   "refugees": 99360,
+   "idps": 0,
+   "asylum_seekers": 88310,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "ru"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=RUS&cf_type=ISO"
+  ]
+ },
+ {
+  "id": "cm-unilateral",
+  "name_fr": "Cameroun : violences armées contre des civils",
+  "ucdp_conflict_ids": [
+   462,
+   4287
+  ],
+  "ucdp_conflict_names": [
+   "Government of Cameroon - Civilians",
+   "XXX471 - Civilians"
+  ],
+  "countries": [
+   "cm"
+  ],
+  "type": "unilatéral",
+  "deaths_12m_by_type": {
+   "unilatéral": 27
+  },
+  "sides": {
+   "a": [
+    "Government of Cameroon",
+    "Acteur non identifié (UCDP)"
+   ],
+   "b": [
+    "Civilians"
+   ]
+  },
+  "start": 1994,
+  "episode_start": null,
+  "ucdp_main_conflict_id": 462,
+  "deaths_12m": 27,
+  "deaths_12m_provisional": 23,
+  "deaths_by_month": [
+   [
+    "2024-10",
+    0
+   ],
+   [
+    "2024-11",
+    0
+   ],
+   [
+    "2024-12",
+    1
+   ],
+   [
+    "2025-01",
+    0
+   ],
+   [
+    "2025-02",
+    1
+   ],
+   [
+    "2025-03",
+    0
+   ],
+   [
+    "2025-04",
+    1
+   ],
+   [
+    "2025-05",
+    0
+   ],
+   [
+    "2025-06",
+    0
+   ],
+   [
+    "2025-07",
+    0
+   ],
+   [
+    "2025-08",
+    0
+   ],
+   [
+    "2025-09",
+    0
+   ],
+   [
+    "2025-10",
+    1
+   ],
+   [
+    "2025-11",
+    1
+   ],
+   [
+    "2025-12",
+    2
+   ],
+   [
+    "2026-01",
+    2
+   ],
+   [
+    "2026-02",
+    2
+   ],
+   [
+    "2026-03",
+    4
+   ],
+   [
+    "2026-04",
+    0
+   ],
+   [
+    "2026-05",
+    0
+   ],
+   [
+    "2026-06",
+    0
+   ],
+   [
+    "2026-07",
+    10
+   ],
+   [
+    "2026-08",
+    2
+   ],
+   [
+    "2026-09",
+    3
+   ]
+  ],
+  "last_event": "2026-09-20",
+  "center": [
+   12.372,
+   8.545
+  ],
+  "displaced": {
+   "refugees": 140366,
+   "idps": 1004257,
+   "asylum_seekers": 37991,
+   "other_in_need": null,
+   "year": 2025,
+   "country": "cm"
+  },
+  "summary_fr": null,
+  "summary_source": null,
+  "sources": [
+   "https://ucdp.uu.se/downloads/",
+   "https://ucdp.uu.se/downloads/candidateged/GEDEvent_v26_01_26_09.csv",
+   "https://ucdp.uu.se/downloads/ged/ged261-csv.zip",
+   "https://api.unhcr.org/population/v1/population/?limit=20&year=2025&coo=CMR&cf_type=ISO"
+  ]
+ }
+]
