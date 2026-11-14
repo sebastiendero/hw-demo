@@ -1,0 +1,1234 @@
+[
+ {
+  "operator": "AE",
+  "host": "LY",
+  "name": "base aérienne d'al-Khadim",
+  "lon": 21.1918,
+  "lat": 31.9985,
+  "source": "https://www.wikidata.org/wiki/Q20446242"
+ },
+ {
+  "operator": "BE",
+  "host": "CA",
+  "name": "base des Forces canadiennes Goose Bay",
+  "lon": -60.4258,
+  "lat": 53.3192,
+  "source": "https://www.wikidata.org/wiki/Q1032124"
+ },
+ {
+  "operator": "BE",
+  "host": "DE",
+  "name": "Geilenkirchen",
+  "lon": 6.0425,
+  "lat": 50.9608,
+  "source": "https://www.wikidata.org/wiki/Q329095"
+ },
+ {
+  "operator": "BE",
+  "host": "DE",
+  "name": "Schill-Kaserne",
+  "lon": 6.6021,
+  "lat": 51.6945,
+  "source": "https://www.wikidata.org/wiki/Q2235656"
+ },
+ {
+  "operator": "BE",
+  "host": "EE",
+  "name": "Base aérienne d'Ämari",
+  "lon": 24.2083,
+  "lat": 59.26,
+  "source": "https://www.wikidata.org/wiki/Q938047"
+ },
+ {
+  "operator": "CA",
+  "host": "FR",
+  "name": "base aérienne Grostenquin",
+  "lon": 6.7145,
+  "lat": 49.0261,
+  "source": "https://www.wikidata.org/wiki/Q780887"
+ },
+ {
+  "operator": "CA",
+  "host": "FR",
+  "name": "base aérienne de Marville-Montmédy",
+  "lon": 5.4113,
+  "lat": 49.4569,
+  "source": "https://www.wikidata.org/wiki/Q2886538"
+ },
+ {
+  "operator": "CA",
+  "host": "GB",
+  "name": "CFS Bermuda",
+  "lon": -64.8667,
+  "lat": 32.3,
+  "source": "https://www.wikidata.org/wiki/Q5010824"
+ },
+ {
+  "operator": "CN",
+  "host": "DJ",
+  "name": "base chinoise de Doraleh",
+  "lon": 43.0631,
+  "lat": 11.5902,
+  "source": "https://www.wikidata.org/wiki/Q30693574"
+ },
+ {
+  "operator": "DE",
+  "host": "AF",
+  "name": "Camp Marmal",
+  "lon": 67.2242,
+  "lat": 36.7039,
+  "source": "https://www.wikidata.org/wiki/Q470684"
+ },
+ {
+  "operator": "DE",
+  "host": "GB",
+  "name": "RAF Croughton",
+  "lon": -1.18,
+  "lat": 51.988,
+  "source": "https://www.wikidata.org/wiki/Q7275260"
+ },
+ {
+  "operator": "DE",
+  "host": "GB",
+  "name": "RAF Molesworth",
+  "lon": -0.405,
+  "lat": 52.3794,
+  "source": "https://www.wikidata.org/wiki/Q7275484"
+ },
+ {
+  "operator": "DE",
+  "host": "GB",
+  "name": "Royal Air Force Station Alconbury",
+  "lon": -0.2292,
+  "lat": 52.3731,
+  "source": "https://www.wikidata.org/wiki/Q564876"
+ },
+ {
+  "operator": "DE",
+  "host": "TR",
+  "name": "Incirlik Air Base",
+  "lon": 35.4258,
+  "lat": 37.0019,
+  "source": "https://www.wikidata.org/wiki/Q1083424"
+ },
+ {
+  "operator": "DZ",
+  "host": "FR",
+  "name": "aéroport militaire de Bousfer",
+  "lon": -0.8044,
+  "lat": 35.7345,
+  "source": "https://www.wikidata.org/wiki/Q12474043"
+ },
+ {
+  "operator": "FK",
+  "host": "GB",
+  "name": "Royal Air Force Station Mount Pleasant",
+  "lon": -58.4472,
+  "lat": -51.8228,
+  "source": "https://www.wikidata.org/wiki/Q2071294"
+ },
+ {
+  "operator": "FR",
+  "host": "AE",
+  "name": "base aérienne 104 Al Dhafra",
+  "lon": 54.5475,
+  "lat": 24.2481,
+  "source": "https://www.wikidata.org/wiki/Q2886453"
+ },
+ {
+  "operator": "FR",
+  "host": "DJ",
+  "name": "base aérienne 188 Djibouti",
+  "lon": 43.1515,
+  "lat": 11.5469,
+  "source": "https://www.wikidata.org/wiki/Q2886499"
+ },
+ {
+  "operator": "FR",
+  "host": "DZ",
+  "name": "aéroport militaire de Bousfer",
+  "lon": -0.8044,
+  "lat": 35.7345,
+  "source": "https://www.wikidata.org/wiki/Q12474043"
+ },
+ {
+  "operator": "FR",
+  "host": "DZ",
+  "name": "base aérienne 211 Telergma",
+  "lon": 6.6185,
+  "lat": 36.278,
+  "source": "https://www.wikidata.org/wiki/Q2886492"
+ },
+ {
+  "operator": "FR",
+  "host": "MA",
+  "name": "base d'aéronautique navale de Port-Lyautey",
+  "lon": -6.5959,
+  "lat": 34.2992,
+  "source": "https://www.wikidata.org/wiki/Q2886566"
+ },
+ {
+  "operator": "FR",
+  "host": "NE",
+  "name": "base aérienne 101 Niamey",
+  "lon": 2.1703,
+  "lat": 13.4817,
+  "source": "https://www.wikidata.org/wiki/Q19406831"
+ },
+ {
+  "operator": "FR",
+  "host": "TD",
+  "name": "base aérienne 172 Fort-Lamy",
+  "lon": 15.0247,
+  "lat": 12.125,
+  "source": "https://www.wikidata.org/wiki/Q18214087"
+ },
+ {
+  "operator": "GB",
+  "host": "AU",
+  "name": "HMS Nabberley",
+  "lon": 150.9883,
+  "lat": -33.925,
+  "source": "https://www.wikidata.org/wiki/Q5633465"
+ },
+ {
+  "operator": "GB",
+  "host": "CA",
+  "name": "Grand River Naval Depot",
+  "lon": -79.5771,
+  "lat": 42.862,
+  "source": "https://www.wikidata.org/wiki/Q5595052"
+ },
+ {
+  "operator": "GB",
+  "host": "CA",
+  "name": "RCAF Station Caron",
+  "lon": -105.8167,
+  "lat": 50.4667,
+  "source": "https://www.wikidata.org/wiki/Q55138711"
+ },
+ {
+  "operator": "GB",
+  "host": "DE",
+  "name": "RAF Ahlhorn",
+  "lon": 8.2325,
+  "lat": 52.885,
+  "source": "https://www.wikidata.org/wiki/Q1433432"
+ },
+ {
+  "operator": "GB",
+  "host": "DE",
+  "name": "RAF Sylt",
+  "lon": 8.3406,
+  "lat": 54.9133,
+  "source": "https://www.wikidata.org/wiki/Q16899084"
+ },
+ {
+  "operator": "GB",
+  "host": "EG",
+  "name": "Abou Sultan",
+  "lon": 32.3354,
+  "lat": 30.4229,
+  "source": "https://www.wikidata.org/wiki/Q5266913"
+ },
+ {
+  "operator": "GB",
+  "host": "EG",
+  "name": "Al Ismailiyah Air Base",
+  "lon": 32.2369,
+  "lat": 30.5983,
+  "source": "https://www.wikidata.org/wiki/Q4704083"
+ },
+ {
+  "operator": "GB",
+  "host": "GI",
+  "name": "Royal Air Force Station Gibraltar",
+  "lon": -5.3497,
+  "lat": 36.1511,
+  "source": "https://www.wikidata.org/wiki/Q48374"
+ },
+ {
+  "operator": "GB",
+  "host": "IM",
+  "name": "RAF Scarlett",
+  "lon": -4.6692,
+  "lat": 54.0699,
+  "source": "https://www.wikidata.org/wiki/Q124812264"
+ },
+ {
+  "operator": "GB",
+  "host": "IQ",
+  "name": "RAF Habbaniya",
+  "lon": 43.5678,
+  "lat": 33.3769,
+  "source": "https://www.wikidata.org/wiki/Q3928141"
+ },
+ {
+  "operator": "GB",
+  "host": "PG",
+  "name": "HMS Nabaron",
+  "lon": 146.8856,
+  "lat": -1.9125,
+  "source": "https://www.wikidata.org/wiki/Q131007868"
+ },
+ {
+  "operator": "GB",
+  "host": "QA",
+  "name": "base aérienne Al Oudeid",
+  "lon": 51.315,
+  "lat": 25.1173,
+  "source": "https://www.wikidata.org/wiki/Q542588"
+ },
+ {
+  "operator": "GB",
+  "host": "SH",
+  "name": "Royal Air Force Station Ascension Island",
+  "lon": -14.3937,
+  "lat": -7.9697,
+  "source": "https://www.wikidata.org/wiki/Q1968916"
+ },
+ {
+  "operator": "IT",
+  "host": "IQ",
+  "name": "Camp Singara",
+  "lon": 43.9631,
+  "lat": 36.2375,
+  "source": "https://www.wikidata.org/wiki/Q138785505"
+ },
+ {
+  "operator": "JP",
+  "host": "KP",
+  "name": "base aérienne de Yonpo",
+  "lon": 127.5353,
+  "lat": 39.7906,
+  "source": "https://www.wikidata.org/wiki/Q17055735"
+ },
+ {
+  "operator": "MH",
+  "host": "US",
+  "name": "site d'essai balistique Ronald Reagan",
+  "lon": 167.7333,
+  "lat": 8.7167,
+  "source": "https://www.wikidata.org/wiki/Q1794892"
+ },
+ {
+  "operator": "NL",
+  "host": "CW",
+  "name": "Marinekazerne Suffisant",
+  "lon": -68.9164,
+  "lat": 12.1507,
+  "source": "https://www.wikidata.org/wiki/Q15247761"
+ },
+ {
+  "operator": "NO",
+  "host": "CA",
+  "name": "Little Norway",
+  "lon": -79.3992,
+  "lat": 43.635,
+  "source": "https://www.wikidata.org/wiki/Q431813"
+ },
+ {
+  "operator": "PS",
+  "host": "JO",
+  "name": "Revolution Airport",
+  "lon": 36.1567,
+  "lat": 32.1059,
+  "source": "https://www.wikidata.org/wiki/Q117050943"
+ },
+ {
+  "operator": "RO",
+  "host": "AF",
+  "name": "Forward Operating Base Lagman",
+  "lon": 66.9297,
+  "lat": 32.13,
+  "source": "https://www.wikidata.org/wiki/Q20743970"
+ },
+ {
+  "operator": "RU",
+  "host": "AM",
+  "name": "102e base militaire russe",
+  "lon": 43.8257,
+  "lat": 40.79,
+  "source": "https://www.wikidata.org/wiki/Q4028246"
+ },
+ {
+  "operator": "RU",
+  "host": "BY",
+  "name": "Station radar de Hantsavichy",
+  "lon": 26.48,
+  "lat": 52.85,
+  "source": "https://www.wikidata.org/wiki/Q3920826"
+ },
+ {
+  "operator": "RU",
+  "host": "GE",
+  "name": "base navale d'Otchamtchira",
+  "lon": 41.4276,
+  "lat": 42.7432,
+  "source": "https://www.wikidata.org/wiki/Q4340647"
+ },
+ {
+  "operator": "RU",
+  "host": "KG",
+  "name": "Kant aviabazası",
+  "lon": 74.8464,
+  "lat": 42.8531,
+  "source": "https://www.wikidata.org/wiki/Q2426665"
+ },
+ {
+  "operator": "RU",
+  "host": "KZ",
+  "name": "Dolon",
+  "lon": 79.1833,
+  "lat": 50.5333,
+  "source": "https://www.wikidata.org/wiki/Q1655186"
+ },
+ {
+  "operator": "RU",
+  "host": "KZ",
+  "name": "Kambala (air base)",
+  "lon": 73.4958,
+  "lat": 46.0256,
+  "source": "https://www.wikidata.org/wiki/Q4210753"
+ },
+ {
+  "operator": "RU",
+  "host": "LY",
+  "name": "base aérienne de Maaten al- Sarra",
+  "lon": 21.8272,
+  "lat": 21.7061,
+  "source": "https://www.wikidata.org/wiki/Q291289"
+ },
+ {
+  "operator": "RU",
+  "host": "SY",
+  "name": "Installation navale russe à Tartous",
+  "lon": 35.875,
+  "lat": 34.915,
+  "source": "https://www.wikidata.org/wiki/Q574818"
+ },
+ {
+  "operator": "RU",
+  "host": "SY",
+  "name": "base aérienne de Hmeimim",
+  "lon": 35.9417,
+  "lat": 35.4125,
+  "source": "https://www.wikidata.org/wiki/Q21582584"
+ },
+ {
+  "operator": "RU",
+  "host": "TJ",
+  "name": "Okno",
+  "lon": 69.225,
+  "lat": 38.281,
+  "source": "https://www.wikidata.org/wiki/Q854688"
+ },
+ {
+  "operator": "RU",
+  "host": "UA",
+  "name": "aéroport international de Sébastopol",
+  "lon": 33.5833,
+  "lat": 44.6833,
+  "source": "https://www.wikidata.org/wiki/Q2985601"
+ },
+ {
+  "operator": "RU",
+  "host": "UA",
+  "name": "base aérienne de Chersonèse",
+  "lon": 33.3957,
+  "lat": 44.5716,
+  "source": "https://www.wikidata.org/wiki/Q86662305"
+ },
+ {
+  "operator": "RU",
+  "host": "UA",
+  "name": "base aérienne de Djankoï",
+  "lon": 34.4195,
+  "lat": 45.6914,
+  "source": "https://www.wikidata.org/wiki/Q86678865"
+ },
+ {
+  "operator": "RU",
+  "host": "UA",
+  "name": "base aérienne de Hvardiïske",
+  "lon": 33.9917,
+  "lat": 45.1083,
+  "source": "https://www.wikidata.org/wiki/Q4055737"
+ },
+ {
+  "operator": "RU",
+  "host": "UA",
+  "name": "base aérienne de Katcha",
+  "lon": 33.5614,
+  "lat": 44.7831,
+  "source": "https://www.wikidata.org/wiki/Q86678952"
+ },
+ {
+  "operator": "RU",
+  "host": "UA",
+  "name": "base aérienne de Kirovske",
+  "lon": 35.1833,
+  "lat": 45.1667,
+  "source": "https://www.wikidata.org/wiki/Q86678846"
+ },
+ {
+  "operator": "RU",
+  "host": "UA",
+  "name": "base aérienne de Novofedorivka",
+  "lon": 33.5861,
+  "lat": 45.0889,
+  "source": "https://www.wikidata.org/wiki/Q4310672"
+ },
+ {
+  "operator": "US",
+  "host": "AE",
+  "name": "base aérienne 104 Al Dhafra",
+  "lon": 54.5475,
+  "lat": 24.2481,
+  "source": "https://www.wikidata.org/wiki/Q2886453"
+ },
+ {
+  "operator": "US",
+  "host": "AF",
+  "name": "Camp Leatherneck",
+  "lon": 64.1953,
+  "lat": 31.8858,
+  "source": "https://www.wikidata.org/wiki/Q5027337"
+ },
+ {
+  "operator": "US",
+  "host": "AF",
+  "name": "Forward Operating Base Delaram",
+  "lon": 63.4439,
+  "lat": 32.1531,
+  "source": "https://www.wikidata.org/wiki/Q5473220"
+ },
+ {
+  "operator": "US",
+  "host": "AF",
+  "name": "Forward Operating Base Delaram II",
+  "lon": 63.4308,
+  "lat": 32.1278,
+  "source": "https://www.wikidata.org/wiki/Q135267585"
+ },
+ {
+  "operator": "US",
+  "host": "AF",
+  "name": "Forward Operating Base Delhi",
+  "lon": 64.19,
+  "lat": 31.1328,
+  "source": "https://www.wikidata.org/wiki/Q5473221"
+ },
+ {
+  "operator": "US",
+  "host": "AF",
+  "name": "Forward Operating Base Fenty",
+  "lon": 70.4983,
+  "lat": 34.4003,
+  "source": "https://www.wikidata.org/wiki/Q23302677"
+ },
+ {
+  "operator": "US",
+  "host": "AF",
+  "name": "Forward Operating Base Lagman",
+  "lon": 66.9297,
+  "lat": 32.13,
+  "source": "https://www.wikidata.org/wiki/Q20743970"
+ },
+ {
+  "operator": "US",
+  "host": "AF",
+  "name": "base aérienne de Bagram",
+  "lon": 69.265,
+  "lat": 34.9464,
+  "source": "https://www.wikidata.org/wiki/Q800126"
+ },
+ {
+  "operator": "US",
+  "host": "AU",
+  "name": "Australian Defence Satellite Communications Station",
+  "lon": 114.842,
+  "lat": -28.695,
+  "source": "https://www.wikidata.org/wiki/Q4824079"
+ },
+ {
+  "operator": "US",
+  "host": "AU",
+  "name": "Brymaroo Airfield",
+  "lon": 151.602,
+  "lat": -27.2158,
+  "source": "https://www.wikidata.org/wiki/Q136992033"
+ },
+ {
+  "operator": "US",
+  "host": "AU",
+  "name": "Pine Gap",
+  "lon": 133.7375,
+  "lat": -23.8,
+  "source": "https://www.wikidata.org/wiki/Q1754535"
+ },
+ {
+  "operator": "US",
+  "host": "BE",
+  "name": "base aérienne de Chièvres",
+  "lon": 3.8311,
+  "lat": 50.5758,
+  "source": "https://www.wikidata.org/wiki/Q43363"
+ },
+ {
+  "operator": "US",
+  "host": "CA",
+  "name": "Axe Point",
+  "lon": -118.6812,
+  "lat": 61.2953,
+  "source": "https://www.wikidata.org/wiki/Q116456207"
+ },
+ {
+  "operator": "US",
+  "host": "CA",
+  "name": "Cape Makkovik Air Station",
+  "lon": -59.1458,
+  "lat": 55.225,
+  "source": "https://www.wikidata.org/wiki/Q16247189"
+ },
+ {
+  "operator": "US",
+  "host": "CA",
+  "name": "Saint Anthony Air Station",
+  "lon": -55.6108,
+  "lat": 51.3492,
+  "source": "https://www.wikidata.org/wiki/Q7400977"
+ },
+ {
+  "operator": "US",
+  "host": "CN",
+  "name": "Loping Airfield",
+  "lon": 104.3094,
+  "lat": 24.8467,
+  "source": "https://www.wikidata.org/wiki/Q6678623"
+ },
+ {
+  "operator": "US",
+  "host": "CU",
+  "name": "base navale de la baie de Guantánamo",
+  "lon": -75.16,
+  "lat": 19.9175,
+  "source": "https://www.wikidata.org/wiki/Q762570"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "AAF Station Buchschwabach",
+  "lon": 10.8969,
+  "lat": 49.3653,
+  "source": "https://www.wikidata.org/wiki/Q4649868"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "H. D. Smith Barracks",
+  "lon": 7.3293,
+  "lat": 49.6238,
+  "source": "https://www.wikidata.org/wiki/Q105071483"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "Hahn Air Base",
+  "lon": 7.2639,
+  "lat": 49.9487,
+  "source": "https://www.wikidata.org/wiki/Q869908"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "Illesheim Army Heliport",
+  "lon": 10.3864,
+  "lat": 49.4733,
+  "source": "https://www.wikidata.org/wiki/Q1433649"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "Pulaski Barracks",
+  "lon": 7.6889,
+  "lat": 49.4308,
+  "source": "https://www.wikidata.org/wiki/Q135068592"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "Ramstein Air Base",
+  "lon": 7.6,
+  "lat": 49.4369,
+  "source": "https://www.wikidata.org/wiki/Q161348"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "Rhine Ordnance Barracks",
+  "lon": 7.6972,
+  "lat": 49.4442,
+  "source": "https://www.wikidata.org/wiki/Q135067984"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "Sembach Air Base",
+  "lon": 7.8658,
+  "lat": 49.5283,
+  "source": "https://www.wikidata.org/wiki/Q820540"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "Spangdahlem Air Base",
+  "lon": 6.6925,
+  "lat": 49.9727,
+  "source": "https://www.wikidata.org/wiki/Q656939"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "Vogelsang Airfield",
+  "lon": 6.4333,
+  "lat": 50.5636,
+  "source": "https://www.wikidata.org/wiki/Q7939387"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "Wiesbaden Army Airfield",
+  "lon": 8.3254,
+  "lat": 50.0498,
+  "source": "https://www.wikidata.org/wiki/Q327689"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "Wilson Barracks",
+  "lon": 7.5578,
+  "lat": 49.4099,
+  "source": "https://www.wikidata.org/wiki/Q110334141"
+ },
+ {
+  "operator": "US",
+  "host": "DE",
+  "name": "champ de manœuvre de Grafenwöhr",
+  "lon": 11.802,
+  "lat": 49.6836,
+  "source": "https://www.wikidata.org/wiki/Q2456565"
+ },
+ {
+  "operator": "US",
+  "host": "DZ",
+  "name": "Ain M'lila Airfield",
+  "lon": 6.5728,
+  "lat": 36.0053,
+  "source": "https://www.wikidata.org/wiki/Q4697351"
+ },
+ {
+  "operator": "US",
+  "host": "EG",
+  "name": "Landing Ground 174",
+  "lon": 29.1209,
+  "lat": 30.7622,
+  "source": "https://www.wikidata.org/wiki/Q16931978"
+ },
+ {
+  "operator": "US",
+  "host": "ES",
+  "name": "base navale de Rota",
+  "lon": -6.3316,
+  "lat": 36.6208,
+  "source": "https://www.wikidata.org/wiki/Q729530"
+ },
+ {
+  "operator": "US",
+  "host": "FM",
+  "name": "Naval Base Ulithi",
+  "lon": 139.67,
+  "lat": 9.97,
+  "source": "https://www.wikidata.org/wiki/Q115827593"
+ },
+ {
+  "operator": "US",
+  "host": "FR",
+  "name": "Villeneuve-Vertus Airfield",
+  "lon": 4.0583,
+  "lat": 48.9372,
+  "source": "https://www.wikidata.org/wiki/Q7931054"
+ },
+ {
+  "operator": "US",
+  "host": "FR",
+  "name": "aérodrome militaire de la plaine des Gaïacs",
+  "lon": 164.9221,
+  "lat": -21.2514,
+  "source": "https://www.wikidata.org/wiki/Q7200664"
+ },
+ {
+  "operator": "US",
+  "host": "GB",
+  "name": "Camp Thunder Cove",
+  "lon": 72.386,
+  "lat": -7.291,
+  "source": "https://www.wikidata.org/wiki/Q5027293"
+ },
+ {
+  "operator": "US",
+  "host": "GB",
+  "name": "Naval Support Facility Diego Garcia",
+  "lon": 72.4111,
+  "lat": -7.3133,
+  "source": "https://www.wikidata.org/wiki/Q11694190"
+ },
+ {
+  "operator": "US",
+  "host": "GB",
+  "name": "RAF Blenheim Crescent",
+  "lon": -0.433,
+  "lat": 51.5689,
+  "source": "https://www.wikidata.org/wiki/Q7275181"
+ },
+ {
+  "operator": "US",
+  "host": "GB",
+  "name": "RAF Fairford",
+  "lon": -1.79,
+  "lat": 51.6822,
+  "source": "https://www.wikidata.org/wiki/Q1427413"
+ },
+ {
+  "operator": "US",
+  "host": "GB",
+  "name": "RAF Feltwell",
+  "lon": 0.524,
+  "lat": 52.481,
+  "source": "https://www.wikidata.org/wiki/Q7275312"
+ },
+ {
+  "operator": "US",
+  "host": "GB",
+  "name": "RAF Great Ashfield",
+  "lon": 0.9436,
+  "lat": 52.2556,
+  "source": "https://www.wikidata.org/wiki/Q7275347"
+ },
+ {
+  "operator": "US",
+  "host": "GB",
+  "name": "RAF Lakenheath",
+  "lon": 0.5567,
+  "lat": 52.4083,
+  "source": "https://www.wikidata.org/wiki/Q285198"
+ },
+ {
+  "operator": "US",
+  "host": "GB",
+  "name": "RAF Mildenhall",
+  "lon": 0.4808,
+  "lat": 52.365,
+  "source": "https://www.wikidata.org/wiki/Q772162"
+ },
+ {
+  "operator": "US",
+  "host": "GL",
+  "name": "Base aérienne de Thulé",
+  "lon": -68.7031,
+  "lat": 76.5311,
+  "source": "https://www.wikidata.org/wiki/Q940576"
+ },
+ {
+  "operator": "US",
+  "host": "GL",
+  "name": "Narsarsuaq Air Base",
+  "lon": -45.4333,
+  "lat": 61.1667,
+  "source": "https://www.wikidata.org/wiki/Q5135044"
+ },
+ {
+  "operator": "US",
+  "host": "GR",
+  "name": "Iraklion Air Station",
+  "lon": 25.2853,
+  "lat": 35.33,
+  "source": "https://www.wikidata.org/wiki/Q15228788"
+ },
+ {
+  "operator": "US",
+  "host": "IQ",
+  "name": "Base aérienne Al-Asad",
+  "lon": 42.4333,
+  "lat": 33.8,
+  "source": "https://www.wikidata.org/wiki/Q4703502"
+ },
+ {
+  "operator": "US",
+  "host": "IS",
+  "name": "Naval Air Station Keflavik",
+  "lon": -22.6056,
+  "lat": 63.985,
+  "source": "https://www.wikidata.org/wiki/Q3481748"
+ },
+ {
+  "operator": "US",
+  "host": "IT",
+  "name": "Aviano Air Base",
+  "lon": 12.5965,
+  "lat": 46.0319,
+  "source": "https://www.wikidata.org/wiki/Q790794"
+ },
+ {
+  "operator": "US",
+  "host": "IT",
+  "name": "Capaccio Airfield",
+  "lon": 15.0056,
+  "lat": 40.4212,
+  "source": "https://www.wikidata.org/wiki/Q2023087"
+ },
+ {
+  "operator": "US",
+  "host": "IT",
+  "name": "Celone/San Nicola d'Arpi Airfield",
+  "lon": 15.5589,
+  "lat": 41.5511,
+  "source": "https://www.wikidata.org/wiki/Q17515242"
+ },
+ {
+  "operator": "US",
+  "host": "IT",
+  "name": "Lucera Airfield",
+  "lon": 15.4281,
+  "lat": 41.495,
+  "source": "https://www.wikidata.org/wiki/Q17510443"
+ },
+ {
+  "operator": "US",
+  "host": "IT",
+  "name": "Naval Support Activity Naples",
+  "lon": 14.2923,
+  "lat": 40.8821,
+  "source": "https://www.wikidata.org/wiki/Q6540839"
+ },
+ {
+  "operator": "US",
+  "host": "IT",
+  "name": "base aérienne de Sigonella",
+  "lon": 14.9222,
+  "lat": 37.4017,
+  "source": "https://www.wikidata.org/wiki/Q938394"
+ },
+ {
+  "operator": "US",
+  "host": "JM",
+  "name": "Vernam Field",
+  "lon": -77.3021,
+  "lat": 17.8908,
+  "source": "https://www.wikidata.org/wiki/Q7921943"
+ },
+ {
+  "operator": "US",
+  "host": "JO",
+  "name": "Tower 22",
+  "lon": 38.7024,
+  "lat": 33.3139,
+  "source": "https://www.wikidata.org/wiki/Q124370230"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "Camp Courtney",
+  "lon": 127.8594,
+  "lat": 26.3919,
+  "source": "https://www.wikidata.org/wiki/Q4381152"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "Camp Foster",
+  "lon": 127.7797,
+  "lat": 26.3014,
+  "source": "https://www.wikidata.org/wiki/Q4419750"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "Camp Hansen",
+  "lon": 127.92,
+  "lat": 26.46,
+  "source": "https://www.wikidata.org/wiki/Q4419980"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "Camp Kinser",
+  "lon": 127.6974,
+  "lat": 26.2525,
+  "source": "https://www.wikidata.org/wiki/Q5027315"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "Camp Schwab",
+  "lon": 128.0443,
+  "lat": 26.5246,
+  "source": "https://www.wikidata.org/wiki/Q4419959"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "Kadena Air Base",
+  "lon": 127.7694,
+  "lat": 26.3517,
+  "source": "https://www.wikidata.org/wiki/Q608289"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "Kyoga-misaki Communications Site",
+  "lon": 135.1953,
+  "lat": 35.7667,
+  "source": "https://www.wikidata.org/wiki/Q18338652"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "Marine Corps Base Camp Smedley D. Butler",
+  "lon": 127.783,
+  "lat": 26.2974,
+  "source": "https://www.wikidata.org/wiki/Q6764078"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "Sagami General Depot",
+  "lon": 139.3778,
+  "lat": 35.5808,
+  "source": "https://www.wikidata.org/wiki/Q4022785"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "Torii Station",
+  "lon": 127.7367,
+  "lat": 26.3792,
+  "source": "https://www.wikidata.org/wiki/Q4391599"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "United States Fleet Activities Sasebo",
+  "lon": 129.711,
+  "lat": 33.1628,
+  "source": "https://www.wikidata.org/wiki/Q4420953"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "aéroport de Yokota",
+  "lon": 139.3486,
+  "lat": 35.7486,
+  "source": "https://www.wikidata.org/wiki/Q1806489"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "base aérienne militaire d'Atsugi",
+  "lon": 139.45,
+  "lat": 35.4547,
+  "source": "https://www.wikidata.org/wiki/Q3016710"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "base aérienne militaire de Marine Corps Air Station Futenma",
+  "lon": 127.7481,
+  "lat": 26.2708,
+  "source": "https://www.wikidata.org/wiki/Q1031547"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "base aérienne militaire de Misawa",
+  "lon": 141.3719,
+  "lat": 40.7053,
+  "source": "https://www.wikidata.org/wiki/Q1350451"
+ },
+ {
+  "operator": "US",
+  "host": "JP",
+  "name": "base navale de Yokosuka",
+  "lon": 139.671,
+  "lat": 35.2932,
+  "source": "https://www.wikidata.org/wiki/Q2886663"
+ },
+ {
+  "operator": "US",
+  "host": "KR",
+  "name": "Camp Carroll, South Korea",
+  "lon": 128.416,
+  "lat": 35.996,
+  "source": "https://www.wikidata.org/wiki/Q498272"
+ },
+ {
+  "operator": "US",
+  "host": "KR",
+  "name": "Kunsan Air Base",
+  "lon": 126.6158,
+  "lat": 35.9036,
+  "source": "https://www.wikidata.org/wiki/Q7966282"
+ },
+ {
+  "operator": "US",
+  "host": "KR",
+  "name": "Osan Air Base",
+  "lon": 127.0297,
+  "lat": 37.0906,
+  "source": "https://www.wikidata.org/wiki/Q492965"
+ },
+ {
+  "operator": "US",
+  "host": "LY",
+  "name": "Sidi Azeiz Airfield",
+  "lon": 24.9497,
+  "lat": 31.7469,
+  "source": "https://www.wikidata.org/wiki/Q16931363"
+ },
+ {
+  "operator": "US",
+  "host": "MA",
+  "name": "Ben Guerir Air Base",
+  "lon": -7.9108,
+  "lat": 32.1306,
+  "source": "https://www.wikidata.org/wiki/Q1656030"
+ },
+ {
+  "operator": "US",
+  "host": "MA",
+  "name": "Nouasseur Air Base",
+  "lon": -7.5833,
+  "lat": 33.3667,
+  "source": "https://www.wikidata.org/wiki/Q3344813"
+ },
+ {
+  "operator": "US",
+  "host": "MH",
+  "name": "Bucholz Army Airfield",
+  "lon": 167.7317,
+  "lat": 8.7201,
+  "source": "https://www.wikidata.org/wiki/Q3886454"
+ },
+ {
+  "operator": "US",
+  "host": "MH",
+  "name": "Freeflight International Airport",
+  "lon": 167.4709,
+  "lat": 9.3969,
+  "source": "https://www.wikidata.org/wiki/Q3087341"
+ },
+ {
+  "operator": "US",
+  "host": "MU",
+  "name": "Naval Support Facility Diego Garcia",
+  "lon": 72.4111,
+  "lat": -7.3133,
+  "source": "https://www.wikidata.org/wiki/Q11694190"
+ },
+ {
+  "operator": "US",
+  "host": "PA",
+  "name": "base aérienne Howard",
+  "lon": -79.5996,
+  "lat": 8.915,
+  "source": "https://www.wikidata.org/wiki/Q1298028"
+ },
+ {
+  "operator": "US",
+  "host": "PG",
+  "name": "aérodrome d'Emirau",
+  "lon": 149.975,
+  "lat": -1.6417,
+  "source": "https://www.wikidata.org/wiki/Q5372593"
+ },
+ {
+  "operator": "US",
+  "host": "PH",
+  "name": "Del Monte Airfield",
+  "lon": 124.8333,
+  "lat": 8.3616,
+  "source": "https://www.wikidata.org/wiki/Q5252937"
+ },
+ {
+  "operator": "US",
+  "host": "PH",
+  "name": "aérodrome de Nichols Field",
+  "lon": 121.0183,
+  "lat": 14.5094,
+  "source": "https://www.wikidata.org/wiki/Q11000001"
+ },
+ {
+  "operator": "US",
+  "host": "QA",
+  "name": "base aérienne Al Oudeid",
+  "lon": 51.315,
+  "lat": 25.1173,
+  "source": "https://www.wikidata.org/wiki/Q542588"
+ },
+ {
+  "operator": "US",
+  "host": "SA",
+  "name": "Base aérienne de Prince Sultan",
+  "lon": 47.5803,
+  "lat": 24.0625,
+  "source": "https://www.wikidata.org/wiki/Q4116941"
+ },
+ {
+  "operator": "US",
+  "host": "SY",
+  "name": "Camp Faouar",
+  "lon": 35.9027,
+  "lat": 33.2128,
+  "source": "https://www.wikidata.org/wiki/Q123128037"
+ },
+ {
+  "operator": "US",
+  "host": "TR",
+  "name": "Izmir Air Base",
+  "lon": 27.1705,
+  "lat": 38.4575,
+  "source": "https://www.wikidata.org/wiki/Q3156482"
+ },
+ {
+  "operator": "US",
+  "host": "TT",
+  "name": "Waller Air Force Base",
+  "lon": -61.2134,
+  "lat": 10.6136,
+  "source": "https://www.wikidata.org/wiki/Q7963043"
+ },
+ {
+  "operator": "US",
+  "host": "VU",
+  "name": "base navale d'Espiritu Santo",
+  "lon": 167.1772,
+  "lat": -15.5144,
+  "source": "https://www.wikidata.org/wiki/Q106611220"
+ },
+ {
+  "operator": "US",
+  "host": "XK",
+  "name": "Camp Monteith",
+  "lon": 21.48,
+  "lat": 42.465,
+  "source": "https://www.wikidata.org/wiki/Q5027425"
+ },
+ {
+  "operator": "US",
+  "host": "XK",
+  "name": "camp Bondsteel",
+  "lon": 21.25,
+  "lat": 42.3667,
+  "source": "https://www.wikidata.org/wiki/Q138525"
+ }
+]

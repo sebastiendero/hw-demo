@@ -1,0 +1,12 @@
+/* Rubrique « Paper Alpaca » (paper.js) : tout est sous .pp-view. */
+.pp-view .pp-body { display: grid; gap: 12px; margin-top: 12px; }
+.pp-view .pp-banner { margin-top: 12px; }
+.pp-view .pp-state { display: grid; gap: 8px; }
+.pp-view .pp-state-h { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; }
+.pp-view .pp-sym { display: inline-flex; flex-direction: column; gap: 1px; }
+.pp-view .pp-sym .muted, .pp-view .pp-exec .muted { font-size: 12px; }
+.pp-view .pp-exec { display: inline-flex; flex-direction: column; gap: 1px; }
+.pp-view .pp-note { color: var(--ink-2); font-size: 13px; overflow-wrap: anywhere; }
+.pp-view .pp-proxy { max-width: 220px; }
+.pp-view .pp-foot { margin: 0; padding: 8px 14px 12px; font-size: 12.5px; }
+.pp-view .nw { white-space: nowrap; }
