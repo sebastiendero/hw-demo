@@ -1,0 +1,16 @@
+/* Rubrique « Stratégies » (fichier à part pour ne pas gêner le travail de design sur app.css). */
+.strat-chart { height: 320px; margin: 10px 0 14px; }
+.strat-form { display: grid; grid-template-columns: 1fr; gap: 10px; max-width: 760px; }
+.strat-field { display: grid; grid-template-columns: 240px 1fr; gap: 10px; align-items: start; color: var(--text-2); }
+.strat-checks { display: flex; flex-wrap: wrap; gap: 6px 14px; }
+.strat-form .msg { color: var(--critical); min-height: 1em; }
+
+/* Vérification indépendante par nautilus_trader */
+.strat-check { margin: 6px 0 10px; display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+
+/* Recherche IA : carte des personnages d'ai-hedge-fund (web/aihf.js) */
+.aihf-card { margin-top: 16px; }
+.aihf-list { display: grid; gap: 2px; margin-top: 8px; }
+.aihf-row { display: grid; grid-template-columns: 1.4fr 1fr 2fr; gap: 10px; align-items: baseline; text-align: left;
+  background: none; border: 0; border-top: 1px solid var(--line); padding: 7px 2px; color: inherit; font: inherit; cursor: pointer; }
+.aihf-row:hover { background: var(--bg); }

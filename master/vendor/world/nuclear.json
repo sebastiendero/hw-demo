@@ -1,0 +1,128 @@
+[
+ {
+  "iso2": "US",
+  "warheads": 5042,
+  "warheads_stockpile": 3700,
+  "warheads_year": 2026,
+  "max_range_km": 13000,
+  "range_text": "13,000 km",
+  "delivery": "LGM-30G Minuteman III (ICBM)",
+  "sources": [
+   "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+   "https://www.sipri.org/sites/default/files/WNF%202026%20PR%20FRE.pdf",
+   "https://missilethreat.csis.org/missile/minuteman-iii/"
+  ]
+ },
+ {
+  "iso2": "RU",
+  "warheads": 5420,
+  "warheads_stockpile": 4400,
+  "warheads_year": 2026,
+  "max_range_km": 16000,
+  "range_text": "16,000 km (Mod 5)",
+  "delivery": "R-36M2 Voevoda / SS-18 (ICBM)",
+  "sources": [
+   "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+   "https://www.sipri.org/sites/default/files/WNF%202026%20PR%20FRE.pdf",
+   "https://missilethreat.csis.org/missile/ss-18/"
+  ]
+ },
+ {
+  "iso2": "GB",
+  "warheads": 225,
+  "warheads_stockpile": 225,
+  "warheads_year": 2026,
+  "max_range_km": 12000,
+  "range_text": "Maximum 12,000 km",
+  "delivery": "Trident II D5 (SLBM)",
+  "sources": [
+   "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+   "https://www.sipri.org/sites/default/files/WNF%202026%20PR%20FRE.pdf",
+   "https://missilethreat.csis.org/missile/trident/"
+  ]
+ },
+ {
+  "iso2": "FR",
+  "warheads": 370,
+  "warheads_stockpile": 290,
+  "warheads_year": 2026,
+  "max_range_km": 8000,
+  "range_text": "8,000 km",
+  "delivery": "M51 (SLBM)",
+  "sources": [
+   "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+   "https://www.sipri.org/sites/default/files/WNF%202026%20PR%20FRE.pdf",
+   "https://missilethreat.csis.org/missile/m51/"
+  ]
+ },
+ {
+  "iso2": "CN",
+  "warheads": 620,
+  "warheads_stockpile": 620,
+  "warheads_year": 2026,
+  "max_range_km": 15000,
+  "range_text": "12,000 – 15,000 km",
+  "delivery": "DF-41 (ICBM)",
+  "sources": [
+   "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+   "https://www.sipri.org/sites/default/files/WNF%202026%20PR%20FRE.pdf",
+   "https://missilethreat.csis.org/missile/df-41/"
+  ]
+ },
+ {
+  "iso2": "IN",
+  "warheads": 190,
+  "warheads_stockpile": 190,
+  "warheads_year": 2026,
+  "max_range_km": 8000,
+  "range_text": "5,000 – 8,000 km",
+  "delivery": "Agni-V (IRBM/ICBM)",
+  "sources": [
+   "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+   "https://www.sipri.org/sites/default/files/WNF%202026%20PR%20FRE.pdf",
+   "https://missilethreat.csis.org/missile/agni-5/"
+  ]
+ },
+ {
+  "iso2": "PK",
+  "warheads": 170,
+  "warheads_stockpile": 170,
+  "warheads_year": 2026,
+  "max_range_km": 2750,
+  "range_text": "2,750 km",
+  "delivery": "Shaheen-III (MRBM)",
+  "sources": [
+   "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+   "https://www.sipri.org/sites/default/files/WNF%202026%20PR%20FRE.pdf",
+   "https://missilethreat.csis.org/missile/shaheen-3/"
+  ]
+ },
+ {
+  "iso2": "KP",
+  "warheads": 60,
+  "warheads_stockpile": 60,
+  "warheads_year": 2026,
+  "max_range_km": 15000,
+  "range_text": "15,000 km",
+  "delivery": "Hwasong-17 / Hwasong-18 (ICBM)",
+  "sources": [
+   "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+   "https://www.sipri.org/sites/default/files/WNF%202026%20PR%20FRE.pdf",
+   "https://missilethreat.csis.org/missile/hwasong-18/"
+  ]
+ },
+ {
+  "iso2": "IL",
+  "warheads": 90,
+  "warheads_stockpile": 90,
+  "warheads_year": 2026,
+  "max_range_km": 6500,
+  "range_text": "4,800 – 6,500 km",
+  "delivery": "Jericho III (IRBM/ICBM)",
+  "sources": [
+   "https://www.sipri.org/media/press-release/2026/increasing-focus-nuclear-weapons-amid-heightened-escalation-risks-new-sipri-yearbook-out-now",
+   "https://www.sipri.org/sites/default/files/WNF%202026%20PR%20FRE.pdf",
+   "https://missilethreat.csis.org/missile/jericho-3/"
+  ]
+ }
+]
